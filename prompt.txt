@@ -1,0 +1,96 @@
+
+我想要读博，我目前是个拥有超过10年经验的程序员，这是我的简历。CAREER PROFILE
+With 10+ years of experience as a software algorithm development engineer, I specialize in C/C++/Python programming and image algorithm research, and have attained or applied for more than 10 patents. Had led a small team in end-to-end development of a visual image processing product from scratch, with functionalities covering user interface (control and monitoring), an AI inference platform, a PyTorch-based AI training platform, data collection/classification/augmentation, as well as collaboration with hardware teams on communication protocols, and joint imaging optimization efforts with optical teams. Additionally, conducted research on molecular dynamics projects on AI platforms under faculty guidance during graduate studies. Eager to continue pursuing excellence and contributing expertise in the field of AI algorithms and software development.
+
+EDUCATION
+The Hong Kong Polytechnic University                                                                                                            Hong Kong
+Master of Microelectronics Technology & Materials                                                                             Sep. 2024 – Oct.2025
+• GPA: 3.13/4.3
+• Course Project: Phase Transition Mechanism and Potential Function Adaptation of CsPbBr3 under a Cross-Platform Molecular Dynamics Simulation Framework
+
+Xi'an University of Technology                                                                                                                         Xi’an, China
+Bachelor of Microelectronics                                                                                                                Sep. 2009 – Jul. 2013
+• GPA: 3.64/5.0
+• Average Score: 81.18/100
+• Honours:  2nd Prize 8th Xi'an High-tech "Challenge Cup" Shaanxi Province University Student Extracurricular Academic Science and Technology Works Competition; 1st and 3rd Prize  University 19th Extracurricular Academic Science and Technology Works Competition; 1st Prize University 18th "LiAo Cup"; University Innovation Achievement 2nd Prize, University 3rd Prize Scholarship
+
+TECHNICAL SKILLS
+• Spoken Languages: Cantonese, Mandarin, English (Fluent; IELTS: 6.5), Japanese (N5)
+• Programming Languages: C, C++, Python, Java, Java Script, HTML, CSS, PHP
+• Platforms: (Local) Windows, Ubuntu; (Remote) Linux, HPC, Aliyun ECS etc.
+• Development Tools & Libraries: OpenCV, PyTorch, QT, Visual Studio, gdb/pdb, Git, Docker/Apptainer, Anaconda, Halcon, DeePMD, GPUMD, OpenMM, LAMMPS, OVITO
+• Other Skills: Keil (STM32), Altium Designer (PCB), Rhino (3D printing), Dreamweaver (Website)
+• Books: Computer Vision: Algorithms and Applications, Design Patterns: Elements of Reusable Object-Oriented Software
+• Patents: CN202311136494.1; CN202310973415.6; CN202310287581.0; CN202310051665.4;  CN202211602503.7;  CN202211474648.3;  CN202211357774.0;  CN202210994137.8;  CN202230264395.1;  CN201911330078.9;  CN201110120104; CN201110308514.X
+
+PROFESSIONAL EXPERIENCE
+SMARTMORE CORPORATION LIMITED                                                                                                 Shenzhen, China
+Software Engineer                                                                                                                                May 2020 – Sep. 2024
+AI-Driven Robotic Arm Project   
+Leader                                                                                                                                                  May 2024 – Sep. 2024                                                                          
+• Branch 1: Traditional Hand-Eye Calibration + Image Recognition
+• Implemented 3D scenarios: arbitrary object recognition and grasping, sketching based on verbal commands, and interactive stacking toys with users.
+• Integrated an Intel Realsense camera, a structured light 3D camera, a 7-axis robotic arm with a gripper, two servers for large-model deployment, and a PC for control and ASR-based voice input.
+• Deployed conversational and vision models to enable seamless interaction between visual, auditory, and motor systems.
+• Achieved high precision in object localization and vision-guided robotic operations.
+• Branch 2: Transformer-Based Action Prediction
+• Utilized a Transformer model to predict robotic arm actions by joint data, CNN features, and task descriptions.
+• Enabled real-time responses without hand-eye calibration, adapting to dynamic environments.
+• Tackled computational challenges and dataset requirements for effective training and deployment.
+“Wafer ID Reader” Integrated OCR Code Reader Product for Semiconductor Industry   
+Leader                                                                                                                                                  Oct. 2021 – Sep. 2024                                                                          
+• The first deep learning-based OCR wafer character recognition tool in the semiconductor industry. Convenient use and no need to adjust the recognition parameters compare to its competing products.
+• Collaborated with the algorithm team to devise strategies, conduct experiments, and select optimal algorithmic solutions.
+• Modified software and SDK interfaces and functionalities based on the product manager's research and user requirements.
+• Implemented end-to-end closed-loop process from requirement analysis to deployment, including evaluation, experimentation, algorithm/software/SDK development, testing, and deployment.
+• Same recognition rate level as that of industry leader Cognex products in normal cases, partially exceeds its recognition rate (100% versus 99.5%) in the case of fixed format recognition.
+BGI Genomics Reagent Bottle Inspection
+Collaborator                                                                                                                                          Oct. 2022 – Feb. 2023                                                                          
+• Designed algorithmic solutions and implemented the AI model into software for real-time monitoring of reagent bottle caps, ensuring seal integrity and smoothness during the manufacturing process.
+• Conducted Optical Character Recognition (OCR) for character detection on reagent bottle bodies, effectively identifying characters on various colored backgrounds of medication and detecting printing defects.
+Defect Detection System for SONY Labels                                                                                                             
+Second-hand Maintainer & Developer                                                                                                  Feb. 2023 – May 2023                                                                          
+• Conducted Proof of Concept (POC) using client samples to validate system performance.
+• By combining the template image and the image to be checked together to form a two-channel image, defects are marked and trained on this basis, the accuracy has been improved by 2%.
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology
+Designer & Developer                                                                                                                           May 2020 – May 2021
+• Trained character localization and classification models on a four-card 2080Ti server running Ubuntu, utilizing the MobileNet architecture.
+• Employed the ONNX Runtime (ORT) for model deployment, integrating a C++ SDK for inference on the server and developing a user-friendly software interface.
+• Collaborated with colleagues to align and optimize the SDK, including pre-processing and post-processing workflows.
+• Precision and recall were above 99.7% respectively.
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology
+Designer & Developer                                                                                                                           Oct. 2020 – Apr. 2020
+• Implemented the conversion of 3D point cloud data into 2D heatmaps for analysis purposes.
+• Designed and programmed the user interface for the software application.  
+
+SHENZHEN PHDI CORPORATION LIMITED                                                                                           Shenzhen, China
+Co-founder, CTO                                                                                                                                    Jul. 2016 - May 2020                                                                                 
+Android Software for A Car-Mounted Mobile Phone Controller
+Designer & Developer                                                                                                                           May 2017 – May 2020
+• Managed the schematic design, PCB layout optimization, final delivery for production, and functional validation; Programmed based on the TI CC2540 Bluetooth chip; Conducted 3D design and printing for the product's appearance.
+• Enabled rapid switching between navigation, music, and WeChat applications in a car environment.
+• Implemented automatic sending and receiving of WeChat messages.
+• Integrated features for one-touch activation of voice navigation and song search.
+• Designed and developed a comprehensive product including a mobile application and a Bluetooth controller.
+Face Recognition and Tracking Software on The Android Platform
+Designer                                                                                                                                                 Jul. 2016 – May 2017
+• Utilized OpenCV, Caffe, Idlib, and VGG net deep learning neural network for face localization and gender recognition.
+• Integrated BP neural network for gender recognition within the face detection algorithm.
+• Applied the developed algorithm in systems for estimating the attention of different gender groups towards billboards and for access control systems, resulting in the acquisition of a patent.
+• Adapted the algorithm for integration with security cameras to track familiar/strange faces indoors, aiding in the detection of potential security threats.
+• Successfully delivered the developed solution to a renowned domestic security camera company.
+
+OPT MACHINE VISION TECH CO., LTD.                                                                                              Guangdong, China
+Image processing algorithm engineer                                                                                                    Apr. 2014 – Jul. 2016                                                                                 
+One-Dimensional Barcode Localization and Recognition Algorithm 
+Designer                                                                                                                                                 Apr. 2014 – Jul. 2016
+• Achieved automatic localization of barcodes in approximately 10ms on a PC equipped with an i3 processor, capable of identifying barcodes in complex images of up to 2 million pixels.
+Two-Dimensional Barcode Localization and Recognition Algorithm 
+Designer                                                                                                                                                 Jan. 2015 – Jul. 2016
+• Implemented functionality to locate and recognize QRCode, DataMatrix, and other two-dimensional barcodes.
+• Utilized Google's open-source libraries ZXing/Zbar and made necessary modifications for enhanced performance
+Rapid Edge And Circle Detection Algorithm
+Designer                                                                                                                                                 Jan. 2015 – Jul. 2016
+• Utilized non-Hough fitting method to swiftly fit specified parameters of lines and circles in designated directions, implementing the algorithm to effectively recognize lines and circles in blurry edge images of up to 2 million pixels.
+• Achieved real-time identification within 10ms on a PC with an i3 processor and 8GB of memory.
+现在，我想要转战到分子生物学、细胞生物学领域。我想通过digit twin的方式，或者全细胞模拟，利用我的计算机方面知识，准确计算和模拟出人体的状态，并通过数字孪生，准确知道人体现在的情况，要用什么药，剂量如何等等
