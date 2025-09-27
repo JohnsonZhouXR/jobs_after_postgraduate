@@ -27,3 +27,14 @@ Father of BCI before Miguel Nicolelis: Jacques Vidal scholar
 EEG data base: https://www.kaggle.com/code/ardor924/baseline13-5-eegnetv4-hybrid-black
 
 Remember to kaggle search EEG !!!
+
+EEG network: https://github.com/krishk97/ECE-C247-EEG-GAN
+
+MNE tools: https://github.com/mne-tools/.github/blob/main/CODE_OF_CONDUCT.md
+https://mne.tools/stable/documentation/index.html
+
+hugging face: https://huggingface.co/papers/trending
+
+Competitions: https://www.bbci.de/competition/
+
+BCI 2000: https://www.bci2000.org/mediawiki/index.php/Main_Page
