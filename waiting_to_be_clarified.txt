@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/Wave_vector
+related search: 机械波函数
+
+https://en.wikipedia.org/wiki/Density_of_states
+
+google it: CMOS 小信号
+related blog: https://blog.csdn.net/ITAOTAOI8II/article/details/121340889
+
+CNN/RNN/Transformer: https://zhuanlan.zhihu.com/p/615000678
