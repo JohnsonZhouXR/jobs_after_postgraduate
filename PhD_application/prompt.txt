@@ -93,4 +93,4 @@ Rapid Edge And Circle Detection Algorithm
 Designer                                                                                                                                                 Jan. 2015 – Jul. 2016
 • Utilized non-Hough fitting method to swiftly fit specified parameters of lines and circles in designated directions, implementing the algorithm to effectively recognize lines and circles in blurry edge images of up to 2 million pixels.
 • Achieved real-time identification within 10ms on a PC with an i3 processor and 8GB of memory.
-现在，我想要转战到分子生物学、细胞生物学领域。我想通过digit twin的方式，或者全细胞模拟，利用我的计算机方面知识，准确计算和模拟出人体的状态，并通过数字孪生，准确知道人体现在的情况，要用什么药，剂量如何等等
+现在，我想要转战到分子生物学、细胞生物学领域。我想通过digit twin的方式，或者全细胞模拟，利用我的计算机方面知识，准确计算和模拟出人体的状态，并通过数字孪生，准确知道人体现在的情况，要用什么药，剂量如何等等，以此帮助人们活得更久，生活质量更高。我想知道第一、是否有可能，这是否最佳路径？第二、如果读博，有哪些最好的团队，他们正在做什么？已经做成功了什么？
