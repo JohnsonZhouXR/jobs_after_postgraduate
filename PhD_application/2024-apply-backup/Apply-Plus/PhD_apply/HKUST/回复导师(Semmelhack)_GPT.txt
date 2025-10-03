@@ -1,0 +1,44 @@
+其中一个教授是这样回复的，我很想加入她的团队，但是我有一些自己的想法。
+“
+Dear Xiangru, 
+Thanks for your interest in my lab. I'm always looking for engineers with an interest in Neuroscience. Can you tell me a bit about what you would like to do in your PhD, e.g. what kind of questions do you want to ask, or what skills/knowledge do you want to gain? 
+
+Best, 
+Julie
+
+Julie Semmelhack
+Assistant Professor
+Hong Kong University of Science and Technology
+Division of Life Science
+Clear Water Bay, Hong Kong
+”
+
+我的想法是这样的：
+“
+首先在PhD前期弄清楚BCI的非侵入式技术中的信号处理，如EEG、ECoG、MEG、fMRI。以及侵入式技术，如皮层内微电极、DBS等。
+然后在前期和中期开始一些试验，我之前已经对OpenBCI库有一些了解，希望采购一些设备（不超过1万港币），并采集人的大脑信号进行分析，我注意到目前很多实验采集的EEG信号用于分析，但很少有给大脑反馈。因此我想改进OpenBCI的非侵入式电极（佩戴在头顶的若干电极），使其可以产生温度变化，从而通过皮肤感受，给大脑反馈信号。如果这个想法没有重大缺陷，我希望从简单的任务开始做起，比如控制开关、控制机械手开合等1bit的任务，其中会类似于神经网络的分类任务（类似我曾做过人脸性别识别，输出就是1bit的结果-男或女）。
+接着基于1bit任务的经验，将输出逐步增加，比如增加到8bit，去适应稍微复杂的任务。比如控制机械臂（轴数一开始可以不用太多）。
+更进一步地探索非侵入式技术信号可以处理哪些任务，电极需要如何优化，如果非侵入式技术的信号处理极限难以突破，那么基于前面的实验，我希望向侵入式技术探索。
+在向侵入式技术探索的过程中，我需要学习如何与外科医生合作，如何保证基础的卫生和安全问题。
+最后，学习到如何在利用人工智能和Computer Science技术下，更好地发掘和分析大脑信号，并进一步反馈给大脑，进一步理解神经科学，以及如何将它与计算机科学联系在一起，为BCI领域贡献自己的一份力量。
+我将我的Research Proposal也添加到了附件当中，如果教授愿意，可以提供给您审查和指导。
+”
+
+请将我的想法翻译成英文和润色，使得阅读起来逻辑通顺，使人舒服。
+
+
+
+
+During the early phase of my PhD, I aim to deepen my understanding of signal processing techniques in Brain-Computer Interface (BCI) technologies. This includes exploring non-invasive methods such as EEG, ECoG, MEG, and fMRI, as well as invasive techniques like intracortical microelectrodes and Deep Brain Stimulation (DBS).
+
+Building on this foundational knowledge, I plan to initiate experimental work in the early to mid-stages of my PhD. I have some prior familiarity with the OpenBCI library, and I propose acquiring equipment (with a budget not exceeding 10,000 HKD) to collect human brain signals for analysis. I have noticed that while many studies focus on analyzing EEG signals, relatively few explore providing feedback to the brain. To address this, I am considering improving OpenBCI’s non-invasive electrodes (typically worn on the scalp) to enable them to generate temperature variations. This feedback mechanism, sensed through the skin, could deliver signals back to the brain.
+
+If this idea proves viable, I would like to start with simple tasks, such as controlling a switch or opening and closing a robotic gripper—essentially, 1-bit tasks. These tasks resemble neural network classification problems, akin to a project I previously worked on where I classified facial gender into binary outputs (male or female).
+
+Based on the experience gained from 1-bit tasks, I would gradually increase the complexity of the outputs, progressing to 8-bit tasks for slightly more sophisticated objectives, such as controlling a robotic arm (initially with a limited number of axes).
+
+Through this process, I aim to explore the capabilities and limitations of non-invasive technologies for signal processing and identify potential electrode optimizations. If the signal processing limitations of non-invasive methods become a significant bottleneck, I would consider transitioning to experiments involving invasive techniques.
+
+In this phase, I would focus on learning how to collaborate effectively with surgeons and address basic hygiene and safety requirements to ensure ethical and responsible experimentation.
+
+Ultimately, my goal is to leverage artificial intelligence and computer science techniques to better interpret and analyze brain signals while also developing innovative feedback mechanisms for the brain. By bridging neuroscience with computational methods, I hope to contribute to advancing BCI technologies and expanding our understanding of brain functionality.

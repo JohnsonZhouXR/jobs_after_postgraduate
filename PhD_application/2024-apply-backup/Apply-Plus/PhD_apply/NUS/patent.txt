@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------------------------------
+
+帮我编译下面这些标题和名字成为英文，中文名字按名在前，姓在后翻译，类似"周相如"就翻译成"ZHOU XIANGRU"。格式保持一致。
+“
+CN117952862A	2024100355178	光学成像处理方法、光学成像设备、装置、设备及介质	2024.04.30	周相如;陈欣赏;廖嘉城;黄子晨;李睿宇;沈小勇;吕江波
+CN117315569A	2023111364941	产品和包装检测方法、装置、计算机设备及可读存储介质	2023.12.29	周相如;曲柏岩;李睿宇;沈小勇;吕江波
+CN116152809A	2023100516654	设备控制方法、系统、计算机设备和存储介质	2023.05.23	周相如;赵善民;陈欣赏;廖嘉城;李睿宇;吕江波;沈小勇
+CN115909306A	2022113577740	一种确定打光方案的方法和装置	2023.04.04	周相如;孙宇君;赵善民;陈欣赏;陈永冠;李睿宇;吕江波;沈小勇
+CN115620299A	2022116025037	图像识别方法、装置、计算机设备和存储介质	2023.01.17	周相如;李睿宇;吕江波;沈小勇
+CN115376136A	2022109941378	一种字符识别方法、装置、设备及存储介质	2022.11.22	周相如;孙宇君;李睿宇;吕江波;沈小勇
+CN111078075A	2019113300789	按键显示操作方法、装置及手机控制系统	2020.04.28	周相如
+CN102509070A	201110308514X	一种基于视频的关注广告人数统计的人脸区域跟踪方法	2012.06.20	朱虹;周相如;张晨;张晓蕾;程松
+CN102194106A	2011101201042	一种用于门禁系统中的人脸识别方法	2011.09.21	朱虹;程松;赵朝杰;周相如;张晓蕾;张晨;刘帅;王铎
+CN116704513A	2023109734156	文本质量检测方法、装置、计算机设备和存储介质	2023.09.05	赵善民;周相如;廖嘉城;李睿宇;沈小勇;吕江波
+CN115909311A	2022114746483	车牌字符的识别方法、装置、电子设备及存储介质	2023.04.04	赵善民;周相如;李睿宇;吕江波;沈小勇
+CN116030466A	2023102875810	图像文本信息识别与处理方法、装置及计算机设备	2023.04.28	廖嘉城;周相如;赵善民;李睿宇;沈小勇;吕江波
+”
+
+----------------------------------------------------------------------------------------------------------------------------
+Published Invention Patent
+----------------------------------------------------------------------------------------------------------------------------
+
+CN117952862A   Optical imaging processing method, optical imaging equipment, apparatus, device, and medium   2024.04.30   ZHOU XIANGRU; Chen Xinshang; Liao Jiacheng; Huang Zichen; Li Ruiyu; Shen Xiaoyong; Lu Jiangbo  
+CN117315569A   Product and packaging inspection method, apparatus, computer equipment, and readable storage medium   2023.12.29   ZHOU XIANGRU; Qu Baiyan; Li Ruiyu; Shen Xiaoyong; Lu Jiangbo  
+CN116152809A   Device control method, system, computer equipment, and storage medium   2023.05.23   ZHOU XIANGRU; Zhao Shanmin; Chen Xinshang; Liao Jiacheng; Li Ruiyu; Lu Jiangbo; Shen Xiaoyong  
+CN115909306A   Method and apparatus for determining lighting schemes   2023.04.04   ZHOU XIANGRU; Sun Yujun; Zhao Shanmin; Chen Xinshang; Chen Yongguan; Li Ruiyu; Lu Jiangbo; Shen Xiaoyong  
+CN115620299A   Image recognition method, apparatus, computer equipment, and storage medium   2023.01.17   ZHOU XIANGRU; Li Ruiyu; Lu Jiangbo; Shen Xiaoyong  
+CN115376136A   Character recognition method, apparatus, device, and storage medium   2022.11.22   ZHOU XIANGRU; Sun Yujun; Li Ruiyu; Lu Jiangbo; Shen Xiaoyong  
+CN111078075A   Key display operation method, apparatus, and mobile phone control system   2020.04.28   ZHOU XIANGRU  
+CN102509070A   Face region tracking method for counting the number of viewers of video-based advertisements   2012.06.20   Zhu Hong; ZHOU XIANGRU; Zhang Chen; Zhang Xiaolei; Cheng Song  
+CN102194106A   Face recognition method for access control systems   2011.09.21   Zhu Hong; Cheng Song; Zhao Chaojie; ZHOU XIANGRU; Zhang Xiaolei; Zhang Chen; Liu Shuai; Wang Duo  
+CN116704513A   Text quality inspection method, apparatus, computer equipment, and storage medium   2023.09.05   Zhao Shanmin; ZHOU XIANGRU; Liao Jiacheng; Li Ruiyu; Shen Xiaoyong; Lu Jiangbo  
+CN115909311A   License plate character recognition method, apparatus, electronic equipment, and storage medium   2023.04.04   Zhao Shanmin; ZHOU XIANGRU; Li Ruiyu; Lu Jiangbo; Shen Xiaoyong  
+CN116030466A   Image text information recognition and processing method, apparatus, and computer equipment   2023.04.28   Liao Jiacheng; ZHOU XIANGRU; Zhao Shanmin; Li Ruiyu; Shen Xiaoyong; Lu Jiangbo  

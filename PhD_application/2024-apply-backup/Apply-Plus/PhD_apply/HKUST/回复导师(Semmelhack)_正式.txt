@@ -1,0 +1,26 @@
+Dear Prof. Semmelhack,
+
+Thank you for your kind response and for the opportunity to elaborate on my research interests and aspirations for a PhD. I am deeply motivated to contribute to the field of Brain-Computer Interfaces (BCI), and I would like to outline my thoughts and plans below.
+
+In the early stages of my PhD, I aim to gain a solid understanding of signal processing techniques in both non-invasive and invasive BCI technologies. Specifically, I would like to explore non-invasive methods such as EEG, ECoG, MEG, and fMRI, as well as invasive approaches like intracortical microelectrodes and Deep Brain Stimulation (DBS).
+
+Building on this foundation, I plan to conduct experiments in the early to mid-phases of my PhD. Having some prior familiarity with the OpenBCI library, I propose acquiring equipment (within a budget of 10,000 HKD) to collect human brain signals for analysis. One observation I have made is that while many current studies focus on analyzing EEG signals, relatively few explore providing meaningful feedback to the brain. To address this, I propose improving OpenBCI’s non-invasive electrodes—typically worn on the scalp—to enable them to generate temperature changes. These changes could provide feedback to the brain through skin sensations, potentially enabling a novel form of closed-loop interaction.
+
+If this concept proves viable, I would begin with simple tasks, such as controlling a switch or a robotic gripper—essentially 1-bit tasks. These would resemble classification problems in neural networks, similar to a project I worked on where I classified facial gender into binary outputs (male or female).
+
+Building on the insights from these 1-bit tasks, I would gradually increase the complexity of the outputs, progressing to 8-bit tasks to address moderately complex objectives, such as controlling a robotic arm (initially with fewer degrees of freedom).
+
+This progression would allow me to explore the capabilities and limitations of non-invasive technologies, identify ways to optimize electrode designs, and determine the extent to which non-invasive techniques can support practical applications. If significant limitations arise, I would transition to exploring invasive technologies based on the groundwork laid in earlier experiments.
+
+In this advanced phase, I would aim to learn how to collaborate effectively with surgeons to ensure ethical, hygienic, and safe experimental practices.
+
+Ultimately, my goal is to integrate artificial intelligence and computer science techniques to better interpret and analyze brain signals while developing innovative feedback mechanisms for the brain. Through this work, I hope to deepen our understanding of the brain and contribute to advancing neuroscience and BCI technologies.
+
+I have also attached my research proposal for your review. If you are willing, I would greatly appreciate any feedback or guidance you might have.
+
+Thank you again for considering my application. I am eager to further discuss how my background and aspirations align with your lab’s research focus.
+
+Best regards,
+
+Xiangru Zhou
+The Hong Kong Polytechnic University

@@ -1,0 +1,12 @@
+https://www.hku.hk/prospective-students/	介绍
+在注册页里统一选专业的
+
+https://extranet.hku.hk/rola/servlet/AfterPaymentScreen/portal?org.apache.catalina.filters.CSRF_NONCE=2D464536D0342CA4AAAB4A44AC8218F6 登陆
+
+https://www.engineering.hku.hk/bmeengg/people-faculty/ 教授名单
+
+https://www.engineering.hku.hk/bmeengg/staff-members/shiming-zhang-2/
+
+https://web.edu.hku.hk/f/event/52246/JPJ%20-%2020241029.pdf
+https://i.cs.hku.hk/fyp/2019/fyp19049/		BME部门
+https://www.engineering.hku.hk/bmeengg/introduction/

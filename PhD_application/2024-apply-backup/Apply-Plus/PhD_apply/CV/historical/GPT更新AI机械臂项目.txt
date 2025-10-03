@@ -1,0 +1,27 @@
+我现在需要更新我的CV，模仿下面这些例子新增我的工作内容（注意，下面这个只是我以前做过的项目，只需要模仿它的格式就可以，不需要照搬内容，更不要杜撰内容）。使用英文来生成，并给出对应的中文翻译。
+
+例子1：
+Wafer ID Reader Wafer OCR Code Reader Integrated Machine Project  
+• The first deep learning-based OCR wafer character recognition tool in the semiconductor industry. Convenient use and no need to adjust the recognition parameters compare to its competing products.
+• Collaborated with the algorithm team to devise strategies, conduct experiments, and select optimal algorithmic solutions.
+• Modified software and SDK interfaces and functionalities based on the product manager's research and user requirements.
+• Implemented end-to-end closed-loop process from requirement analysis to deployment, including evaluation, experimentation, algorithm/software/SDK development, testing, and deployment.
+• Same recognition rate level as that of industry leader Cognex products in normal cases, partially exceeds its recognition rate (100% versus 99.5%) in the case of fixed format recognition.
+
+例子2：
+Android Software for A Car-Mounted Mobile Phone Controller
+• Managed PCB production designed Bluetooth chip-related programs and conducted 3D design and printing for the product's appearance.
+• Enabled rapid switching between navigation, music, and WeChat applications in a car environment.
+• Implemented automatic sending and receiving of WeChat messages.
+• Integrated features for one-touch activation of voice navigation and song search.
+• Designed and developed a comprehensive product including a mobile application and a Bluetooth controller.
+
+例子3：
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology
+• Trained character localization and classification models on a four-card 2080Ti server running Ubuntu, utilizing the MobileNet architecture.
+• Employed the ONNX Runtime (ORT) for model deployment, integrating a C++ SDK for inference on the server and developing a user-friendly software interface.
+• Collaborated with colleagues to align and optimize the SDK, including pre-processing and post-processing workflows.
+• Precision and recall were above 99.7% respectively.
+
+实际需要新增的内容：
+我近期做了一个AI驱动机械臂的项目，这个项目有两条分支，一条是利用传统的手眼标定+图像识别技术来实现了三个展示例子，硬件上，使用了1个Intel Realsense相机，外加另一个结构光3D相机，加一条7轴的机械臂和夹爪，还有两台服务器分别用于部署离线大模型，机械臂通过一台PC发送指令来控制，同时PC连接了一套麦克风用于语音输入（调用的是在线付费的ASR语音识别库），两台服务器分别部署了用于和客户日常聊天的大模型（包括介绍自己能做些什么）和用于识别万物的视觉大模型，PC除了控制机械臂和与用户语音互动外还可以定位各种物品，在手眼标定后对机械臂进行视觉引导等。上面提 到的这三个展示例子分别是万物识别抓取、口头描述驱动机械臂画任意简笔画、和用户叠罗汉。另一条分支则是参考了斯坦福大学的ALOHA开源项目，通过Transformer直接将机械臂的关节信息和当前帧信息（通过CNN提取特征）以及作用描述作为输入，输出机械臂的后续若干帧动作。使得机械臂在训练中即可以联系动作、视觉以及指令，同时由于逐帧推理，不仅无须手眼标定，还可以在行动中及时对新的情况作出发应，但这种方法需要比较大的运算量，同时需要大量的数据样本作为训练。

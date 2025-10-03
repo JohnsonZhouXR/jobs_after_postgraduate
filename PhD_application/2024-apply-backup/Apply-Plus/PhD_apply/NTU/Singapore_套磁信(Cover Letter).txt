@@ -1,0 +1,28 @@
+标题：
+Exploring PhD Opportunities in Biomedical Engineering – AI Engineer with 10 Years of Experience
+
+内容：
+Dear Prof. xxx,
+
+I hope this email finds you well.
+
+My name is Xiangru Zhou, and I am writing to express my keen interest in joining your PhD program in Biomedical Engineering at NUS.  I am highly impressed by your research and would be honored to contribute to your team.
+
+I am currently a Master’s student in Microelectronics at The Hong Kong Polytechnic University.  Prior to this, I accumulated 10 years of professional experience, focusing initially on image processing algorithms and later specializing in AI-powered image recognition.  My roles have included serving as an Algorithm Engineer at OPT (a publicly listed company) and an R&D Leader at SmartMore (a leading AI enterprise in mainland China and Hong Kong).
+
+My expertise lies in software development, technology implementation, and optimization.  Over the years, I have applied for or been granted more than ten invention patents.  In addition to my programming and AI skills, I have experience designing integrated Bluetooth communication devices, creating circuit diagrams, producing 3D models for printing, and developing multi-axis robotic arms powered by AI.
+
+To pivot towards Brain-Computer Interface (BCI) technologies, I have recently reorganized my technical skill set after studying commercial products such as cochlear implants and the OpenBCI project.  Building on my experience in image processing, software development (primarily in C++ and Python), and AI application deployment, I am expanding my knowledge in nanomaterials (currently in college) and biology (in my future PhD studies and beyond).  While I plan to focus on software development and data processing, I believe that processing brain signals—converting them into electrical or digital signals, constructing large databases, and using AI to discover patterns and applications—will be a crucial aspect of advancing BCI technologies.  While my approach may evolve, I am confident that computational and AI tools will play a central role, and I am also eager to engage with other related technologies within this field.
+
+I have a strong international background, shaped by my experience living and working in culturally diverse regions. Having worked in Shenzhen, China, for over 8 years—including 4 years as an entrepreneur leading R&D initiatives in advanced AI technologies—and contributing to projects in both mainland China and Hong Kong, I also had the opportunity to work briefly in Japan, further broadening my global perspective. These experiences have equipped me to advance BCI and smart medical technologies on a global scale. My proficiency in Cantonese, Mandarin, and English, as well as basic Japanese, positions me to effectively collaborate in international and multicultural environments, which I believe aligns with the global outlook of your research team.
+
+I believe my technical expertise, professional background, and regional dedication make me a valuable candidate for your team.  I would greatly appreciate the opportunity to discuss how my skills align with your research interests and team objectives.
+
+Attached to this email is my CV, which provides a detailed overview of my academic and professional background.  I would be happy to provide additional information or answer any questions you might have.
+
+Thank you for considering my inquiry.  I look forward to the possibility of further communication.
+
+Best regards,
+
+Xiangru Zhou
+The Hong Kong Polytechnic University

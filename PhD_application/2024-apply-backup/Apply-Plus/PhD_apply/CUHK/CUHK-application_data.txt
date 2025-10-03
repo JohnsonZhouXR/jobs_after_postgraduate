@@ -1,0 +1,88 @@
+Male
+
+C.C. Code on HKID, if any: 0719 4161 1172
+
+HKID Card Number: F601647(9)
+
+Do you have a right of abode in Hong Kong?
+No
+
+Do you have to apply for a student visa or entry permit issued by the Director of Immigration of HKSAR Government for entering Hong Kong for the purpose of education?
+Yes
+
+Registered Place of Household (for Mainland applicants only):  
+GuangDong
+
+Correspondence Address (國內地址請用中文填寫):
+China
+广东省广州市南沙区晴海岸12栋2205
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Major / Minor Subject: Microelectronics Technology & Materials
+
+Cert. / Dip. / Degree: Master's degree not by research
+
+Degree Title: Master of Science
+
+Location of study: HKSAR
+
+
+Major / Minor Subject: Microelectronics
+
+Cert. / Dip. / Degree: Bachelor's degree
+
+Degree Title: Bachelor of Engineering
+
+Location of study: Xi'an, Shaanxi Province, China
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+IELTS
+Date of Test: 13 MAR 2024
+Test Report Form No.: 23CN137676ZHOX002A
+Writing:6.0    Listening:6.0    Speaking:7.0    Reading:6.5
+Overall Band Score: 6.5
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+SmartMore Corporation Limited
+Shenzhen, Guangdong, China.
+Team Leader
+Since 05/2020 (currently employed)
+
+Software Engineer, C++ & python coder and total solution provider. Leader of a team of four.
+Key Projects:
+AI-driven robotic arm
+Wafer ID Reader Wafer OCR Code Reader Integrated Machine Project
+Defect Detection System for SONY Labels
+BGI Genomics Reagent Bottle Testing
+OCR System for Arbitrary Orientation Tags
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology
+
+===================================================================================
+
+Shenzhen PHDI Corporation Limited
+Shenzhen, Guangdong, China.
+Co-founder, CTO
+07/2016 - 05/2020
+
+Key Projects:
+Android Software for A Car-Mounted Mobile Phone Controller
+Voice Training and Recognition Program Based on The Kaldi Framework
+Android Platform Character Recognition OCR Software
+Face Recognition and Tracking Software on The Android Platform
+
+===================================================================================
+
+OPT Machine Vision Tech Co., Ltd.
+Dongguan, Guangdong, China.
+Image-processing Algorithm Engineer
+04/2014 - 07/2016
+
+Image processing algorithm engineer
+Key Projects:
+One-Dimensional Barcode Localization and Recognition Algorithm
+Two-Dimensional Barcode Localization and Recognition Algorithm
+Rapid Edge And Circle Detection Algorithm

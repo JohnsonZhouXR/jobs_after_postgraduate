@@ -1,0 +1,42 @@
+SmartMore Corporation Limited
+Shenzhen, Guangdong, China.
+Team Leader
+05/2020 - 09/2024
+Since 05/2020 (currently employed)
+
+Software Engineer, C++ & python coder and total solution provider. Leader of a team of four.
+Key Projects:
+AI-driven robotic arm
+Wafer ID Reader Wafer OCR Code Reader Integrated Machine Project
+Defect Detection System for SONY Labels
+BGI Genomics Reagent Bottle Testing
+OCR System for Arbitrary Orientation Tags
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology
+
+===================================================================================
+
+Shenzhen PHDI Corporation Limited
+Shenzhen, Guangdong, China.
+Co-founder, CTO
+07/2016 - 05/2020
+
+Co-founder, CTO
+Key Projects:
+Android Software for A Car-Mounted Mobile Phone Controller
+Voice Training and Recognition Program Based on The Kaldi Framework
+Android Platform Character Recognition OCR Software
+Face Recognition and Tracking Software on The Android Platform
+
+===================================================================================
+
+OPT Machine Vision Tech Co., Ltd.
+Dongguan, Guangdong, China.
+Image-processing Algorithm Engineer
+04/2014 - 07/2016
+
+Image processing algorithm engineer
+Key Projects:
+One-Dimensional Barcode Localization and Recognition Algorithm
+Two-Dimensional Barcode Localization and Recognition Algorithm
+Rapid Edge And Circle Detection Algorithm

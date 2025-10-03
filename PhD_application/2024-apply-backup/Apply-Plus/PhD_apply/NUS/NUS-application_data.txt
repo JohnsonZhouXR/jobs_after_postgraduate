@@ -1,0 +1,104 @@
+Brain Computer Interface
+
+Male
+
+周相如
+
+31 / 07 /1990
+
+Chinese National ID: 450881199007318019
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Room 2205, Building 12, Qinghaian Garden,
+Nansha Street, Nansha District, 
+Guangzhou, Guangdong, China 511458.
+
+--------------------------------------------------------
+
+JohnsonZhouXR@outlook.com	JohnsonZhouXR@gmail.com
+
++86-18502091962	+852-64820616
+
+Qinghaian Garden, Nansha Street, Nansha District
+
+Guangzhou
+
+Guangdong
+
+511458
+
+--------------------------------------------------------
+Next of Kin
+
+ZHOU	Hengguang
++86-13977558903
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Hong Kong Polytechnic University
+Faculty of Science
+Department of Applied Physics
+Major subject:*	Microelectronics Technology & Materials
+Start date of attendance:*	09 / 2024
+Year(s) of study completed:*	1
+Expected date of award:*	01	/	07	/	2025
+Is English the language of instruction of the awarding institution?* Yes
+The qualification is obtained by:*	Coursework
+Major / Minor Subject: Microelectronics Technology & Materials
+Cert. / Dip. / Degree: Master's degree not by research
+Degree Title: Master of Science
+Location of study: HKSAR
+
+Xi'an University of Technology
+Faculty of Automation and Information Engineering
+Major subject:*	Microelectronics
+Start date of attendance:*	09 / 2009
+Year(s) of study completed:*	4
+Expected date of award:*	01	/	07	/	2013
+Is English the language of instruction of the awarding institution?* No
+The qualification is obtained by:*	Coursework
+Major / Minor Subject: Microelectronics
+Cert. / Dip. / Degree: Bachelor's degree
+Degree Title: Bachelor of Engineering
+Location of study: Xi'an, Shaanxi Province, China
+
+------------------------------------------------------------------
+
+Scholarship of Xi'an University of Technology
+
+2011-2012 academic year Third Prize scholarship
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Leader of a team of four, C++ & python coder and total solution provider. 
+Key Projects:
+AI-driven robotic arm
+"Wafer ID Reader" Integrated Machine Project
+Defect Detection System for SONY Labels
+BGI Genomics Reagent Bottle Testing
+OCR System for Apple Watch Bands
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+International English Language Testing System (IELTS) (Academic Module) (taken within 2 years)
+03 / 2024	6.5
+
+IELTS
+Date of Test: 13 MAR 2024
+Test Report Form No.: 23CN137676ZHOX002A
+Writing:6.0    Listening:6.0    Speaking:7.0    Reading:6.5
+Overall Band Score: 6.5
+
+-------------------------------------------------------------------
+AI-driven robotic arm
+硬件上使用了2D+3D相机和一条七轴的机械臂；
+算法上提供了两种操控模式：一是AI进行视觉识别和对机械臂的视觉引导；另一种 是完全通过transformer AI模型，将视频帧和机械臂各个关节数据以及任务prompt作为输入，预测来几帧的机械臂动作，以实现更高级的实时响应的柔性动作。
+
+"Wafer ID Reader" - Wafer OCR Code Reader Integrated Machine
+The first deep learning-based OCR wafer character recognition tool in the semiconductor industry. Convenient use and no need to adjust the recognition parameters compare to its competing products.
+Within just six months of its launch, it captured a 5% market share in mainland China.
+
+Patterns
+CN202311136494.1; CN202310973415.6; CN202310287581.0; CN202310051665.4;  CN202211602503.7;  CN202211474648.3;  CN202211357774.0;  CN202210994137.8;  CN202230264395.1;  CN201911330078.9;  CN201110120104; CN201110308514.X

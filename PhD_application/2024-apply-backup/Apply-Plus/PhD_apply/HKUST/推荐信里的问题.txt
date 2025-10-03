@@ -1,0 +1,33 @@
+22F, Building T2, Qianhai Kerry Center, 
+Nanshan street, Nanshan District, 
+Shenzhen City, Guangdong Province, China.
+
+0086	0755	13058014285
+
+(1)	How long and in what capacity have you known the applicant?
+I have known the applicant for 5 years. I'm his supervisor at SmartMore in Shenzhen.
+
+(2)	How many students are there in your comparison group?
+About 20.
+
+(3)	Please provide additional information here (or upload a reference letter in Section F) which may include:
+- the applicant’s research ability and potential
+- the applicant’s motivation towards and suitability for a career in the chosen field of study
+- the applicant’s experience and skills in other aspects that are relevant to the HKPFS application
+- the most outstanding characteristics of the applicant
+- any other remarks that may be of assistance in assessing this application
+
+*please provide information which aligns with the ratings provided in Section C.
+
+=================================================================================================
+It is with great enthusiasm that I write to recommend Xiangru Zhou for any future opportunities that align with his expertise and career aspirations. As his supervisor at SmartMore in Shenzhen, where he has been employed as a Software Engineer since May 2020, I have had the privilege of witnessing first-hand his professional growth, technical proficiency, and unwavering dedication to innovation.
+Xiangru has played a pivotal role in our team, notably as the Technical Lead for the groundbreaking Wafer ID Reader project. This initiative marked a significant milestone in semiconductor manufacturing by being the first to employ deep learning for character recognition on wafers globally. Under his leadership, the project not only surpassed traditional vision algorithms in ease of use, adaptability, and robustness but also swiftly captured a 5% market share in China within just six months of launch. This achievement is a testament to Xiangru's exceptional leadership, innovative thinking, and technical capabilities.
+Throughout the development process, Xiangru faced numerous challenges, including diverging opinions and prolonged periods of development, which can often be disheartening. Yet, his perseverance, effective communication, and problem-solving skills were instrumental in navigating these obstacles. His ability to maintain a positive outlook and steadfast belief in the face of adversity is truly admirable and speaks volumes about his character and professionalism.
+Moreover, Xiangru's work on the Apple Watch band laser character recognition project further illustrates his expertise in leveraging advanced technologies such as mobilenet for OCR tasks. His contributions to developing and refining SDK interfaces, preprocessing and alignment tasks, as well as his involvement in algorithm model training, underscore his comprehensive skill set and innovative approach to problem-solving.
+Xiangru's journey with us has been marked by a relentless pursuit of excellence, a deep-seated passion for technology, and a constant drive to push the boundaries of what is possible. His understanding that interests evolve and the importance of resilience through challenging times has not only contributed to his professional development but has also inspired those around him.
+In conclusion, Xiangru Zhou is a highly valuable asset to any team, bringing a wealth of knowledge, a strong work ethic, and an innovative mindset. I have no doubt that he will continue to excel and make significant contributions to the field of technology.
+-------------------------------------------------------------------------------------------------
+
+Reference Letter
+
+LI Ruiyu

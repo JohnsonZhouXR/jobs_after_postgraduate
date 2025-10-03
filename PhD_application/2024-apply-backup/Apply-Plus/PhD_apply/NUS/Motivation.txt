@@ -1,0 +1,61 @@
+Statement of Purpose / Motivation Letter
+
+Pioneering Advancements in Biomedical Engineering through Brain-Computer Interface (BCI) Research
+
+Background and Motivation
+I am currently pursuing a Master’s degree in Microelectronics Technology and Materials at The Hong Kong Polytechnic University, after a decade of professional experience in advanced technology fields. My career highlights include developing AI-based image processing algorithms, robotics control systems, and hardware-software integration solutions as an Algorithm Engineer and R&D Lead at prominent companies. My entrepreneurial journey, spanning four years, involved leading multidisciplinary teams and securing over ten invention patents, which enriched my ability to bridge technological innovation and practical applications.
+
+The convergence of my interests in engineering, neuroscience, and biomedical applications has drawn me to Brain-Computer Interface (BCI) technology. BCI represents an interdisciplinary frontier with immense potential to transform healthcare, rehabilitation, and human-computer interaction. I am particularly motivated by the challenge of addressing technical barriers such as signal acquisition precision, data processing efficiency, and device usability. Pursuing a PhD at NUS will enable me to contribute meaningfully to this rapidly evolving field.
+
+Why NUS for Biomedical Engineering?
+NUS offers a unique ecosystem that blends world-class research facilities, interdisciplinary collaborations, and a strong focus on translational biomedical innovation. As a global leader in academic excellence, NUS provides access to cutting-edge research resources and opportunities to work alongside renowned faculty and researchers in the Biomedical Engineering Department.
+
+Singapore’s strategic emphasis on integrating advanced technology into healthcare aligns seamlessly with my research aspirations. The dynamic environment at NUS, characterized by its strong ties to industry and healthcare institutions, presents an ideal platform to translate research into impactful real-world applications.
+
+Proposed Research Objectives
+My research will focus on improving the precision and reliability of neural signal acquisition systems, developing AI-driven models for robust signal recognition, and exploring their applications in brain-controlled assistive devices. Specific objectives include:
+
+Enhancing Signal Acquisition: Developing electrode materials and configurations that optimize signal strength, stability, and biocompatibility.
+AI-Driven Signal Processing: Utilizing machine learning algorithms to refine neural signal recognition, addressing challenges in accuracy and noise reduction.
+Real-World Applications: Integrating BCI technology into robotics, particularly for rehabilitation, by leveraging my expertise in robotics and AI to create adaptive, user-friendly systems.
+Through interdisciplinary collaborations, I aim to bridge engineering, neuroscience, and clinical research to contribute novel solutions to the field of BCI.
+
+Why I am Well-Suited for This Program
+My background in microelectronics, AI, and robotics positions me uniquely to contribute to BCI research. My hands-on experience in designing and optimizing algorithms, hardware prototypes, and integrated systems equips me to tackle the multifaceted challenges in biomedical engineering. Additionally, my multilingual proficiency in English, Mandarin, and Cantonese will facilitate collaboration within the diverse academic and professional environment at NUS.
+
+Long-Term Goals and Contributions
+Upon completing my PhD, I aspire to become a leading researcher in biomedical engineering, specializing in BCI technology. My vision is to create innovative rehabilitation and healthcare solutions that enhance quality of life for individuals with disabilities. Furthermore, I aim to contribute to academia by fostering interdisciplinary collaboration and mentoring the next generation of researchers.
+
+Conclusion
+I am deeply inspired by the transformative potential of BCI technology and am eager to pursue this vision at NUS. With my technical expertise, professional experience, and passion for biomedical innovation, I am confident in my ability to contribute to the university’s research ecosystem. Thank you for considering my application. I look forward to the opportunity to bring my skills and aspirations to NUS.
+
+研究计划书 / 动机信
+
+通过脑机接口 (BCI) 研究推动生物医学工程的前沿发展
+
+背景与动机
+我目前在香港理工大学攻读微电子技术与材料硕士学位，之前拥有十年的高科技领域工作经验。我职业生涯的亮点包括作为算法工程师和研发负责人，开发基于AI的图像处理算法、机器人控制系统及软硬件集成解决方案。我还曾创业四年，领导跨学科团队并获得十余项发明专利，这让我具备了将技术创新转化为实际应用的能力。
+
+工程学、神经科学与生物医学应用交叉领域的研究深深吸引了我。脑机接口 (BCI) 技术是一个具有变革潜力的前沿方向，其在医疗、康复和人机交互中的应用前景广阔。面对信号采集精度、数据处理效率和设备可用性等技术挑战，我深感推动这一领域发展的使命感。攻读NUS的博士学位将使我能够对这一迅速发展的领域作出有意义的贡献。
+
+选择NUS生物医学工程的理由
+NUS为研究者提供了融合顶尖科研设施、跨学科合作和生物医学创新的独特生态系统。作为全球领先的学术机构，NUS的生物医学工程系不仅拥有一流的科研资源，还为我提供与知名教授及研究人员共事的机会。
+
+新加坡将先进技术融入医疗的战略重点与我的研究抱负高度契合。NUS的动态环境，以及其与行业和医疗机构的密切联系，为研究成果向实际应用的转化提供了理想的平台。
+
+研究计划与目标
+我的研究重点是提高神经信号采集系统的精确性和可靠性，开发基于AI的信号识别模型，并探索其在脑控辅助设备中的应用。具体目标包括：
+
+优化信号采集技术： 开发具有优异信号强度、稳定性和生物相容性的电极材料及配置。
+基于AI的信号处理： 利用机器学习算法改进神经信号识别技术，解决精度和噪声消除等挑战。
+实际应用探索： 将BCI技术与机器人结合，尤其是用于康复领域，通过我的机器人及AI经验开发自适应且用户友好的系统。
+通过跨学科合作，我希望在工程、神经科学与临床研究之间搭建桥梁，为BCI领域贡献新颖的解决方案。
+
+我为何适合该项目
+我的微电子、AI及机器人技术背景，使我能够独特地为BCI研究作出贡献。我在算法设计、硬件原型开发及系统集成优化方面的实践经验，使我能够全面应对生物医学工程中的复杂挑战。此外，我熟练掌握英语、普通话和粤语，能够在NUS多元化的学术及专业环境中高效协作。
+
+长期目标与贡献
+博士毕业后，我希望成为生物医学工程领域的领先研究者，专注于BCI技术。我愿景是开发创新的康复及医疗解决方案，提升残疾人士的生活质量。此外，我还希望通过推动跨学科合作及指导下一代研究者，为学术界做出贡献。
+
+结语
+BCI技术的变革潜力深深激励着我，我渴望在NUS实现这一愿景。凭借我的技术专长、职业经验及对生物医学创新的热情，我有信心为贵校的科研生态系统贡献力量。感谢您考虑我的申请，我期待能将我的技能与抱负带入NUS。
