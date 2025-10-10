@@ -1,0 +1,41 @@
+Exploring 2026 PhD Opportunities in BME – An Algorithm Engineer with 10+ Years of Programming & AI Experience
+
+
+Dear Prof. Angela Ruohao WU,
+
+I hope this email finds you well. My name is Xiangru ZHOU, and I am writing to sincerely inquire about potential 2026 PhD opportunities in your lab at the Hong Kong University of Science and Technology (HKUST). With over 10 years of experience as a software algorithm engineer specializing in computer vision and AI, and having applied for/obtained more than 10 invention patents, I have carefully decided to pivot toward the interdisciplinary field of engineering and biology. Your lab’s mission to “bridge the gap between biology and engineering” is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
+
+My professional background focuses on the development and optimization of AI-driven systems: I led a vision-guided robotic arm project (integrating a Transformer model to enable action prediction and real-time environmental adaptation), developed a high-precision OCR tool for the semiconductor industry (with performance matching or exceeding that of industry leader Cognex), and designed defect detection systems for biomedical and electronic manufacturing. I have recently graduated from The Hong Kong Polytechnic University with a Master’s degree in Microelectronics Technology & Materials, and during my studies, I gained practical experience with LAMMPS and related molecular dynamics AI platforms under the guidance of my supervisor.
+
+I am fully aware of my knowledge gaps in cell and molecular biology, so I am proactively supplementing my learning in these areas: I am currently self-studying Prof. Rongwu Yang’s Molecular Biology course and plan to further study Prof. Zhonghe Zhai’s Cell Biology course afterward. My core strength lies in translating engineering solutions into support for biological research—I aim to leverage my skills in C++/Python programming, AI model deployment (PyTorch, ONNX Runtime), and system optimization to provide technical support for your lab’s research.
+
+Aligned with the three key research directions of your lab, I am particularly eager to contribute in the following aspects—should I have the chance to join your team:
+1.
+Computational Tool Optimization: With experience in using molecular dynamics AI platforms and related tools, as well as proficiency in system-level tuning, I can assist in optimizing tools commonly used in your lab, such as GROMACS. Specifically, this includes modifying the source code to make their performance more suitable for the specific needs of single-cell research or genomics analysis—for example, implementing GPU acceleration and adding dedicated preprocessing or postprocessing logic code.
+
+2.
+Hybrid AI-Traditional Computing Platform Construction: Drawing on my experience in advancing research through parallel “traditional calibration” and “AI prediction” branches in the robotic arm project, I can build an adaptive platform suitable for biological simulations. This platform will integrate real-time data collection to improve AI accuracy, while comparing the performance of traditional methods and AI solutions to select more stable and reliable processes for tasks such as omics analysis. In turn, it will better support research efforts including bioengineering-based digital twins and molecular dynamics simulations.
+
+3.
+Support for Medical & Biological Imaging Processing: Leveraging over 10 years of practical experience in image processing, I can support your lab’s medical and biological imaging research. For instance, for medical imaging or cell imaging data, I can implement automated analysis via AI and image processing algorithms—including automatic segmentation and extraction of targets in images, localization and counting of specific targets, detection and classification of defects in imaging or targets, and automatic tracking of dynamic targets—to enhance the efficiency and accuracy of experiments.
+
+4.
+Hardware-Software Integration Development: I have designed Bluetooth microcontroller devices (such as the car-mounted mobile phone controller mentioned in my CV) and completed PCB assembly. I can assist the lab in developing small-scale wireless tools—for example, providing real-time data transmission support for microfluidic organoid culture or diagnostic systems, or enabling communication with other medical devices to better achieve system-level integration.
+
+5.
+Exploration of Single-Cell Data Analysis Methods: After reading your 2014 Nature paper Reconstructing lineage hierarchies of the distal lung epithelium using single cell RNA-seq, I have considered potential supplementary analysis ideas for cell classification: for example, using computer vision-based feature vector extraction methods (or modified deep neural networks) to assist PCA dimensionality reduction, or testing the K-Means algorithm as an alternative to unsupervised hierarchical clustering to explore different analysis results.
+
+
+As a long-term resident of the Greater Bay Area, I am proficient in Cantonese, Mandarin, and English, and have a basic command of Japanese. I can facilitate smooth collaboration between the lab and local academic and industrial partners—which may provide support for your lab’s advancement of research such as “clinical genomics diagnostics”.
+
+I have attached my CV (File: CV-Xiangru_ZHOU-250923-A.pdf), which details my project experiences, patents, and technical skills. If you believe my background aligns with the needs of your lab, I would greatly appreciate the opportunity to further communicate with you, and I am willing to provide additional materials or answer any questions as per your request.
+
+Thank you for taking the time to consider my inquiry. I look forward to your response.
+
+Best regards,
+
+Xiangru ZHOU
+Graduate of Master’s in Microelectronics Technology & Materials
+The Hong Kong Polytechnic University
+Tel/WeChat: (+86) 18502091962
+Tel/WhatsApp: (+852) 61385254

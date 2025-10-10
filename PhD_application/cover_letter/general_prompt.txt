@@ -1,63 +1,42 @@
-我要写一份用于咨询教授今年phd位置的cover_letter，语气要谦和，言简意赅，重点突出。我会给出我目前的草稿大纲和我的CV，并给出教授的相关背景和介绍。另外我还有一份是2024年写的cover_letter，仅用作参考，因为我今年不一定要继续投该稿中的BCI方向了。
+我要写一份用于咨询教授今年phd位置的cover_letter，语气要谦和，言简意赅，重点突出。我会给出我目前的草稿大纲和我的CV，并给出教授和实验室的相关背景和介绍。另外我还有一份是2024年写的cover_letter，仅用作参考，因为我今年不一定要继续投该稿中的BCI方向了。
+
+给出英文版本和标题，并给出对应的中文版本。
 
 我上传了几份文件作为材料：
-CV.pdf
+CV-Xiangru_ZHOU-250923-A.pdf 是我的简历
 OUTLINE.txt 是我初步拟好的cover_letter大纲
-cover_letter-2024.txt 是去年写的cover_letter，仅用参考
-
-=================== DRAFT草稿：
-GOAL:
-直接给传达给教授听，自己有哪些能力，想做什么，能给他带来些什么？
-
-【第一段】Greettings
-我是一名拥有10+年经验的算法工程师，曾获得/申请了10多项专利，长期作为软件算法开发工程师工作在计算机视觉领域。
-经过深思熟虑后，我想要转型成为一名跨界的生物工程软件算法开发工程师。
-我希望可以加入您的实验室，用我的专业背景知识为您的实验室添砖加瓦。
-
-【第二段】【What do you want from this】
-（这一行帮我在网络上的可靠来源找一找教授相关的文献，和我相关的，我想利用自己的计算机背景和生物医学结合）对于S: I have read your paper titled ""
-（这一行忽略掉，如果我没看过教授相关的文献，用来写一个通用模版的）A/B: I am an programmer with AI, expertise in C++ & python, especially on Computer Vision area.
-
-【第三段】【Background(Bachelor & early work)】
-AI x Computer Vision
-
-【第四段】【Goal(recent work & Master)】
-Engineer x Computational Bio
-
-【第五段】【If you entered, what can you bring in】
-略提一下自己的语言和本地文化优势。
-
+cover_letter-2024.txt 是去年写的cover_letter，仅用作参考
+nihms568867.pdf OUTLINE.txt中提到的教授写的文章
 
 =================== 教授的相关资料：
+Angela Ruohao WU(https://life-sci.hkust.edu.hk/team/angela-ruohao-wu/)
+HKUST
+Associate Professor
+PhD Stanford University
 
+Research Question
+My goals are to help bridge gaps between biology and engineering. To do so, my group’s research focus has two major directions:
+1) investigating disease mechanisms using novel approaches such as single cell transcriptomics and gene editing;
+2) development of new technologies and tools to address experimental challenges in life science research.
 
+Representative Publications
+Wu AR, Wang J, Streets AM, Huang Y. 2017. Single-Cell Transcriptional Analysis. Annu Rev Anal Chem. 10(1):439–62
+Treutlein B, Brownfield DG, Wu AR, Neff NF, Mantalas GL, et al. 2014. Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq. Nature. 509(7500):371–75
+Wu AR, Neff NF, kalisky T, Dalerba P, Treutlein B, et al. 2014. Quantitative assessment of single-cell RNA-sequencing methods. Nature Methods. 11(1):41–46
+Wu AR, Kawahara TLA, Rapicavoli NA, van Riggelen J, Shroff EH, et al. 2012. High throughput automated chromatin immunoprecipitation as a platform for drug screening and antibody validation. Lab on a chip. 12(12):2190–98
+Wu AR, Hiatt JB, Lu R, Attema JL, Lobo NA, et al. 2009. Automated microfluidic chromatin immunoprecipitation from 2,000 cells. Lab on a chip. 9(10):1365–70
+Related News
+HKUST Bioengineer Prof. Angela WU Named 2025 Schmidt Polymath
+Mapping the Molecular Landscape of Grey Mouse Lemurs
+Prof. Angela WU Receives the School of Science Research Award, 2024/25
+Prof. Angela WU and Dr. Aftab AMIN Receive SENtastic Staff Award 2025
+Prof. Angela Wu to Give Talk on The Covid-19 Vaccines and the “New Normal” Webinar
 
-=================== 去年写的cover_letter：
-标题：
-Exploring PhD Opportunities in Biomedical Engineering – AI Engineer with 10 Years of Experience
+实验室的相关资料:https://angelawulab.ust.hk/
+Welcome to the Wu Lab!
 
-内容：
-Dear Prof. xxx,
+We are bioengineers that are working on bridging gaps between biology and engineering. Our research focus has three major directions:
 
-I hope this email finds you well.
-
-My name is Xiangru Zhou, and I am writing to express my keen interest in joining your PhD program in Biomedical Engineering at NTU. I am highly impressed by your research and would be honored to contribute to your team.
-
-I am currently a Master’s student in Microelectronics at The Hong Kong Polytechnic University. Prior to this, I accumulated 10 years of professional experience, focusing initially on image processing algorithms and later specializing in AI-powered image recognition. My roles have included serving as an Algorithm Engineer at OPT (a publicly listed company) and an R&D Leader at SmartMore (a leading AI enterprise in mainland China and Hong Kong).
-
-My expertise lies in software development, technology implementation, and optimization. Over the years, I have applied for or been granted more than ten invention patents. In addition to my programming and AI skills, I have experience designing integrated Bluetooth communication devices, creating circuit diagrams, producing 3D models for printing, and developing multi-axis robotic arms powered by AI.
-
-To pivot towards Brain-Computer Interface (BCI) technologies, I have recently reorganized my technical skill set after studying commercial products such as cochlear implants and the OpenBCI project. Building on my experience in image processing, software development (primarily in C++ and Python), and AI application deployment, I am expanding my knowledge in nanomaterials (currently in college) and biology (in my future PhD studies and beyond). While I plan to focus on software development and data processing, I believe that processing brain signals—converting them into electrical or digital signals, constructing large databases, and using AI to discover patterns and applications—will be a crucial aspect of advancing BCI technologies. While my approach may evolve, I am confident that computational and AI tools will play a central role, and I am also eager to engage with other related technologies within this field.
-
-I have a strong connection to the Greater Bay Area, where I live with my parents in Nansha District, Guangzhou. Having worked in Shenzhen for more than 8 years, including 4 years as an entrepreneur, I am committed to leveraging my skills to contribute to the development of BCI and smart medical technologies in this region. My proficiency in Cantonese, Mandarin, and English, as well as basic Japanese, positions me to facilitate international collaboration as the Greater Bay Area continues to expand its global engagement.
-
-I believe my technical expertise, professional background, and regional dedication make me a valuable candidate for your team. I would greatly appreciate the opportunity to discuss how my skills align with your research interests and team objectives.
-
-Attached to this email is my CV, which provides a detailed overview of my academic and professional background. I would be happy to provide additional information or answer any questions you might have.
-
-Thank you for considering my inquiry. I look forward to the possibility of further communication.
-
-Best regards,
-
-Xiangru Zhou
-The Hong Kong Polytechnic University
+Inventing new genomics technologies, including multi-omic single-cell assays, metagenomics analysis platforms, and computational analyses for single-cell data
+Developing clinical genomics-based diagnostics for severe systemic and infectious diseases
+Developing microfluidics organoid culture platforms for tissue engineering and disease modeling

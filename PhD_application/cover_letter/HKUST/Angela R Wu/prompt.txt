@@ -1,0 +1,67 @@
+我要写一份用于咨询教授今年phd位置的cover_letter，语气要谦和，言简意赅，重点突出。我会给出我目前的草稿大纲OUTLINE和我的简历CV，并给出教授和实验室的相关背景和介绍。另外我还有一份是2024年写的cover_letter，仅用作参考，因为我今年不一定要继续投该稿中的BCI方向了。
+
+给出英文版本和标题，并给出对应的中文版本。
+
+我上传了几份文件作为材料：
+CV-Xiangru_ZHOU-250923-A.pdf 是我的简历
+cover_letter-2024.txt 是去年写的cover_letter，仅用作参考
+nihms568867.pdf OUTLINE.txt中提到的教授写的文章
+
+=================== OUTLINE
+
+第一部分：（约占10%）
+寒暄，说明自己的来意，是来explore有没有PhD的机会
+简单说明一下自己是一名拥有10+年经验的算法工程师，曾获得/申请了10多项专利，长期作为软件算法开发工程师工作在计算机视觉领域。
+经过深思熟虑后，我想要转型成为一名跨界的生物工程软件算法开发工程师。
+我希望可以加入您的实验室，用我的专业背景知识为您的实验室添砖加瓦。
+
+第二部分：（约占20%～30%）
+根据简历的内容，简单介绍自己的背景，以及自己利用现有的知识拓展至医学生物工程领域的想法，表明自己有意向以软件算法工程师的身份转向生物工程领域
+承认自己在 生物细胞 知识方面的不足，但自己目前正在学习杨荣武老师的《分子生物学》教程，并计划在完成后进一步学习翟中和老师的《细胞生物学》，希望自己在图像识别及C++和python的程序开发经验以及在AI方面的经验，可以帮助实验室进行更多的工作
+
+第三部分：（约占50%）
+说明自己能做哪些事情，能为实验室、教授带来哪些
+自己在研究生期间曾经跟随导师做过LAMMPS相关的分子动力学模拟，希望可以用自己的IT技能帮助实验室进行类似GROMACS这样的分子生物学常用工具进行调优、加速、甚至是源码级的修改，以适应更细化的实验需求，正如材料学用到的GPUMD这样的平台，在进行深度的优化后，可以比通用平台快很多倍（2个数量级以上）
+搭建混合传统计算和AI的平台用以进行生物模拟/计算，像我做过的机械臂项目一样，以不同分支的形式推进项目，分阶段动态更新平台和算法，同时收集数据以提升AI部分的准确率，同时还可以以对比的形式，找出哪些部分使用传统更稳定，哪些部分使用AI更合适
+自己还可以：
+利用做过手机蓝牙遥控器的经历，做类似的单片机开发，设计电路板并将其assemble起来并持续升级其功能，保证其与实验需求同步一致，在需要小型无线通讯设备的场景中发挥作用
+利用自己在大模型机械臂的相关经验，使AI与医疗设备结合，通过与医疗设备的通讯，利用AI和计算机视觉对其进行更精确地控制和引导，或对其输出的结果进行更详细的分析和反馈
+
+自己看过老师写的文章“Treutlein B, Brownfield D G, Wu A R, et al. Reconstructing lineage hierarchies of the distal lung epithelium using single cell RNA-seq[J]. Nature, 2014, 509(7500): 371-375. DOI:10.1038/nature13173”，对于其中提到的PCA降维以及无监督层次聚类方法进行细胞分类与谱系重建的方式，或许可以使用图像中的特征提取方式进行特征向量提取，以达到降维的目的，并且可以使用改良过的深度神经网络进行提取，或者会有不同的效果。对于无监督层次聚类方法，或许可以使用K-Means等方法进行聚类以尝试不同的效果。
+
+第四部分：（约占10%～20%）
+说下additional自己有本地文化和语言优势，与本地平台沟通合作更顺畅，在产学研结合时，没有沟通壁垒
+我已在邮件中附上自己的CV，希望教授考虑并如果有需要进一步沟通，指出我可以与实验室结合的点
+
+=================== 教授的相关资料：
+Angela Ruohao WU(https://life-sci.hkust.edu.hk/team/angela-ruohao-wu/)
+HKUST
+Associate Professor
+PhD Stanford University
+
+Research Question
+My goals are to help bridge gaps between biology and engineering. To do so, my group’s research focus has two major directions:
+1) investigating disease mechanisms using novel approaches such as single cell transcriptomics and gene editing;
+2) development of new technologies and tools to address experimental challenges in life science research.
+
+Representative Publications
+Wu AR, Wang J, Streets AM, Huang Y. 2017. Single-Cell Transcriptional Analysis. Annu Rev Anal Chem. 10(1):439–62
+Treutlein B, Brownfield DG, Wu AR, Neff NF, Mantalas GL, et al. 2014. Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq. Nature. 509(7500):371–75
+Wu AR, Neff NF, kalisky T, Dalerba P, Treutlein B, et al. 2014. Quantitative assessment of single-cell RNA-sequencing methods. Nature Methods. 11(1):41–46
+Wu AR, Kawahara TLA, Rapicavoli NA, van Riggelen J, Shroff EH, et al. 2012. High throughput automated chromatin immunoprecipitation as a platform for drug screening and antibody validation. Lab on a chip. 12(12):2190–98
+Wu AR, Hiatt JB, Lu R, Attema JL, Lobo NA, et al. 2009. Automated microfluidic chromatin immunoprecipitation from 2,000 cells. Lab on a chip. 9(10):1365–70
+Related News
+HKUST Bioengineer Prof. Angela WU Named 2025 Schmidt Polymath
+Mapping the Molecular Landscape of Grey Mouse Lemurs
+Prof. Angela WU Receives the School of Science Research Award, 2024/25
+Prof. Angela WU and Dr. Aftab AMIN Receive SENtastic Staff Award 2025
+Prof. Angela Wu to Give Talk on The Covid-19 Vaccines and the “New Normal” Webinar
+
+实验室的相关资料:https://angelawulab.ust.hk/
+Welcome to the Wu Lab!
+
+We are bioengineers that are working on bridging gaps between biology and engineering. Our research focus has three major directions:
+
+Inventing new genomics technologies, including multi-omic single-cell assays, metagenomics analysis platforms, and computational analyses for single-cell data
+Developing clinical genomics-based diagnostics for severe systemic and infectious diseases
+Developing microfluidics organoid culture platforms for tissue engineering and disease modeling
