@@ -1,0 +1,64 @@
+Software Engineer
+
+Smartmore Corporation Limited
+May 2020 - Sep 2024 (4 years 5 months)
+Serve as a senior software development engineer.
+Integrated enduser software development including its user interface(most commonly by QT), SDK(C++ with align to corresponding the algorithm workflow of python), alignment with python codes of the kernel inference of neuron network(mainly based on ONNX), image pre/post processing(with OpenCV or alike platforms) are involved;
+Algorithm optimization like change a network, hyperparameters optimization, data collection and clearance, retrain a model, modify image processing flows, adjust algorithms by specific task requirements, SDK interface defining & packaging, etc;
+Participate in product oriented leadership, for example: expected final forms of the products of each generation/branch, experiments conducting, new models/methods trials, optic advices and discussions by image processing side, product structuring suggestion to manufacturers.
+Typical products/projects are:
+BGI Genomics Reagent Bottle Inspection;
+AI-Driven Robotic Arm Project;
+Wafer ID Reader” Integrated OCR Code Reader Product for Semiconductor Industry;
+Defect Detection System for SONY Labels;
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology;
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology.
+Had attained/applied for 8 patents as regards to the above products/projects.
+Serve as a senior software development engineer.
+Integrated enduser software development including its user interface(most commonly by QT), SDK(C++ with align to corresponding the algorithm workflow of python), alignment with python codes of the kernel inference of neuron network(mainly based on ONNX), image pre/post processing(with OpenCV or alike platforms) are involved;
+Algorithm optimization like change a network, hyperparameters optimization, data collection and clearance, retrain a model, modify image processing flows, adjust algorithms by specific task requirements, SDK interface defining & packaging, etc;
+Participate in product oriented leadership, for example: expected final forms of the products of each generation/branch, experiments conducting, new models/methods trials, optic advices and discussions by image processing side, product structuring suggestion to manufacturers.
+Typical products/projects are:
+BGI Genomics Reagent Bottle Inspection;
+AI-Driven Robotic Arm Project;
+Wafer ID Reader” Integrated OCR Code Reader Product for Semiconductor Industry;
+Defect Detection System for SONY Labels;
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology;
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology.
+Had attained/applied for 8 patents as regards to the above products/projects.
+
+
+
+
+Chief Technology Officer
+
+Shenzhen PHDI Corporation Limited
+Jul 2016 - May 2020 (3 years 11 months)
+Comprehensive role lean on technics, co-funder of a 4-year company. Including product design(software, hardware and apperance), developing stage(release versions, branches, exploring directions, schedules), user demanding investigation, sometimes marketing(not familiar, by technic perspective of view). Parallel with profitable project(image related smart manufacturing area) estimating, planning, developing, all the way to the final delivering.
+Iconic products/projects are:
+Android Software for A Car-Mounted Mobile Phone Controller;
+Face Recognition and Tracking Software on The Android Platform for Surveillance Camera.
+Had attained for 3 patents with respect to these products/projects.
+Comprehensive role lean on technics, co-funder of a 4-year company. Including product design(software, hardware and apperance), developing stage(release versions, branches, exploring directions, schedules), user demanding investigation, sometimes marketing(not familiar, by technic perspective of view). Parallel with profitable project(image related smart manufacturing area) estimating, planning, developing, all the way to the final delivering.
+Iconic products/projects are:
+Android Software for A Car-Mounted Mobile Phone Controller;
+Face Recognition and Tracking Software on The Android Platform for Surveillance Camera.
+Had attained for 3 patents with respect to these products/projects.
+
+
+
+
+Algorithm Engineer
+
+OPT Machine Vision Tech Co., Ltd.
+Apr 2014 - Jul 2016 (2 years 4 months)
+Image processing algorithm engineer mainly focused on image processing algorithm development and optimization. Especially on barcode rapid location & decoding, 2D code algorithm transplant and optimization, edge detection.
+Developed/optimized algorithms included:
+One-Dimensional Barcode Localization and Recognition Algorithm;
+Two-Dimensional Barcode Localization and Recognition Algorithm;
+Rapid Edge And Circle Detection Algorithm.
+Image processing algorithm engineer mainly focused on image processing algorithm development and optimization. Especially on barcode rapid location & decoding, 2D code algorithm transplant and optimization, edge detection.
+Developed/optimized algorithms included:
+One-Dimensional Barcode Localization and Recognition Algorithm;
+Two-Dimensional Barcode Localization and Recognition Algorithm;
+Rapid Edge And Circle Detection Algorithm.
