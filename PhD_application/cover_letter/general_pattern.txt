@@ -12,11 +12,11 @@
 我深知自己在细胞生物学与分子生物学领域存在知识短板，因此正积极补充相关学习：目前已自学杨荣武教授的《分子生物学》课程，后续计划进一步学习翟中和教授的《细胞生物学》课程。我的核心优势在于将工程解决方案转化为生物学研究的支撑力 —— 我期望运用自己在 C++/Python 编程、人工智能模型部署（PyTorch 框架、ONNX Runtime 推理引擎）及系统优化方面的技能，为您实验室的研究提供技术支持。
 
 结合您实验室的研究方向，若能有幸加入团队，我尤其渴望在以下方面贡献力量：
-医学与生物图像处理支持：依托 10 余年图像处理实践经验，我可为实验室的医学与生物成像研究提供支持。例如，针对医学影像或细胞成像数据，通过人工智能与图像处理算法实现自动化分析 —— 包括图像中目标的自动分割与提取、特定目标的定位与计数、成像或目标中缺陷的检测与分类、动态目标的自动追踪等 —— 以提升实验效率与准确性。
+计算工具优化：除了运用分子动力学工具搭建计算生物学（Computational Biology）相关应用外，凭借多年 C++、Python 等编程语言的开发经验与系统级调优能力，我可协助优化实验室常用工具（如 GROMACS 分子动力学模拟软件）。具体包括通过源代码修改，使其性能更加适配特定的研究场景 —— 例如实现 GPU 加速方案，或添加专用的预处理、后处理逻辑代码等。
 
 人工智能 - 传统计算混合平台构建：借鉴在机械臂项目（CV附件中有详细的介绍）中通过 “传统校准” 与 “人工智能预测” 并行分支推进研究的经验，我可搭建适用于生物学模拟的自适应平台。该平台将集成实时数据采集功能以提升人工智能模型精度，同时对比传统方法与人工智能方案的性能，为目标任务筛选更稳定可靠的流程，进而更好地支持与生物工程相关的数字孪生技术。
 
-计算工具优化：除了运用分子动力学工具搭建计算生物学（Computational Biology）相关应用外，凭借多年 C++、Python 等编程语言的开发经验与系统级调优能力，我可协助优化实验室常用工具（如 GROMACS 分子动力学模拟软件）。具体包括通过源代码修改，使其性能更加适配特定的研究场景 —— 例如实现 GPU 加速方案，或添加专用的预处理、后处理逻辑代码等。
+医学与生物图像处理支持：依托 10 余年图像处理实践经验，我可为实验室的医学与生物成像研究提供支持。例如，针对医学影像或细胞成像数据，通过人工智能与图像处理算法实现自动化分析 —— 包括图像中目标的自动分割与提取、特定目标的定位与计数、成像或目标中缺陷的检测与分类、动态目标的自动追踪等 —— 以提升实验效率与准确性。
 
 软硬件集成开发：我曾设计蓝牙微控制器设备（如个人简历中提及的车载手机控制器）并完成印刷电路板（PCB）的布线和组装以及成品外壳的3D打印工作，可协助实验室开发小型无线工具 —— 例如为微流控类器官培养或诊断系统提供实时数据传输支持，或实现与其他医疗设备的通信，以更好地完成系统级集成。
 
@@ -31,3 +31,43 @@
 顺祝商祺！
 
 周相如
+香港理工大学微电子技术与材料专业硕士毕业生
+电话 / 微信：(+86) 18502091962
+电话 / WhatsApp：(+852) 61385254
+
+
+
+
+Inquiry for 2026 PhD Opportunities in Biomedical Engineering (BME) – Cover Letter from an Algorithm Engineer with Over 10 Years of Programming & AI Experience
+
+
+Dear Prof. ========== XXX ==========,
+
+I hope this email finds you well. My name is Xiangru ZHOU, and I am writing to sincerely inquire about potential 2026 PhD openings in your lab at ========== the Hong Kong University of Science and Technology (HKUST) ==========. With over 10 years of experience as a software algorithm engineer specializing in computer vision and artificial intelligence (AI), and having applied for/obtained more than 10 invention patents, I have carefully decided to pivot toward the interdisciplinary field of engineering and biology. I deeply admire your lab’s dedication and outstanding achievements in ========== medical imaging and its image processing ==========, and ========== in particular, the lab’s commitment to [core lab vision, e.g., “bridging the gap between engineering technology and life sciences” or “addressing key technical challenges in biomedical research”] ========== – a direction that aligns perfectly with my career goal of contributing to this field. I would be honored to join your team and leverage my technical expertise to support your lab’s research, if given the opportunity.
+
+My professional background focuses on the development and optimization of AI-driven systems: I led a vision-guided robotic arm project (integrating a Transformer model to enable action prediction and real-time environmental adaptation); developed a high-precision optical character recognition (OCR) tool for the semiconductor industry (with performance matching or exceeding that of Cognex, a leading industry player); and designed defect detection systems for biomedical and electronic manufacturing. I recently graduated with a Master’s degree in Microelectronics Technology & Materials from The Hong Kong Polytechnic University. During my studies, under the guidance of my supervisor, I gained hands-on experience with the Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) and related AI platforms for molecular dynamics.
+
+I am fully aware of my knowledge gaps in cell biology and molecular biology, so I have been proactively supplementing my learning in these areas: I have completed self-study of Prof. Rongwu Yang’s Molecular Biology course and plan to further study Prof. Zhonghe Zhai’s Cell Biology course subsequently. My core strength lies in translating engineering solutions into support for biological research – I aim to apply my skills in C++/Python programming, AI model deployment (PyTorch framework, ONNX Runtime inference engine), and system optimization to provide technical support for your lab’s work.
+
+Aligned with your lab’s research directions, I am particularly eager to contribute in the following areas if I have the privilege of joining your team:
+Computational Tool Optimization: Beyond using molecular dynamics tools to develop applications for computational biology, my years of experience in programming (e.g., C++, Python) and system-level tuning enable me to assist in optimizing tools commonly used in your lab (such as GROMACS, a molecular dynamics simulation software). Specific optimizations include modifying source code to better adapt the tools to specific research scenarios – for example, implementing GPU acceleration solutions or adding dedicated preprocessing and postprocessing logic.
+
+Construction of Hybrid AI-Traditional Computing Platforms: Leveraging my experience in advancing research through parallel “traditional calibration” and “AI prediction” branches in the robotic arm project (detailed in the attached CV), I can build an adaptive platform suitable for biological simulations. This platform will integrate real-time data collection to improve AI model accuracy, while comparing the performance of traditional methods and AI solutions to select more stable and reliable workflows for target tasks. In turn, this will better support bioengineering-related digital twin technologies.
+
+Support for Medical & Biological Imaging Processing: Drawing on over 10 years of practical experience in image processing, I can support your lab’s medical and biological imaging research. For instance, for medical imaging or cell imaging data, I can implement automated analysis using AI and image processing algorithms – including automatic segmentation and extraction of targets in images, localization and counting of specific targets, detection and classification of defects in imaging or targets, and automatic tracking of dynamic targets – to enhance the efficiency and accuracy of experiments.
+
+Hardware-Software Integration Development: I have designed Bluetooth microcontroller devices (e.g., the in-vehicle mobile phone controller mentioned in my CV) and completed the wiring and assembly of printed circuit boards (PCBs), as well as 3D printing of finished product enclosures. I can assist your lab in developing small-scale wireless tools – such as providing real-time data transmission support for microfluidic organoid culture or diagnostic systems, or enabling communication with other medical devices – to facilitate more effective system-level integration.
+
+As a long-term resident of the Guangdong-Hong Kong-Macao Greater Bay Area, I am proficient in Cantonese, Mandarin, and English, with basic Japanese communication skills, and have a deep understanding of local culture. This allows me to effectively eliminate communication barriers when your lab collaborates with academic peers and industrial partners from different regions, thereby providing tangible support for your team in advancing clinical application development and deepening cross-team collaboration.
+
+I have attached my CV (File name: CV-Xiangru_ZHOU-250923-A.pdf), which details my project experiences, patents, and technical skills. If you believe my background matches your lab’s needs, I would greatly appreciate the opportunity to discuss further with you, and I am willing to provide additional materials or answer any questions as you require.
+
+Thank you for taking the time to review my inquiry. I look forward to your response.
+
+Best regards,
+
+Xiangru ZHOU
+Graduate of Master’s in Microelectronics Technology & Materials
+The Hong Kong Polytechnic University
+Tel/WeChat: (+86) 18502091962
+Tel/WhatsApp: (+852) 61385254
