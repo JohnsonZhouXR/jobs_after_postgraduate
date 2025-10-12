@@ -1,0 +1,9 @@
+我写了一封套磁信用于咨询2026的博士研究生入学机会，我已经写好了一封，现在我想给另一个教授也写一份，我会提供当前的套磁信模板，然后我会给出教授实验室的相关介绍，以及我读过教授的相关文章，用以修改这份模板，现在我先提供模板出来，然后我再后续提供教授实验室的相关介绍，以及我读过教授的相关文章，还有需要修改哪些部分的详细说明。
+
+
+
+结合这篇文章，修改这一部分，写上相关的文章引用。
+------------------------------
+Exploration of Single-Cell Data Analysis Methods: After reading your 2014 Nature paper Reconstructing lineage hierarchies of the distal lung epithelium using single cell RNA-seq, I have considered potential supplementary analysis ideas for cell classification: for example, using computer vision-based feature vector extraction methods (or modified deep neural networks) to assist PCA dimensionality reduction, or testing the K-Means algorithm as an alternative to unsupervised hierarchical clustering to explore different analysis results.
+------------------------------
+说明，虽然文章我读得不是很懂，但是我想可能在成像方面，可以利用我图像处理的经验和AI经验，做一些图像的前后处理，或者是分类，目标分割或检测等。
