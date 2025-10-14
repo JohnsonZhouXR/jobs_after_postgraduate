@@ -1,0 +1,2 @@
+根据提供的实验室和教授资料introduction.txt，仿照下面的句式写一句话。
+句式：Your lab’s mission to “bridge the gap between biology and engineering” is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.

@@ -1,0 +1,1237 @@
+Professor & his lab: (https://www.cse.ust.hk/~achung/)
+
+Albert C. S. Chung (D. Phil., Oriel College, University of Oxford, U.K.)
+ 
+
+Prof. Chung received his B.Engg. degree (First-Class Honours) in Computer Engineering from the University of Hong Kong in 1995. He was an exchange student at the University of British Columbia, Canada, from 1992-93 with the Cathay Pacific Visiting Student Award. He joined The Hong Kong University of Science and Technology (HKUST) in 1996 and received his M.Phil. degree in Computer Science in 1998. He then joined the Medical Vision Laboratory, Robotics Research Group at the University of Oxford, U.K. as a doctoral research student in 1998 and graduated in 2001 with D.Phil. degree in Engineering Science. Prof. Chung was a Croucher scholar (1998 – 2001) with the Croucher Foundation Scholarship. He was a visiting scientist at the Artificial Intelligence Laboratory, Massachusetts Institute of Technology, U.S.A. (Sept 2001 – Feb 2002).
+
+ 
+
+Prof. Chung was honored to receive the British Machine Vision Association Sullivan Thesis Award for the best doctoral thesis submitted to a United Kingdom university in the field of computer vision or natural vision in 2002; the Best Ten Lecturers Award at HKUST in 2010; Best Teaching Award for MSc Program in Information Technology in 2018; and Best Teaching Award for MSc Program in Big Data Technology in 2018.
+
+ 
+
+Prof. Chung founded the Lo Kwee-Seong Medical Image Analysis Laboratory in 2005 (2005 – 2021) with a generous donation from the K.S. Lo Foundation, Hong Kong. The laboratory focused on interdisciplinary research aiming at creating and applying engineering techniques in the area of medical image analysis, with the ultimate goal of improving the quality of healthcare in Hong Kong, China, and other regions. He is now the Director of The HKUST Research Center for Medical Imaging and Analysis.
+
+ 
+
+Prof. Chung was the director of the Computer Engineering Undergraduate Programme, HKUST 2010-2012 (Associate director, 2008-2010). He was the UG Coordinator (2015 – 2016) and Associate Head (2016 – 2019) at the Department of Computer Science and Engineering, HKUST. Prof. Chung served as the Associate Dean of Engineering (Undergraduate Studies), School of Engineering, HKUST, between Jan 2020 and Dec 2021. In Jan 2022, Prof. Chung joined the Department of Computer Science, University of Exeter, as Chair in Artificial Intelligence (Jan 2022 – Aug 2023).
+
+ 
+
+From Aug 2023, Prof. Chung is a Full Professor at the Department of Computer Science and Engineering, HKUST.
+
+ 
+
+ 
+Current Appointments
+ 
+
+The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+
+Professor,  Department of Computer Science and Engineering (Aug 2023 – present)
+
+Director, The HKUST Research Center for Medical Imaging and Analysis (Nov 2023 – present)
+
+ 
+
+Previous Major Appointments Held
+ 
+
+University of Exeter, Streatham Campus, Exeter, Devon, United Kingdom,
+
+Chair in Artificial Intelligence, Department of Computer Science (Jan 2022 – Aug 2023)
+
+ 
+
+The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+
+Professor,  Department of Computer Science and Engineering (2014 – 2021)
+
+Professor (joint),  Department of Chemical and Biological Engineering (2014 – 2021)
+
+Professor (joint),  Department of Electronic and Computer Engineering (2015 – 2018)
+
+Director,  Lo Kwee-Seong Medical Image Analysis Laboratory (2005 – 2021)
+
+Residence Master, Undergraduate Hall VI (2013 – 2019) and Undergraduate Hall III (2005 – 2011)
+
+ 
+Recent Professional Services
+Meeting Chairs
+
+l  Chair, 2019, The 26th international conference on Information Processing in Medical Imaging (IPMI); Paper Selection Committee, IPMI 2021 and 2023
+
+l  Tutorial Chair, 2019, IEEE International Symposium on Biomedical Imaging (ISBI)
+
+l  Chair, 2019 – 2021, IPMI Conference Board
+
+ 
+
+Journal Editorships
+
+l  Editorial Board Member (Jan 2015 – present), Medical Image Analysis
+
+l  Editorial Board Member (Jan 2017 – present), Computerized Medical Imaging and Graphics
+
+l  Guest Editor (2016), Special Issue on Probabilistic Models for Biomedical Image Analysis, Computer Vision and Image Understanding
+
+l  Area Editor (Feb 2010 – 2018), Computer Vision and Image Understanding
+
+ 
+
+Invited Talks and Paper
+
+l  Invited Talk,  SIAM Conference on Imaging Science (SIAM-IS14), Hong Kong, May 12-14, 2014.
+
+l  Invited Lecturer and Session Chair,  Biomedical Imaging Summer School, Paris, France, July 9-13, 2012.
+
+l  Invited Talk,  SIAM Conference on Imaging Science (SIAM-IS10), Chicago, Illinois, U.S.A., April 12-14, 2010.
+
+l  Invited Talk,  The first conference on Medical Image Analysis and Clinical Applications (MIACA’10), Guangzhou, China, June 10-13, 2010.
+
+l  “Image Segmentation Methods for Detecting Blood Vessels in Angiography”, The 9th International Conference on Control, Automation, Robotics and Vision, ICARCV, Singapore, December 5 – 8, 2006, pp. 1424 – 1429. An invited paper to a special session on medical image analysis.
+
+ 
+
+Program Committee Members, Area Chairs, and Meeting Organizers in numerous conferences and workshops.
+
+ 
+Research Interests
+Medical image analysis, image processing, and computer vision.
+
+ 
+
+Current Research Group Members at HKUST
+Ph.D. (Doctor of Philosophy) Students:
+
+1.     Ms. Ziyi HE
+
+2.     Ms. Wen JI
+
+ 
+
+Prizes and Awards
+·       First Place (with Mr. Tony Chi Wing MOK) for the results in brain tumor sequence registration challenge (BraTS-Reg) organized by the Medical Image Computing and Computer Assisted Intervention (MICCAI) Society in 2022.
+
+·       First Place (with Mr. Tony Chi Wing MOK) for the results in medial image registration challenge (Learn2Reg) organized by the Medical Image Computing and Computer Assisted Intervention (MICCAI) Society in 2021.
+
+·       First Place (with Mr. Tony Chi Wing MOK) for the results in medial image registration challenge (Learn2Reg) organized by the Medical Image Computing and Computer Assisted Intervention (MICCAI) Society in 2020.
+
+·       Best Teaching Award, MSc Programme in Information Technology, HKUST in 2018.
+
+·       Best Teaching Award, MSc Programme in Big Data Technology, HKUST in 2018.
+
+·       Best Paper Award (with Ms. Qing Zhang), The 7th International Conference on Medical Imaging and Augmented Reality, 2016.
+
+·       Best Paper Award (with Ms. Siqi Bao), The First Workshop on Deep Learning in Medical Image Analysis, 2015.
+
+·       ECCV 2012 Outstanding Reviewer Award.
+
+·       Second Runner-Up (with Dr. Lisa Luo) at the 2012 Student Paper Competition held by IEEE EMBS Hong Kong Chapter, 2012.
+
+·       Best Ten Lecturers Award, HKUST, 2010.
+
+·       First Prize (with Dr. Wilbur Wong) for the results in the Carotid Bifurcation Lumen Segmentation and Stenosis Grading in 3D Segmentation in the Clinic: A Grand Challenge, in conjunction with the 12th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’09), London, UK, September 20 – 24, 2009.
+
+·       British Machine Vision Association (BMVA) Sullivan Best Thesis Award 2002 in the UK.
+
+·       Croucher Foundation Fellowship (2001 – 2003, declined).
+
+·       Croucher Foundation Scholarship (1998 – 2001, doctoral studies at the University of Oxford, UK).
+
+·       Cathay Pacific Visiting Student Award (1993, exchange program at the University of British Columbia, Canada).
+
+ 
+Publications: DBLP Computer Science Bibliography, Google Scholar, HKUST Institutional Repository
+ 
+
+·       Wen Ji and Albert C. S. Chung, “Unsupervised Domain Adaptation for Medical Image Segmentation Using Transformer with Meta Attention”, IEEE Transactions on Medical Imaging, accepted for publication, Oct 2023. DOI website.
+
+ 
+
+·       Alessa Hering, Lasse Hansen, Tony C. W. Mok, Albert C. S. Chung, Hanna Siebert, Stephanie Häger, Annkristin Lange, Sven Kuckertz, Stefan Heldmann, Wei Shao, Sulaiman Vesal, Mirabela Rusu, Geoffrey Sonn, Théo Estienne, Maria Vakalopoulou, Luyi Han, Yunzhi Huang, Pew-Thian Yap, Mikael Brudfors, Yaël Balbastre, Samuel Joutard, Marc Modat, Gal Lifshitz, Dan Raviv, Jinxin Lv, Qiang Li, Vincent Jaouen, Dimitris Visvikis, Constance Fourcade, Mathieu Rubeaux, Wentao Pan, Zhe Xu, Bailiang Jian, Francesca De Benetti, Marek Wodzinski, Niklas Gunnarsson, Jens Sjölund, Daniel Grzech, Huaqi Qiu, Zeju Li, Alexander Thorley, Jinming Duan, Christoph Großbröhmer, Andrew Hoopes, Ingerid Reinertsen, Yiming Xiao, Bennett Landman, Yuankai Huo, Keelin Murphy, Nikolas Lessmann, Bram Van Ginneken, Adrian V Dalca, Mattias P Heinrich, “Learn2Reg: comprehensive multi-task medical image registration challenge, dataset and evaluation in the era of deep learning”, IEEE Transactions on Medical Imaging, Vol. 42, No. 3, pages 697 – 712, March 2023. DOI website.
+
+ 
+
+·       Tony Chi Wing Mok and Albert C. S. Chung, “Affine Medical Image Registration with Coarse-to-Fine Vision Transformer”, The International Conference on Computer Vision and Pattern Recognition, (CVPR’22), New Orleans, Louisiana, USA, June 18 – 24, 2020, pp. 20803 – 20812. DOI website.
+
+ 
+
+·       Tony C. W. Mok and Albert C. S. Chung, “Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-recurrence Brain Tumor MRI Scans”, The 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’22), Singapore, September 18 – 22, 2022, pp. 25 – 35. DOI website. GitHub.
+
+ 
+
+·       Yongxiang Huang and Albert C. S. Chung, “Population-based Prediction with Edge-Variational Graph Convolutional Network”, Medical Image Analysis, (MedIA, 2022). DOI website.
+
+ 
+
+·       Pei Wang and Albert C. S. Chung, “Relax and Focus on Brain Tumor Segmentation”, Medical Image Analysis, (MedIA, 2022). DOI website.
+
+ 
+
+·       Colin S. C. Tsang, Tony C. W. Mok and Albert C. S. Chung, “Joint Denoising and Super-Resolution for Fluorescence Microscopy Using Weakly-Supervised Deep Learning”, The 1st International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis, (MOVI’22) in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’22), Singapore, September 18 – 22, 2022, pp. 32 – 41. DOI website.
+
+ 
+
+·       Yishuo Zhang and Albert C. S. Chung, “GUNet: A GCN-CNN Hybrid Model for Retinal Vessel Segmentation by Learning Graphical Structures”, The 9th International Workshop on Ophthalmic Medical Image Analysis, (OMIA’22) in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’22), Singapore, September 18 – 22, 2022, pp. 33 – 42. DOI website.
+
+ 
+
+·       Han Zhang and Albert C. S. Chung, “Dcor-VLDet: A Vertebra Landmark Detection Network for Scoliosis Assessment with Dual Coordinate System”, The 13th International Workshop on Machine Learning in Medical Imaging, (MLMI’22) in conjunction with the 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’22), Singapore, September 18 – 22, 2022. DOI website.
+
+ 
+
+·       Rongzhao Zhang and Albert C. S. Chung, “MedQ: Lossless Ultra-low-bit Neural Network Quantization for Medical Image Segmentation”, Medical Image Analysis, (MedIA, 2021). DOI website.
+
+ 
+
+·       Tony C. W. Mok and Albert C. S. Chung, “Conditional Deformable Image Registration with Convolutional Neural Network”, The 24th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’21), Virtual Conference, September 27 – October 1, 2021 (Early accepted). DOI website. GitHub.
+
+ 
+
+·       Ziyi He and Albert C. S. Chung, “Learning-Based Template Synthesis for Groupwise Image Registration”, The 6th International Workshop on Simulation and Synthesis in Medical Imaging, (SASHIMI’21) in conjunction with the 24th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’21), Virtual Conference, September 27 – October 1, 2021, pp. 55 – 66. DOI website.
+
+ 
+
+·       Ziyi He and Albert C. S. Chung, “Unsupervised End-To-End Groupwise Registration Framework Without Generating Templates”, IEEE International Conference on Image Processing, (ICIP’20), Virtual Conference, October 25 – 28, 2020, pp. 375 – 379. DOI website.
+
+ 
+
+·       Yongxiang Huang and Albert C. S. Chung, “Semi-Supervised Multimodality Learning with Graph Convolutional Neural Networks for Disease Diagnosis”, IEEE International Conference on Image Processing, (ICIP’20), Virtual Conference, October 25 – 28, 2020, pp. 2451 – 2455. DOI website.
+
+ 
+
+·       Jierong Wang and Albert C. S. Chung, “Higher-Order Flux with Spherical Harmonics Transform for Vascular Analysis”, The 23rd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’20), Virtual Conference, October 4 – 8, 2020, pp. 55 – 65. DOI website.
+
+ 
+
+·       Tony C. W. Mok and Albert C. S. Chung, “Large Deformation Diffeomorphic Image Registration with Laplacian Pyramid Networks”, The 23rd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’20), Virtual Conference, October 4 – 8, 2020, pp. 211 – 221. (This work was ranked number 1 and given an award in the MICCAI medical image registration challenge in 2020.) DOI website. GitHub.
+
+ 
+
+·       Yongxiang Huang and Albert C. S. Chung, “Edge-Variational Graph Convolutional Networks for Uncertainty-Aware Disease Prediction”, The 23rd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’20), Virtual Conference, October 4 – 8, 2020, pp. 562 – 572. (Yongxiang was one of the runners up and finalists in the MICCAI 2020 Yong Scientist Award selection.) DOI website. GitHub.
+
+ 
+
+·       Pei Wang and Albert C. S. Chung, “Learning Hierarchical Semantic Correspondence and Gland Instance Segmentation”, The 11th International Workshop on Machine Learning in Medical Imaging, (MLMI’19) in conjunction with the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’20), Virtual Conference, October 4 – 8, 2020, pp. 603 – 613. DOI website.
+
+ 
+
+·       Tony Chi Wing Mok and Albert C. S. Chung, “Fast Symmetric Diffeomorphic Image Registration with Convolutional Neural Networks”, The International Conference on Computer Vision and Pattern Recognition, (CVPR’20), Virtual Conference, June 14 – 19, 2020. Open access website.
+
+ 
+
+·       Jierong Wang and Albert C. S. Chung, “High-Order Oriented Cylindrical Flux for Curvilinear Structure Detection and Vessel Segmentation”, The 26th International Conference on Information Processing in Medical Imaging, (IPMI’19), Hong Kong, China, June 2 – 7, 2019, pp. 479 – 491. DOI website.
+
+ 
+
+·       Han Zhang and Albert C. S. Chung, “Lesion Detection with Deep Aggregated 3D Contextual Feature and Auxiliary Information”, The 10th International Workshop on Machine Learning in Medical Imaging, (MLMI’19), Shenzhen, China, October 13, 2019, pp. 45 – 53. DOI website.
+
+ 
+
+·       Rongzhao Zhang and Albert C. S. Chung, “A Fine-Grain Error Map Prediction and Segmentation Quality Assessment Framework for Whole-Heart Segmentation”, The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’19), Shenzhen, China, October 13 – 17, 2019, pp. 550 – 558. DOI website.
+
+ 
+
+·       Yongxiang Huang and Albert C. S. Chung, “Evidence Localization for Pathology Images Using Weakly Supervised Learning”, The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’19), Shenzhen, China, October 13 – 17, 2019, pp. 613 – 621. DOI website. GitHub.
+
+ 
+
+·       Yishuo Zhang and Albert C. S. Chung, “Deep Supervision with Additional Labels for Retinal Vessel Segmentation Task”, The 21st International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 83 – 91. DOI website.
+
+ 
+
+·       Tony Chi Wing Mok and Albert C. S. Chung, “Fully automatic segmentation of ischemic stroke lesion in 3D magnetic resonance image using deep convolutional neural networks with adversarial training”, Computer Assisted Radiology and Surgery, The 32nd International Congress and Exhibition, June 2018 (CARS’18), Berlin, Germany, June 20 – 23, 2018. DOI website.
+
+ 
+
+·       Yongxiang Huang and Albert C. S. Chung, “Improving High Resolution Histology Image Classification with Deep Spatial Fusion Network”, The First International Workshop on Computational Pathology and Ophthalmic Medical Image Analysis, (COMPAY’18), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 19 – 26. DOI website. GitHub.
+
+ 
+
+·       Zhou He, Siqi Bao and Albert C. S. Chung, “3D Deep Affine-Invariant Shape Learning for Brain MR Image Segmentation”, The 4th Workshop on Deep Learning in Medical Image Analysis, (DLMIA’18), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 56 – 64. DOI website.
+
+ 
+
+·       Pei Wang and Albert C. S. Chung, “Focal Dice Loss and Image Dilation for Brain Tumor Segmentation”, The 4th Workshop on Deep Learning in Medical Image Analysis, (DLMIA’18), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 119 – 127. DOI website.
+
+ 
+
+·       Rongzhao Zhang, Han Zhang and Albert C. S. Chung, “A Unified Mammogram Analysis Method via Hybrid Deep Supervision”, International Workshop on Breast Image Analysis, (BIA’18), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 107 – 115. DOI website.
+
+ 
+
+·       Tony Chi Wing Mok and Albert C. S. Chung, “Learning Data Augmentation for Brain Tumor Segmentation with Coarse-to-Fine Generative Adversarial Networks”, International MICCAI Brainlesion Workshop, (BrainLes’18), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’18), Granada, Spain, September 16 – 20, 2018, pp. 70 – 80. DOI website.
+
+ 
+
+·       Siqi Bao, Pei Wang, Tony Chi Wing Mok and Albert C. S. Chung, “3D Randomized Connection Network with Graph-based Label Inference”, IEEE Transactions on Image Processing, Vol. 27, No. 8, pages 3883 – 3892, 2018. DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “Multi-scale Structured CNN with Label Consistency for Brain MR Image Segmentation”, Computer Methods in Biomechanics and Biomedical Engineering, Vol. 6, No. 1, pages 113 – 117, 2018. DOI website.
+
+ 
+
+·       Siqi Bao, Pei Wang and Albert C. S. Chung, “3D Randomized Connection Network with Graph-based Inference”, The 3rd Workshop on Deep Learning in Medical Image Analysis, (DLMIA’17), in conjunction with the International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’17), Québec City, QC, Canada, September 14, 2017, pp. 47 – 55. DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “Feature Sensitive Label Fusion with Random Walker for Atlas-based Image Segmentation”, IEEE Transactions on Image Processing, Vol. 26, No. 6, pages 2797 – 2810, 2017. DOI website.
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “A novel learning-based dissimilarity metric for rigid and non-rigid medical image registration by using Bhattacharyya Distances”, Pattern Recognition, Vol. 62, No. 2, pages 161 – 174, February, 2017. DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “A unified framework for atlas-based segmentation with forward deformation and label refinement”, IEEE International Conference on Image Processing, (ICIP’16), Phoenix, USA, September 25 – 28, 2016, pp. 3374 – 3378. DOI website.
+
+ 
+
+·       Qing Zhang and Albert C. S. Chung, “3D Vessel Segmentation Using Random Walker with Oriented Flux Analysis and Direction Coherence”, The 7th International Conference on Medical Imaging and Augmented Reality, (MIAR’16), Bern, Switzerland, August 24 – 26, 2016, LNCS 9805, pp. 281 – 291. (with the Best Paper Award) DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “Feature Sensitive Label Fusion with Random Walker for Atlas-Based Image Segmentation”, The 19th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI’16), Athens, Greece, October 17 – 21, 2016, LNCS 9901, pp. 513 – 520. DOI website.
+
+ 
+
+·       Tal Arbel, Manuel Jorge Cardoso, William M. Wells III, Albert C. S. Chung and Doina Precup, “Editorial on Special Issue on Probabilistic Models for Biomedical Image Analysis”, Computer Vision and Image Understanding, Vol. 151, pages 1-2, October, 2016. DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “A Unified Framework for Atlas-based Segmentation with Forward Deformation and Label Refinement”, The 41st International Conference on Acoustics, Speech, and Signal Processing, ICASSP, (ICASSP’16), Shanghai, China, March 20 – 25, 2016. DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “Multi-scale Structured CNN with Label Consistency for Brain MR Image Segmentation”, The 1st Workshop on Deep Learning in Medical Image Analysis, DLMIA (DLMIA’15), in conjunction with The 18th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’15), Munich, Germany, October 5 – 9, 2015 (with the Best Paper Award). DOI website.
+
+ 
+
+·       Siqi Bao and Albert C. S. Chung, “Label Inference with Registration and Patch Priors”, The 17th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’14), Boston, MA, U.S.A., September 14 – 18, 2014, LNCS 8673, pp. 731 – 738. DOI website.
+
+ 
+
+·       Shu Liao, Dinggang Shen and Albert C. S. Chung, “A Markov Random Field Groupwise Registration Framework for Face Recognition”, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI, 2014), Vol. 36, No. 4, pages 657 – 669, April 2014. DOI website.
+
+ 
+
+·       Ning Zhu and Albert C. S. Chung, “Optimal and Efficient Segmentation for 3D Vascular Forest Structure with Graph Cuts”, IEEE International Conference on Image Processing, ICIP, (ICIP’13), Melbourne, Australia, September 15 – 18, 2013, pp. 1135 – 1139. DOI website.
+
+ 
+
+·       Ning Zhu and Albert C. S. Chung, “Random Walks with Adaptive Cylinder Flux based Connectivity for Vessel Segmentation”, The 16th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’13), Nagoya, Japan, September 22 – 26, 2013, LNCS 8150, pp.550 – 558.
+
+ 
+
+·       Ning Zhu and Albert C. S. Chung, “Graph-based Optimization with Tubularity Markov Tree for 3D Vessel Segmentation”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR, (CVPR’13), Portland, OR, USA, June 23 – 28, 2013, pp. 2219 – 2226.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “Segmentation of Intracranial Vessels and Aneurysms in Phase Contrast Magnetic Resonance Angiography using Multi-Range Filters and Local Variances”, IEEE Transactions on Image Processing, (TIP, 2013), Vol. 22, No. 3, pages 845 – 859, March 2013. DOI website.
+
+ 
+
+·       Yishan Luo and Albert C. S. Chung, “Non-rigid Image Registration with Crystal Dislocation Energy”, IEEE Transactions on Image Processing, (TIP, 2013), Vol. 22, No. 1, pages 229 – 243, January 2013. DOI website.
+
+ 
+
+·       William K. H. Wu, Albert C. S. Chung and Henry H. N. Lam, “Multi-resolution LC-MS Image Alignment using Dynamic Time Warping and Kullback-Leibler Distance”, The 19th International Conference on Image Processing, ICIP, (ICIP’12), Orlando, Florida, U.S.A., September 30 – October 3, 2012, pp. 1681 – 1684. DOI website.
+
+ 
+
+·       Ning Zhu and Albert C. S. Chung, “Graph-based Optimal Cross Section Boundary for Vessel Segmentation and Stenosis Quantification”, The 19th International Conference on Image Processing, ICIP, (ICIP’12), Orlando, Florida, U.S.A., September 30 – October 3, 2012, pp. 2041 – 2044. DOI website.
+
+ 
+
+·       Wilbur C. K. Wong, Ronald W. K. So and Albert C. S. Chung, “Principal Curves for Lumen Center Extraction and Flow Channel Width Estimation in 3-D Arterial Networks: Theory, Algorithm and Validation”, IEEE Transactions on Image Processing, (TIP, 2012), Vol. 21, No. 4, pages 1847 – 1862, April 2012. DOI website.
+
+ 
+
+·       Shu Liao, Max W. K. Law and Albert C. S. Chung, “Non-rigid Image Registration using Electric Current Flow”, IEEE Workshop on Mathematical Methods in Biomedical Image Analysis, MMBIA, (MMBIA’12), Breckenridge, USA, January 9, 2012, accepted and published electronically. DOI website.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Non-rigid Brain MR Image Registration using Uniform Spherical Region Descriptor”, IEEE Transactions on Image Processing, (TIP, 2012), Vol. 21, No. 1, pages 157 – 169, January 2012. DOI website.
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “Learning-based Multi-model Rigid Image Registration by using Bhattacharyya Distances”, The 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC, (EMBC’11), Boston, Massachusetts, USA, August 30 – September 3, 2011, pp. 2642 – 2645.
+
+ 
+
+·       Ning Zhu and Albert C. S. Chung, “Minimum Average-cost Path for Real Time 3D Coronary Artery Segmentation of CT Images”, The 14th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’11), Toronto, Canada, September 18 – 22, 2011, LNCS 6893, pp.436 – 444.
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “Learning-based Non-rigid Image Registration using Prior Joint Intensity Distributions with Graph-Cuts”, The 18th International Conference on Image Processing, ICIP, (ICIP’11), Brussels, Belgium, September 11 – 14, 2011, pp. 717 – 720.
+
+ 
+
+·       Ronald W. K. So, Tommy W. H. Tang and Albert C. S. Chung, “Non-rigid Image Registration of Brain Magnetic Resonance Images using Graph-Cuts”, Pattern Recognition, (Pattern Recognition, 2011), Vol. 44, No. 10 – 11, pages 2450 – 2467, October – November, 2011. DOI website.
+
+ 
+
+·       K. Hameeteman, M.A. Zuluaga, M. Freiman, L. Joskowicz, O. Cuisenaire, L. Flórez Valencia, M.A. Gülsün, K. Krissian, J. Mille, W.C.K. Wong, M. Orkisz, H. Tek, M. Hernández Hoyos, F. Benmansour, A.C.S. Chung, S. Rozie, M. van Gils, L. van den Borne, J. Sosna, P. Berman, N. Cohen, P.C. Douek, I. Sánchez, M. Aissat, M. Schaap, C.T. Metz, G.P. Krestin, A. van der Lugt, W.J. Niessen, T. van Walsum, “Evaluation Framework for Carotid Bifurcation Lumen Segmentation and Stenosis Grading”, Medical Image Analysis, (MedIA, 2011), Vol. 15, No. 4, pages 477 – 488, August 2011. DOI website.
+
+ 
+
+·       Yishan Luo and Albert C. S. Chung, “A Template-based Deep Brain Structure Segmentation Method: From Coarse Positioning to Fine Shaping”, The 36th International Conference on Acoustics, Speech and Signal Processing, ICASSP, (ICASSP’11), Prague, Czech Republic, May 22 – 27, 2011, pp. 1085 – 1088.
+
+ 
+
+·       Yuan Yuan, Yishan Luo and Albert C. S. Chung, “VE-LLI-VO: Vessel Enhancement using Local Line Integrals and Variational Optimization”, IEEE Transactions on Image Processing, (TIP, 2011), Vol. 20, No. 7, pages 1912 – 1924, July 2011. DOI website.
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “Non-rigid Image Registration by using Graph-cuts with Mutual Information”, The 17th International Conference on Image Processing, ICIP, (ICIP’10), Hong Kong, China, September 26 – 29, 2010, pp. 4429 – 4432.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “A New Subspace Learning Method in Fourier Domain for Texture Classification”, The 17th International Conference on Image Processing, ICIP, (ICIP’10), Hong Kong, China, September 26 – 29, 2010, pp. 4589 – 4592.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “An Oriented Flux Symmetry based Active Contour Model for Three Dimensional Vessel Segmentation”, The 11th European Conference on Computer Vision, ECCV, (ECCV’10), Hersonissos, Heraklion, Crete, Greece, September 5 – 11, 2010, LNCS 6313, pp. 720 – 734.
+
+ 
+
+·       Zhenyu He and Albert C. S. Chung, “3-D B-spline Wavelet-based Local Standard Deviation (BWLSD): Its Application to Edge Detection and Vascular Segmentation in Magnetic Resonance Angiography”, International Journal of Computer Vision, (IJCV, 2010), Vol. 87, Number 3, pages 235 – 265, May 2010. DOI website.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “A Novel Markov Random Field Based Deformable Model for Face Recognition”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR, (CVPR’10), San Francisco, CA, USA, June 13 – 18, 2010, published electronically (8 pages)
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “Multi-modal Non-rigid Image Registration based on Similarity and Dissimilarity with the Prior Joint Intensity Distributions ”, The Seventh IEEE International Symposium on Biomedical Imaging, ISBI, (ISBI’10), Rotterdam, The Netherlands, April 14 – 17, 2010, pp. 368 – 371.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “A Novel Multi-Layer Framework for Non-rigid Image Registration”, The Seventh IEEE International Symposium on Biomedical Imaging, ISBI, (ISBI’10), Rotterdam, The Netherlands, April 14 – 17, 2010, pp. 344 – 347.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Feature based Non-rigid Brain MR Image Registration with Symmetric Alpha Stable Filters”, IEEE Transactions on Medical Imaging, (TMI, 2010), Volume 29, No. 1, pages 106 – 119, January 2010. IEEE Website.
+
+ 
+
+·       Jue Wu , Wenchao Cai and Albert C. S. Chung, “POSIT: Part-based Object Segmentation without Intensive Training”, Pattern Recognition, (Pattern Recognition, 2010), Vol. 43, Issue 3, pages 676 – 684, March 2010. DOI website.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Face Recognition with Salient Local Gradient Orientation Binary Patterns”, The 16th International Conference on Image Processing, ICIP, (ICIP’09), Cairo, Egypt, November 7 – 11, 2009, pp. 3317 – 3320.
+
+ 
+
+·       Wilbur C. K. Wong, Ronald W. K. So and Albert C. S. Chung, “Principal Curves: A Technique for Preliminary Carotid Lumen Segmentation and Stenosis Grading”, 3D Segmentation in the Clinic: A Grand Challenge, in conjunction with the 12th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’09), London, UK, September 20 – 24, 2009, accepted for oral presentation. This work has been awarded the First Prize for the results in the Carotid Bifurcation Lumen Segmentation and Stenosis Grading.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “Multi-Object Detection and Segmentation of Brain Structures Based on Dynamic Programming”, PMMIA 2009: Probabilistic Models for Medical Image Analysis, in conjunction with the 12th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’09), London, UK, September 20 – 24, 2009, pp. 81 – 90. Workshop Proceedings.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Non-rigid Image Registration with Uniform Gradient Spherical Patterns”, The 12th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’09), London, UK, September 20 – 24, 2009, LNCS 5761, pp.696 – 704.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “A Deformable Surface Model for Vascular Segmentation”, The 12th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’09), London, UK, September 20 – 24, 2009, LNCS 5762, pp. 59 – 67.
+
+ 
+
+·       Yishan Luo and Albert C. S. Chung, “Non-rigid Image Registration using Local Histogram-based Features”, The 31st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC, (EMBC’09), Minneapolis, Minnesota, USA, September 2 – 6, 2009, pp. 5793 – 5796.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Non-rigid Image Registration with Uniform Spherical Structure Patterns”, The 21st International Conference on Information Processing in Medical Imaging 2009, IPMI, (IPMI’09), Williamsburg, VA, USA, July 5 – 10, 2009, LNCS 5636, pp. 163 – 175.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “A Novel Framework for Segmentation of Deep Brain Structures Based on Markov Dependence Tree”, NeuroImage, (NeuroImage, 2009), Vol. 46, No. 4, pages 1027 – 1036. DOI website.
+
+ 
+
+·       Fethallah Benmansour, Cohen Laurent, Max W. K. Law, Albert C. S. Chung, “Tubular anisotropy for 2D vessels segmentation”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR, (CVPR’09), Miami Beach, Florida, USA, June 20 – 25, 2009, published electronically (8 pages).
+
+ 
+
+·       Shu Liao, Max W. K. Law and Albert C. S. Chung, “Dominant Local Binary Patterns for Texture Classification”, IEEE Transactions on Image Processing, (TIP, 2009), Vol. 18, No. 5, pages 1107 – 1118, May, 2009.
+
+ 
+
+·       Ronald W. K. So and Albert C. S. Chung, “Multi-level Non-rigid Image Registration using Graph-Cuts”, The 33rd International Conference on Acoustics, Speech, and Signal Processing, ICASSP, (ICASSP’09), Taipei International Convention Center, Taipei, Taiwan, R.O.C., April 19 – 24, 2009, pp. 397 – 400.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “Efficient Implementation for Spherical Flux Computation and Its Application to Vascular Segmentation”, IEEE Transactions on Image Processing, (TIP, 2009), Vol. 18, No. 3, pages 596 – 612, February, 2009.
+
+ 
+
+·       Simon C. H. Yu, W. K. So, Albert C. S. Chung, K. T. Lee and George K. C. Wong, “A Compartmentalized Volumetric System for Outcome Analysis of Coiled Cerebral Aneurysms: Aneurysm-Coil Mass-Neck Outcome Assessment System”, Neurosurgery, (Neurosurgery, 2009), January, 64(1):149-154; discussion 154-155. PubMed Link.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “Three Dimensional Curvilinear Structure Detection Using Optimally Oriented Flux”, The 10th European Conference on Computer Vision, ECCV, (ECCV’08), Marseille, France, October 12 – 18, 2008, LNCS 5305, pp. 368 – 382.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “Markov Dependence Tree-based Segmentation of Deep Brain Structures”, The 11th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’08), New York University, NY, USA, September 6 – 10, 2008, LNCS 5242, pp. 1092 – 1100.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Non-rigid Image Registration with S-alpha-S Filters”, The 11th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’08), New York University, NY, USA, September 6 – 10, 2008, LNCS 5242, pp. 888 – 896.
+
+ 
+
+·       Yuan Yuan and Albert C. S. Chung, “Multi-scale Model-based Vessel Enhancement using Local Line Integrals”, The 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC, (EMBC’08), Vancouver, British Columbia, Canada, August 20 – 24, 2008, pp. 2225 – 2228.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Principal Curves to Extract Vessels in 3D Angiograms”, IEEE Computer Society Workshop on Mathematical Methods in Biomedical Image Analysis, MMBIA, (MMBIA’08), Anchorage, Alaska, USA, June 27 – 28, 2008, published electronically (8 pages).
+
+ 
+
+·       Sai-Kit Yeung, Chi-Keung Tang, Pengcheng Shi, Josien P. W. Pluim, Max A. Viergever, Albert C. S. Chung, Helen C. Shen, “Enforcing Stochastic Inverse Consistency in Non-Rigid Image Registration and Matching”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR, (CVPR’08), Anchorage, Alaska, USA, June 24 – 26, 2008, published electronically (8 pages).
+
+ 
+
+·       Rui Gan, Albert C. S. Chung and Shu Liao, “Maximum Distance-Gradient for Robust Image Registration”, Medical Image Analysis, (MedIA, 2008), Vol. 12, No. 4, August 2008, pages 452 – 468. DOI website.
+
+ 
+
+·       Simon C. H. Yu, Wilbur C. K. Wong, and Albert C. S. Chung, “A Loose-packing Approach for Coil Embolization of Giant Intracranial Aneurysm”, Asian Journal of Surgery, Vol. 30, No. 4, pages 298 – 301, October, 2007.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Face Recognition by Using Elongated Local Binary Patterns with Average Maximum Distance Gradient Magnitude”, The Eighth Asian Conference on Computer Vision, ACCV (ACCV’07), Tokyo, Japan, November 18 – 22, 2007, LNCS 4844, pp. 672 – 679.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “Segmentation of Intracranial Aneurysms using Multi-Range Filters and Local Variances”, The 10th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’07), Brisbane, Australia, October 29 – November 2, 2007, LNCS 4791, pp. 866 – 874.
+
+ 
+
+·       Tommy W. H. Tang and Albert C. S. Chung, “Non-Rigid Image Registration using Graph-Cuts”, The 10th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, (MICCAI’07), Brisbane, Australia, October 29 – November 2, 2007, LNCS 4791, pp. 916 – 924.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Probabilistic Vessel Axis Tracing and Its Application to Vessel Segmentation with Stream Surfaces and Minimum Cost Paths”, Medical Image Analysis, (MedIA, 2007), Vol. 11, No. 6, pages 567 – 587, December, 2007.
+
+ 
+
+·       Max W. K. Law and Albert C. S. Chung, “Weighted Local Variance Based Edge Detection and Its Application to Vascular Segmentation in Magnetic Resonance Angiography”, Special Issue of the IEEE Transactions on Medical Imaging on Mathematical Modeling in Biomedical Image Analysis, (TMI, 2007), Volume 26, No. 9, pages 1224 – 1241, September, 2007.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Multi-modal Image Registration by Using Ordinal Features and Multi-Dimensional Mutual Information”, The Fourth IEEE International Symposium on Biomedical Imaging, ISBI, (ISBI’07), Metro Washington, D.C., U.S.A., April 12 – 15, 2007, pp. 5 – 8.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “Markov Random Field Energy Minimization via Iterated Cross Entropy with Partition Strategy”, The 32nd International Conference on Acoustics, Speech, and Signal Processing, ICASSP, (ICASSP’07), Hawai’i Convention Center, Honolulu, Hawaii, U.S.A., April 15 – 20, 2007, Volume I, pp. 457 – 460.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Texture Classification by using Advanced Local Binary Patterns and Spatial Distribution of Dominant Patterns”, The 32nd International Conference on Acoustics, Speech, and Signal Processing, ICASSP, (ICASSP’07), Hawai’i Convention Center, Honolulu, Hawaii, U.S.A., April 15 – 20, 2007, Volume I, pp. 1221 – 1224.
+
+ 
+
+·       Albert C. S. Chung, Rui Gan and William M. Wells III, “Robust Multi-modal Image Registration Based on Prior Joint Intensity Distributions and Minimization of Kullback-Leibler Distance”, HKUST CSE Technical Report, HKUST-CS07-01, January, 2007.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “A Segmentation Model Using Compound Markov Random Fields Based on a Boundary Model”, IEEE Transactions on Image Processing, (TIP, 2007), Vol. 16, No. 1, pages 241 – 252, January, 2007.
+
+ 
+
+·       Albert C. S. Chung, “Image Segmentation Methods for Detecting Blood Vessels in Angiography”, The 9th International Conference on Control, Automation, Robotics and Vision, ICARCV (ICARCV2006), Singapore, December 5 – 8, 2006, pp. 1424 – 1429. An invited paper to a special session on medical image analysis.
+
+ 
+
+·       Yang Xiang, Albert C. S. Chung and Jian Ye, “An Active Contour Model for Image Segmentation Based on Elastic Interaction”, Journal of Computational Physics (JCP, 2006), Vol. 219, No. 1, pages 455 – 476, November, 2006.
+
+ 
+
+·       Wenchao Cai, Jue Wu and Albert C. S. Chung, “Shape-based Image Segmentation using Normalized Cuts”, The 13th International Conference on Image Processing, ICIP, (ICIP’06), Atlanta, GA, USA, October 8 – 11, 2006, pp. 1101 – 1104.
+
+ 
+
+·       Shu Liao, Wei Fan, Albert C. S. Chung and Dit-Yan Yeung, “Facial Expression Recognition using Advanced Local Binary Patterns, Tsallis Entropies and Global Appearance Features”, The 13th International Conference on Image Processing, ICIP (ICIP’06), Atlanta, GA, USA, October 8 – 11, 2006, pp. 665 – 668.
+
+ 
+
+·       Shu Liao and Albert C. S. Chung, “Multi-modal Image Registration using the Generalized Survival Exponential Entropy”, The 9th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, 2006 (MICCAI’06), Copenhagen, Denmark, October 1 – 6, 2006, LNCS 4191, pp. 964 – 971.
+
+ 
+
+·       Wenchao Cai and Albert C. S. Chung, “Multi-resolution Vessel Segmentation Using Normalized Cuts in Retinal Images”, The 9th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, 2006 (MICCAI’06), Copenhagen, Denmark, October 1 – 6, 2006, LNCS 4191, pp. 928 – 936.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Toward Interactive User Guiding Vessel Axis Extraction from Gray-scale Angiograms: An Optimization Framework”, The 9th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI, 2006 (MICCAI’06), Copenhagen, Denmark, October 1 – 6, 2006, LNCS 4190, pp. 223 – 231.
+
+ 
+
+·       K. K. Lau and Albert C. S. Chung, “A global optimization strategy for 3D-2D registration of vascular images”, The 17th British Machine Vision Conference, BMVC, 2006 (BMVC’06), Edinburgh, U.K., September 4 – 7, 2006, Volume II, pp. 489 – 498.
+
+ 
+
+·       Simon C. H. Yu, Wilbur C. K. Wong, Albert C. S. Chung, Kwok-Tung Lee, George K. C. Wong and Wai S. Poon, “Does Endoluminal Coil Embolization Cause Distension of Intracranial Aneurysms?”, Neuroradiology, (Neuroradiology, 2006), Vol. 48, No. 9, pp. 653 – 660, September 2006.
+
+ 
+
+·       Tommy W. H. Tang and Albert C. S. Chung, “Cerebral Vascular Tree Matching of 3D-RA Data Based on Tree Edit Distance”, The Third International Workshop on Medical Imaging and Augmented Reality, MIAR, 2006 (MIAR’06), Shanghai, China, August 17 – 18, 2006, LNCS 4091, pp. 116 – 123.
+
+ 
+
+·       W. K. Law and Albert C. S. Chung, “Segmentation of Vessels using Weighted Local Variances and an Active Contour Model”, IEEE Computer Society Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA’06), New York City, NY, USA, June 17 – 18, 2006, pp. 83, published electronically (8 pages).
+
+ 
+
+·       Rui Gan and Albert C. S. Chung, “Robust Optimization using Disturbance for Image Registration”, The Third International Workshop on Biomedical Image Registration, WBIR, 2006 (WBIR’06), Utrecht, The Netherlands, July 9 – 11, 2006, LNCS 4057, pp. 280 – 288.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Augmented Vessels for Quantitative Analysis of Vascular Abnormalities and Endovascular Treatment Planning”, IEEE Transactions on Medical Imaging, (TMI, 2006), Vol. 25, No. 6, pages 665 – 684, June, 2006.
+
+ 
+
+·       Ming-Yuen Chan, Yingcai Wu, Huamin Qu, Albert C. S. Chung and Wilbur C. K. Wong, “MIP-Guided Vascular Image Visualization with Multi-Dimensional Transfer Function”, The 24th Computer Graphics International Conference, CGI, 2006 (CGI’06), Hangzhou, China, June 26 – 28, 2006, LNCS 4035, pp. 372 – 384.
+
+ 
+
+·       S. Liao, W. K. Law and Albert C. S. Chung, “Combining Microscopic and Macroscopic Information for Rotation and Histogram Equalization Invariant Texture Classification”, The Seventh Asian Conference on Computer Vision 2006 (ACCV’06), Hyderabad, India, Jan. 13 – 16, 2006, LNCS 3851, Vol. 1, pp. 100 – 109.
+
+ 
+
+·       W. K. Law and Albert C. S. Chung, “Minimal Weighted Local Variance as Edge Detection for Active Contour Models”, The Seventh Asian Conference on Computer Vision 2006 (ACCV’06), Hyderabad, India, Jan. 13 – 16, 2006, LNCS 3851, Vol. 1, pp. 622 – 632.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “Cross Entropy: A New Solver for Markov Random Field Modeling and Applications to Medical Image Segmentation”, The Eighth International Conference on Medical Image Computing and Computer-Assisted Intervention 2005 (MICCAI’05), Palm Springs, California, USA, Oct. 26 – 29, 2005, LNCS 3749, pp. 229 – 237.
+
+ 
+
+·       Rui Gan and Albert C. S. Chung, “Distance-Intensity for Image Registration”, The International Workshop on Computer Vision for Biomedical Image Applications: Current Techniques and Future Trends, in conjunction with The Tenth IEEE International Conference on Computer Vision (ICCV Workshop’05), Beijing, China, Oct. 21, 2005, LNCS 3765, pp. 281 – 290.
+
+ 
+
+·       Albert C. S. Chung, Yang Xiang, Jian Ye and W. K. Law, “Elastic interaction models for active contours and surfaces”, The International Workshop on Computer Vision for Biomedical Image Applications: Current Techniques and Future Trends, in conjunction with The Tenth IEEE International Conference on Computer Vision (ICCV Workshop’05), Beijing, China, Oct. 21, 2005, LNCS 3765, pp. 314 – 323.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “A Segmentation Method Using Compound Markov Random Fields Based on a General Boundary Model”, The International Conference on Image Processing 2005 (ICIP’05), Genoa, Italy, September 11 – 14, 2005, Vol. II, pp. 1182 – 1185.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Bayesian Image Segmentation Using Local Iso-intensity Structural Orientation”, IEEE Transactions on Image Processing, 2005 (TIP, 2005), Vol. 14, No. 10, pages 1512 – 1523, October, 2005. Colour version
+
+ 
+
+·       Rui Gan, Wilbur C. K. Wong, and Albert C. S. Chung, “Statistical Cerebrovascular Segmentation in Three-Dimensional Rotational Angiography Based on Maximum Intensity Projections”, Medical Physics, 2005 (MedPhy, 2005), Vol. 32, No. 9, pages 3017 – 3028, September, 2005.
+
+ 
+
+·       Rui Gan and Albert C. S. Chung, “Multi-dimensional Mutual Information Based Robust Image Registration Using Maximum Distance-Gradient-Magnitude”, The 19th International Conference on Information Processing in Medical Imaging 2005 (IPMI’05), Glenwood Springs, Colorado, USA, July 10 – 15, 2005, LNCS 3565, pp.210 – 221.
+
+ 
+
+·       Yang Xiang, Albert C. S. Chung, and Jian Ye, “A New Active Contour Method based on Elastic Interaction”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2005 (CVPR’05), San Diego, CA, USA, June 20 – 26, 2005, Vol. 1, pp.452 – 457.
+
+ 
+
+·       Albert C. S. Chung, J. Alison Noble and P. Summers, “Vascular Segmentation of Phase Contrast Magnetic Resonance Angiograms Based on Statistical Mixture Modeling and Local Phase Coherence”, IEEE Transactions on Medical Imaging, 2004 (TMI, 2004), Vol. 23, No. 12, pages 1490 – 1507, December, 2004. Google Scholar Search
+
+ 
+
+·       Rui Gan, Jue Wu, Albert C. S. Chung, Simon C. H. Yu and William M. Wells III, “Multiresolution image registration based on Kullback-Leibler distance”, The Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention 2004 (MICCAI’04), Rennes, Saint-Malo, France, Sept. 26 – 30, LNCS 3216, pp. 599 – 606. Google Scholar Search
+
+ 
+
+·       Wilbur C. K. Wong, Albert C. S. Chung, and Simon C. H. Yu, “Augmented Vessels for Pre-operative Preparation in Endovascular Treatments”, The Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention 2004 (MICCAI’04), Rennes, Saint-Malo, France, Sept. 26 – 30, LNCS 3217, pp. 602 – 609.
+
+ 
+
+·       Jue Wu and Albert C. S. Chung, “Multimodal Brain Image Registration Based on Wavelet Transform Using SAD and MI”, The Second International Workshop on Medical Imaging and Augmented Reality (MIAR’04), Beijing, China, August 19 – 20, LNCS 3150, pp. 270 – 277.
+
+ 
+
+·       Wilbur C. K. Wong, and Albert C. S. Chung, “A Non-linear and Non-iterative Noise Reduction Technique for Medical Images: Concept and Methods Comparison”, Computer Assisted Radiology and Surgery, The 18th International Congress and Exhibition, June 2004 (CARS’04), Chicago, USA, June 23 – 26, pp. 171 – 176.
+
+ 
+
+·       Rui Gan, Wilbur C. K. Wong, Albert C. S. Chung, and Simon C. H. Yu, “Statistical Cerebrovascular Segmentation in Three-Dimensional Rotational Angiography Based on Maximum Intensity Projections”, Computer Assisted Radiology and Surgery, The 18th International Congress and Exhibition, June 2004 (CARS’04), Chicago, USA, June 23 – 26, pp. 195 – 200.
+
+ 
+
+·       Wilbur C. K. Wong and Albert C. S. Chung, “Trilateral Filtering: A Non-linear Noise Reduction Technique for MRI”, International Society for Magnetic Resonance in Medicine, The 12th Scientific Meeting and Exhibition, May 2004 (ISMRM’04), Kyoto, Japan, May 15 – 21, page 2218.
+
+ 
+
+·       Wilbur C. K. Wong, Albert C. S. Chung and Simon C. H. Yu, “Trilateral Filtering for Biomedical Images”, IEEE International Symposium on Biomedical Imaging: From Nano to Macro, April 2004 (ISBI’04), Arlington, VA, USA, April 15-18, pp. 820 – 823.
+
+ 
+
+·       Rui Gan, Albert C. S. Chung, Wilbur C. K. Wong and Simon C. H. Yu, “Vascular Segmentation in Three-Dimensional Rotational Angiography Based on Maximum Intensity Projections”, IEEE International Symposium on Biomedical Imaging: From Nano to Macro, April 2004 (ISBI’04), Arlington, VA, USA, April 15-18, pp. 133 – 136.
+
+ 
+
+·               H. M. Chan, Simon C. H. Yu, William M. Wells III and Albert C. S. Chung, “2D-3D Vascular Registration between Digital Subtraction Angiographic (DSA) and Magnetic Resonance Angiographic (MRA) Images”, IEEE International Symposium on Biomedical Imaging: From Nano to Macro, April 2004 (ISBI’04), Arlington, VA, USA, April 15-18, pp. 708 – 711.
+
+ 
+
+·       Wilbur C. K. Wong, Albert C. S. Chung and Simon C. H. Yu, “Local Orientation Smoothness Prior for Vascular Segmentation of Angiography”, The 8th European Conference on Computer Vision (ECCV’04), Prague, May 11-14, Volume 2, pp. 353 – 365.
+
+ 
+
+·       Ho-Ming Chan, Albert C. S. Chung, Simon C. H. Yu, Alexander Norbash and William M. Wells III, “Multi-modal image registration by minimizing Kullback-Leibler distance between expected and observed joint class histograms”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2003 (CVPR’03), Volume 2, Page: 570 – 576. Google Scholar Search
+
+ 
+
+·       Salil Soman, Albert C. S. Chung, W Eric L Grimson and William M Wells III, “Rigid Registration of Echoplanar and Conventional Magnetic Resonance Images by Minimizing the Kullback-Leibler Distance”, Second International Workshop on Biomedical Image Registration, 2003 (WBIR’03), pp. 181 – 190.
+
+ 
+
+·       Ho-Ming Chan and Albert C. S. Chung, “Efficient 3D-3D Vascular Registration Based on Multiple Orthogonal 2D Projections”, Second International Workshop on Biomedical Image Registration, 2003 (WBIR’03), pp.301 – 310.
+
+ 
+
+·       Albert C. S. Chung, William M. Wells III, Alexander Norbash and W. Eric L. Grimson, “Multi-modal image registration by minimising Kullback-Leibler distance”, The Fifth International Conference on Medical Image Computing and Computer-Assisted Intervention 2002 (MICCAI’02), Tokyo, Japan, Sept. 25 – 28, LNCS 2489, pp. 525 – 532.
+
+ 
+
+·       Albert C. S. Chung, J. Alison Noble and P. Summers, “Fusing Magnitude and Phase Information for Vascular Segmentation in Phase Contrast MR Angiograms”, Medical Image Analysis, Vol. 6, pages 109 – 128, 2002 (MedIA, 2002). Google Scholar Search
+
+ 
+
+·       Albert C. S. Chung, “Vessel and Aneurysm Reconstruction using Speed and Flow Coherence Information in Phase Contrast Magnetic Resonance Angiograms”, D. Phil. Dissertation, Medical Vision Laboratory, Robotics Research Group, Department of Engineering Science, Oxford University, 2001. Winner of the 2002 Sullivan Doctoral Thesis Prize (The best doctoral thesis submitted to a UK University in the field of computer or natural vision).
+
+ 
+
+·       Robert A. McLaughlin, John Hipwell, Graeme P. Penney, Kawal Rhode, Albert C. S. Chung, J Alison Noble and David J. Hawkes, “Intensity-based Registration versus Feature-based Registration for Neurointerventions”, Medical Image Understanding and Analysis (MIUA’01), The University of Birmingham, UK, July 16 – 17, 2001.
+
+ 
+
+·       Albert C. S. Chung, J. Alison Noble, P. Summers and Michael Brady, “Three-dimensional Vascular Segmentation using MRA Statistics and Velocity Field Information in Phase Contrast MRA”, The 17th International Conference on Information Processing in Medical Imaging 2001 (IPMI’01), Davis, CA, USA, June 18 – 22, LNCS 2082, pp. 461 – 467.
+
+ 
+
+·       Albert C. S. Chung, J. Alison Noble and Paul Summers, “Fusing Speed and Phase Information for Vascular Segmentation in Phase Contrast MR Angiograms”, The Third International Conference on Medical Image Computing and Computer-Assisted Intervention 2000 (MICCAI’00), Pittsburgh, Pennsylvania, USA, Oct. 11 – 14, LNCS 1935, pp. 82 – 89.
+
+ 
+
+·       A. C. S. Chung, P. A. Armitage, P. Summers and J. A. Noble, “Statistical analysis of background noise in diffusion images”, The annual meeting of the European Society of Magnetic Resonance in Medicine and Biology 2000 (ESMRMB’00), pp.114.
+
+ 
+
+·       Paul Summers, Albert C. S. Chung and J. A. Noble, “Impact of Image Processing Operations on MR Noise Distributions”, International Society for Magnetic Resonance in Medicine, The 8th Scientific Meeting and Exhibition, April 2000 (ISMRM’00), Denver, Colorado, USA, April 3 – 7, page 1779.
+
+ 
+
+·       Albert C. S. Chung and Helen C. Shen, “Entropy based Markov chains for multisensor fusion”, Journal of Intelligent and Robotic Systems, Vol. 29, No. 2, pages 161 – 189, October, 2000.
+
+ 
+
+·       Albert C. S. Chung and J. Alison Noble, “Statistical 3D Vessel Segmentation Using a Rician Distribution”, The 2nd International Conference on Medical Image Computing and Computer-Assisted Intervention 1999 (MICCAI’99), Cambridge, UK, Sept. 19 – 22, LNCS 1679, pp. 82 – 89. Google Scholar Search
+
+ 
+
+·       Albert C. S. Chung and Helen C. Shen, “Integrating Dependent Sensory Data”, IEEE International Conference on Robotics and Automation, 1998 (ICRA’98), May 16 – 20, Leuven, Belgium, Vol. 4, pp. 3546 – 3551.
+
+ 
+
+·       Albert C. S. Chung and Helen C. Shen, “Dependence in Sensory Data Combination”, IEEE/RSJ International Conference on Intelligent Robots and Systems, 1998 (IROS’98), October 13 – 17, Victoria, B.C., Canada, Vol. 3, pp. 1676 – 1681.
+
+ 
+
+·       Albert C. S. Chung, Helen C. Shen and Otman A. Basir, “Decentralized Approach to Sensory Data Integration”, IEEE/RSJ International Conference on Intelligent Robots and Systems, 1997 (IROS’97), September 7 – 11, Grenoble, France, Vol. 3, pp. 1409 – 1414.
+
+ 
+
+IEEE COPYRIGHT NOTICE: 1997 IEEE. Personal use of this material is permitted. However, permission to reprint/ republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.
+
+COPYRIGHT NOTICE: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+
+ 
+Graduated Students and Alumni
+Postdoctoral Researchers:
+
+1.     Dr. Kam Keung (KK) LAU (Dec 1, 2005 – Jun 15, 2006)
+
+2.     Dr. Zhenyu (Terry) HE (Jan 3, 2007 – Feb 26, 2009; He joined the Department of Electronics and Information Engineering at the Huazhong University of Science and Technology as an associate professor)
+
+3.     Dr. Jue (John) WU (Sept 4, 2008 – Feb 28, 2009; He joined the PICSL at the University of Pennsylvania, USA as a postdoctoral research fellow)
+
+4.     Dr. Wilbur Chun Kit WONG (Sept 1, 2006 – Oct 14, 2006; Dec 2, 2007 – Aug 31, 2009; He joined Thomson Reuters in Sept 2009)
+
+ 
+
+ 
+
+PhD (Doctor of Philosophy, or D.Phil. in the UK) Students:
+
+1.     Dr. Rui GAN (Computer Science, Summer 2006; She moved to Zurich in September, 06; joined the Department of Information Science, School of Mathematical Sciences, Peking University as a lecturer in January, 09)
+
+2.     Dr. Wilbur Chun Kit WONG (Computer Science, Summer 2006; He moved to the U.S.A. in October, 06; joined HKUST as a postdoctoral research fellow in December, 07; joined Thomson Reuters in Sept 2009)
+
+3.     Dr. Jue (John) WU (Bio-engineering, Summer 2008; He joined HKUST as postdoctoral research fellow in September, 08; joined the PICSL at the University of Pennsylvania, USA as a postdoctoral research fellow in March, 09)
+
+4.     Dr. Wai Kong (Max) LAW (Computer Science and Engineering, Summer 2010; He joined Siemens Corporate Research, Princeton, New Jersey, USA, as an Intern, March 09 – August 09; He joined the Digital Imaging Group of London as postdoctoral fellow with Shuo Li, GE Healthcare and University of Western Ontario, Canada in Sept 2010)
+
+5.     Dr. Shu (Billy) LIAO (Computer Science and Engineering, Summer 2010; He joined The University of North Caroline at Chapel Hill as postdoctoral research fellow with Dinggang Shen in Sept 2010)
+
+6.     Dr. Yi Shan (Lisa) LUO (Computer Science and Engineering, Summer 2012; She joined Hong Kong Sanatorium & Hospital as Medical Physicist in 2012)
+
+7.     Dr. Ning (Joanna) ZHU (Computer Science and Engineering, Summer 2014; She joined Imaging Systems for Radiotherapeutics Group, Stanford School of Medicine, Stanford University as Postdoctoral Scholar in 2014)
+
+8.     Dr. Ronald Wai King SO (Computer Science and Engineering, January 2017; He is currently working full-time as a Resident Physicist at the Princess Margaret Hospital, Hong Kong.)
+
+9.     Dr. Siqi (Portia) BAO (Computer Science and Engineering, Summer 2017; She is currently working full-time as a R&D Engineer at Baidu, Shenzhen.)
+
+10.  Dr. Pei (Wynonna) WANG (Computer Science and Engineering, Summer 2020; She is currently working full-time as a Data Scientist at Netixis, Hong Kong.)
+
+11.  Dr. Yongxiang (Jason) HUANG (Computer Science and Engineering, Winter 2021; He is currently working full-time as an R&D Engineer at Tencent, Shenzhen.)
+
+12.  Dr. Yishuo ZHANG (Computer Science and Engineering, Spring 2022; He is currently with Huawei)
+
+13.  Dr. Rongzhao ZHANG (Computer Science and Engineering, Spring 2022; He is currently with Shanghai AI Laboratory)
+
+14.  Dr. Jierong WANG (Computer Science and Engineering, Spring 2022; He is currently with the Hong Kong Sanatorium & Hospital)
+
+15.  Dr. Tony Chi Wing MOK (Computer Science and Engineering, Summer 2022; He is currently with Alibaba)
+
+16.  Dr. Colin Siu Chung TSANG (Computer Science and Engineering, Summer 2023; He is currently with The Chinese University of Hong Kong)
+
+ 
+
+ 
+
+M.Phil. (Master of Philosophy) Students:
+
+1.     Mr. Ho Ming CHAN (Computer Science, Summer 2003)
+
+2.     Mr. Wilbur Chun Kit WONG (Computer Science, Summer 2003)
+
+3.     Ms. Xing ZHANG (Computer Science, Summer 2003) (Co-supervised with Prof. Gary CHAN)
+
+4.     Mr. Jian YE (Math., Summer 2005) (Co-supervised with Prof. Yang XIANG)
+
+5.     Mr. Wai Kong (Max) LAW (Computer Science, Summer 2006)
+
+6.     Mr. Ming Yuen CHAN (Computer Science, Summer 2006) (Co-supervised with Prof. Huamin QU)
+
+7.     Mr. Shu (Billy) LIAO (Computer Science and Engineering, Summer 2007)
+
+8.     Mr. Wai Ho (Tommy) TANG (Computer Science and Engineering, Summer 2007)
+
+9.     Mr. Yuan (Vincent) YUAN (Computer Science and Engineering, Summer 2008)
+
+10.  Mr. Wai King (Ronald) SO (Computer Science and Engineering, Summer 2009)
+
+11.  Mr. Kai Ho (William) WU (Computer Science and Engineering, Summer 2014)
+
+12.  Ms. Qing (Chloe) ZHANG (Electronic and Computer Engineering, May 2017)
+
+13.  Ms. Han ZHANG (Computer Science and Engineering, Summer 2022)
+
+ 
+
+ 
+
+M.Sc. (Master of Science) Project Students:
+
+1.     Miss Yee Man (Shirley) WONG (Computer Science, Fall 2002)
+
+2.     Mr. Wai Ip CHOI (Computer Science, Summer 2004)
+
+3.     Miss Cherrie Ng (Computer Science, Summer 2004)
+
+ 
+
+Alumni
+
+1.     Mr. Wenchao CAI (Computer Science and Engineering, Sept 05 – Dec 06)
+
+ 
+
+ 
+Classes
+COMP697E: Independent Studies: Medical Imaging and Image Analysis (Fall 2007)
+
+COMP696X: Independent Studies: Mathematical Methods in Biomedical Image Analysis (Spring 2007)
+
+COMP621T: Advanced Topics in Artificial Intelligence: Image Analysis and Processing (Spring 2010)
+
+COMP621E: Advanced Topics in Artificial Intelligence: Medical Image Analysis and Processing. (Spring 2002)
+
+COMP520: Fundamentals of Digital Image Processing. (Fall 2003)
+
+BIEN504: Introduction to Bioengineering (Spring 2010)
+
+ 
+
+COMP390D: Directed Studies (Honors Study Track) (Spring 2007)
+
+COMP390C: Directed Studies (Honors Study Track) (Spring 2006, Fall 2009)
+
+COMP344: Image Processing (Fall 2005)
+
+COMP300Z: Introduction to Image Processing. (Fall 2002, Fall 2004)
+
+COMP4421: Image Processing (Fall 2011, Fall 2012, Fall 2013, Fall 2014, Spring 2016, Fall 2016, Fall 2017, Fall 2018, Fall 2019, Fall 2020)
+
+ 
+
+COMP2011: Programming with C++ (Spring 2015, Spring 2019)
+
+COMP1021: Introduction to Computer Science (Spring 2013, Spring 2014)
+
+ 
+
+COMP290B: Directed Studies (Honors Study Track) (Fall 2005)
+
+ 
+
+COMP104: Programming Fundamentals and Methodology (Fall 2009)
+
+COMP104H: Programming Fundamentals and Methodology (Honors Study Track) (Fall 2007, Fall 2008)
+
+COMP152: Object-Oriented Programming and Data Structures (Spring 2011)
+
+COMP171H: Data Structures and Algorithms (Honors Study Track) (Fall 2007, Fall 2008)
+
+COMP171: Data Structures and Algorithms (Spring 2005, Spring 2006, Spring 2007, Spring 2008)
+
+COMP180: Introduction to Computer Organization. (Spring 2003, Spring 2004)
+
+ 
+
+ 
+FYP (Final Year Project) and FYT (Final Year Thesis) Students:
+ 
+
+Years
+
+Titles
+
+Names
+
+2003-2004
+
+(FYP)
+
+Application of image processing techniques to tissue texture analysis and image compression
+
+ 
+
+Awards:
+
+1.   Champion in the Hang Seng Innovative Design Competition 2003 – 2004.
+
+2.   Silver Award in the HKUST President’s Cup, 2003 – 2004, at HKUST.
+
+3.   Finalist in the IEEE FYP competition 2003 – 2004. (Hong Kong Neural Network Chapter).
+
+4.   Finalist in the Hong Kong Intelligence@society Contest 2004.   
+
+ 
+
+This project has also been invited to give presentation in the HKUST Twelfth Congregation dinner on Nov. 12, 2004.
+
+ 
+
+News in the newspapers:
+
+Ming Pao Daily, June 20, 2004, news
+
+Oriental Daily, June 20, 2004, news 
+
+ 
+
+Mr. Tsz Chung (Kimo) LAI
+
+(Joined our MPhil program at UST in 2004)
+
+ 
+
+Mr. Wai Kong (Max) LAW
+
+(Joined our MPhil program at UST in 2004 and PhD program at UST in 2006)
+
+ 
+
+2003-2004
+
+(FYP)
+
+Interactive segmentation tools for clinicians
+
+Mr. Kin On (Anson) LAU
+Mr. Ho Man TSUI
+Mr. Tat Hang LEUNG
+
+ 
+
+2003-2004
+
+(FYP)
+
+Real-Time Guide Wire/Catheter Tracking
+
+Mr. Kin Ming (Ricky) LEE
+
+(Exchange student at the U. of Penn., USA, 2003 – 2004)
+
+ 
+
+2004-2005
+
+(FYP)
+
+Medical Image Segmentation and Applications
+
+Mr. Shu (Billy) LIAO
+
+(Exchange student at the U. of Penn., USA, 2003 – 2004,
+
+Joined our MPhil program at UST in 2005 and PhD program at UST in 2007)
+
+ 
+
+Mr. Ki Fung (Teddy) HUI
+
+(Joined our placement program at HSBC in 2004 – 2005)
+
+ 
+
+Mr. Ho Lung (Alan) WONG
+
+ 
+
+2005-2006
+
+(FYP)
+
+A System for Traffic Flow Analysis
+
+ 
+
+Mr. Mian QIN
+
+(Joined our MPhil program at UST in 2006)
+
+ 
+
+Mr. Tin Tak (Alex) YEUNG
+
+ 
+
+2006-2007
+
+(FYT)
+
+ 
+
+A System for Endovascular Treatment Planning
+
+(This project was designed for elite students. CGA should be A- or above.)
+
+ 
+
+Mr. Wai King SO
+
+(An honors-track student in the Computer Engineering Program, Joined our MPhil program at UST in 2007, and joined out PhD program in 2009)
+
+ 
+
+2006-2007
+
+(FYP)
+
+ 
+
+Image Inpainting
+
+Mr. Chi Wai (Victor) CHEUNG
+
+(Joined our MPhil program at UST in 2007, and joined out PhD program in 2009)
+
+ 
+
+2006-2007
+
+(FYP)
+
+ 
+
+Music Score Translation
+
+Mr. Parlyn CHAU
+
+Mr. Ka Ho CHIU
+
+ 
+
+2007-2008
+
+(FYP)
+
+Non-rigid Image Registration
+
+ 
+
+Mr. Chenfeng (Kangol) LI
+
+(Joined our MPhil program at UST in 2009)
+
+ 
+
+2007-2008
+
+(FYP)
+
+The development of Peer-to-Peer Wireless Networks
+
+Mr. Chung Leung CHAN
+
+Mr. Faat Keung CHEUNG
+
+ 
+
+2008-2009
+
+(FYP)
+
+ 
+
+Image Analyzer: Chinese/English Character Recognition
+
+Mr. Yeuk Chuen HO
+
+Mr. Kwan Yu TAI
+
+Mr. Wai Fung TSE
+
+ 
+
+2008-2009
+
+(FYP)
+
+ 
+
+Photo Repairing
+
+Mr. Chun Yin (Brian) LAI
+
+Ms. Sin Man (Jackie) YIP
+
+Mr. Chun Yuen (Jimmy) KO
+
+ 
+
+2009-2010
+
+(FYP)
+
+ 
+
+Image Analyzer: EC Leaner
+
+Mr. Siu Tung (Sunny) FUNG
+
+Ms. Ka Lai (Rainbow) WONG
+
+Mr. Wing Kong (Steve) WONG
+
+ 
+
+2010-2011
+
+(FYP)
+
+ 
+
+Image Analyzer: Smart Nutri
+
+(It was awarded the Best FYP)
+
+Mr. Yat Hung Calvin AU-YEUNG
+
+Ms. Yan Ting Mandy CHU
+
+Ms. Chung Yan Johanna LAU
+
+ 
+
+2011-2012
+
+(FYP)
+
+ 
+
+Image Analyzer: Learning-based Approach for Location Recognition: From Image to Location
+
+(It was awarded the Best FYP)
+
+ 
+
+This project was the finalist in the HKUST President’s Cup, 2011-2012.
+
+ 
+
+This project was the finalist in the Pan-Pearl River Delta Amway University IT Project Competition 2012.
+
+Mr. Alex Lik Hang Chau
+
+Mr. Tom Ka Shing Chan
+
+Mr. Victor Chang
+
+Mr. Vincent Kin San Lai
+
+ 
+
+ 
+
+Will be updated soon for projects after 2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+--------------------------------------------------------
+
+Albert C. S. CHUNG
+
+Professor Emeritus and Adjunct Professor
+
+Department of Computer Science and Engineering, 
+
+The Hong Kong University of Science and Technology, 
+
+Clear Water Bay, Hong Kong
+
+Tel: +852-2358-7000 (Departmental Office)
+
+Fax: +852-2358-1477
+
+Email: achung 'at ' cse 'dot' ust 'dot' hk
+
+URL: http://www.cse.ust.hk/~achung
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
