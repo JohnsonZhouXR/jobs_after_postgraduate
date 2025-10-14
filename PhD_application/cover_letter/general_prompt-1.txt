@@ -1,2 +1,2 @@
-根据提供的实验室和教授资料introduction.txt，仿照下面的句式写一句话。
+我是一名有着10年编程和图像处理经验的算法软件工程师，现在想转型到生物医学工程方向，所以正在向教授写套磁信，看看有没有PhD的机会，根据提供的实验室和教授资料introduction.txt，仿照下面的句式写一句话，主要内容就是我很崇拜教授的实验室，很想要加入到他们的团队中去，用自己的能力为实验室添加贡献。
 句式：Your lab’s mission to “bridge the gap between biology and engineering” is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
