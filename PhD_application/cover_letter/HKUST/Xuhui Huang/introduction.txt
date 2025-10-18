@@ -1,0 +1,326 @@
+Professor: (https://huang.chem.wisc.edu/xuhui-huang/)
+Prof. Xuhui Huang
+Hirschfelder Chair in Theoretical Chemistry
+Director, Theoretical Chemistry Institute
+Department of Chemistry
+
+Member, Biophysics Graduate Program
+
+Affiliate, Data Science Institute (DSI)
+
+University of Wisconsin-Madison
+
+Google Scholar Profile
+
+A button with "Hear my name" text for name playback in email signature
+
+EDUCATION
+2006	Ph.D. in Chemical Physics, Columbia University (Thesis advisor: B. J.Berne)
+2001	B.S. in Chemical Physics, University of Science and Technology of China (USTC)
+PROFESSIONAL EXPERIENCE
+Sept 2021- Present	Hirschfelder Chair in Theoretical Chemistry, Director, Theoretical Chemistry Institute, Department of Chemistry, University of Wisconsin-Madison
+July 2019-Aug 2021	Professor, Department of Chemistry, The Hong Kong University of Science and Technology
+July 2017-June 2019	Padma Harilela Associate Professor of Science, Department of Chemistry, The Hong Kong University of Science and Technology
+July 2017- Aug 2021	Associate Professor & Professor (Joint appointment), Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology
+Jan 2015-July 2017	Associate Professor, Department of Chemistry, The Hong Kong University of Science and Technology
+Oct 2011-July 2017	Assistant & Associate Professor (Joint appointment), Division of Biomedical Engineering, The Hong Kong University of Science and Technology
+Jan 2010- Dec 2014	Assistant Professor, Department of Chemistry, The Hong Kong University of Science and Technology
+Sep 2008-Dec 2009	Research Associate, Department of Bioengineering, Stanford University
+Aug 2006-Aug 2008	Simbios Distinguished Postdoctoral Scholar, Stanford University (Advisor: M. Levitt, Nobel Laureate in Chemistry 2013 , and V. S. Pande )
+HONORS AND AWARDS
+Biophysical Society Theory & Computation Award for Mid-Career Scientists, 2023
+Fellow, Royal Society of Chemistry, 2022
+Hirschfelder Endowed Professorship in Theoretical Chemistry, UW-Madison, 2021-present
+Pople Medal, Asia-Pacific Association of Theoretical & Computational Chemists, 2021
+16th China Youth Science and Technology Award, 2020
+Founding member, Young Academy of Sciences of Hong Kong, 2018
+Padma Harilela Endowed Professorship of Science, HKUST, 2017-2019
+The OpenEye Outstanding Junior Faculty Award in Computational Chemistry, American Chemical Society, COMP Division, 2014
+School Research Award, School of Science, HKUST, 2013
+Early Career Award, Research Grant Council, Hong Kong, 2013
+Simbios Distinguished Postdoctoral Fellow, Stanford University, 2006-2008
+CCG Excellence Award, American Chemical Society, COMP Division, 2006
+Faculty Fellowship, Columbia University, 2001-2003, 2004-2006
+Blanche R. and David Kasindorf Fellowship in Physical Chemistry, Columbia University, 2003-2004
+He Duohui Fellowship, USTC, 1998
+Zhang Zhongzhi Fellowship, USTC, 1997
+EDITORIAL SERVICIES
+Member, Editorial Board, npj Drug Discovery, 2024-present
+Guest Editor, Special issue on “Markov State Modeling of Conformational Dynamics”, JCTC, 2024
+Guest Editor, Special issue on “Computational Biochemistry Bridging the Gaps Between Experiments & Molecular Insights”, ACS Biochemistry, 2024
+Guest Editor, PNAS, 2022
+Editorial Board Member, Scientific Reports, 2016-2023
+Guest Associate Editor, PLOS Computational Biology, 2016
+Academic Editor, PLOS One, 2014-2021
+CONFERENCE ORGANIZATION
+Organizing Committee, Symposium on “Emerging Frontiers: Machine Learning Transforming Studies of Biomolecular Dynamics”, Pacifichem 2025, Hawaii, U.S.A., Dec 2025
+Scientific Committee, International Conference on Monte Carlo Methods and Applications 2025 (MCM 2025), Chicago, U.S.A., July 2025
+Organizing Committee, Symposium on “Harnessing the Power of Machine Learning in Studying Protein Dynamics”, APS March National Meeting, Minneapolis, MN, U.S.A., March 2024
+Organizing Committee, Symposium on “Markov State Modeling of Conformational Dynamics in the Wake of Machine Learning”, ACS National Meeting, New Orleans, U.S.A., March 2024
+International Advisory Committee, 6th International Conference on Molecular Simulation, Taipei, Taiwan, Oct 2023
+Organizing Committee, 3rd IAS Focused Program on Mechanisms of Transcription and Its Regulation, HKUST, Hong Kong, Dec 2020
+Program Committee, Mathematical and Scientific Machine Learning (MSML) 2020, Princeton, U.S.A., July 2020
+International Organizing Committee, The 5th International Conference on Molecular Simulation, Jeju, South Korea, Nov 2019
+Organizing Committee, Theoretical and Computational Biology Workshop, Songshan Lake, China, Aug 2019
+Local Organizing Committee, National Natural Science Foundation of China (NSFC)-BHKAEC Joint Symposium on Chemistry for New Frontiers, Hong Kong, July 2019
+Organizing Committee, 4th Biophysics PG Symposium in Hong Kong, HKUST, Hong Kong, April 2018
+Organizing Committee, 2nd IAS Focused Program on Mechanisms of Transcription and Its Regulation, HKUST, Hong Kong, March 2018
+Co-organizer, the 6th Conference of Computational Statistics Mechanics of Complex Systems, Shenzhen, China, Nov 2016
+Organizing Committee, IAS Focused Program on Molecular Machines of Life: Simulation Meets Experiment, HKUST, Hong Kong, May 2016
+Organizing Committee, IAS Focused Program on Mechanisms of Transcription and Its Regulation, HKUST, Hong Kong, Jan 2016
+Organizing Committee, Asian Winter School in Quantum Chemistry, HKUST, Hong Kong, Dec 2015
+Organizing Committee, Workshop on Kinetics of Enzymes and Molecular Machines, Beijing Computational Science Research Center, Beijing, China, Aug 2015
+Organizing Committee, 2013 Asian Crystallographic Association Meeting (AsCA’13), Hong Kong, Dec 2013
+Program Committee, Biomolecular Dynamics Conference 2013, King Abdullah University of Science and Technology (KAUST), Saudi Arabia, Feb 2013
+Organizing Committee, the HKUST International Conference on Biomedical Engineering, USTBME2013, HKUST, Hong Kong, Jan 2013
+Organizer, Computational Structural Biology Workshop, HKUST, Hong Kong, Aug 2012
+Chairman of the organizing committee, the 19th Symposium on Chemistry Postgraduate Research in Hong Kong, April 2012
+Organizer, Stanford-HKUST joint workshop on molecular dynamics simulation analysis with Markov State Models, HKUST, Jan 2011
+Member, Executive Committee, Folding@Home worldwide distributed computing project, Jan 2011-present
+Session co-chair. MULTI-SCALE MODELLING OF BIOSYSTEMS: FROM MOLECULAR TO MESOCALE Session, Pacific Symposium on Biocomputin, Big Island, Hawaii, Jan, 2011
+Session co-chair. Multi-resolution Modeling of Biological Macromolecules Session, Pacific Symposium on Biocomputin, Big Island, Hawaii, Jan, 2010
+Organize committee. 9th Annual Symposium of Biomedical Computing at Stanford, Stanford, CA, Oct, 2008
+PUBLICATIONS
+Click here for the list of publications.
+
+
+
+
+
+Lab: (https://biomaterials.ust.hk/publications.html)
+Research
+Our research is in the area of Theoretical Chemistry and Molecular Biophysics. The operation of biological molecules is a highly dynamic process that relies on numerous functional conformational changes. We are interested in elucidating the dynamics of these conformational changes by developing new methods based on statistical mechanics that can bridge the gap between experiments and atomistic molecular dynamics (MD) simulations.
+
+We believe that tight integration of analytical theories with modern computer simulations and machine learning techniques can lead to breakthroughs in many aspects of theoretical chemistry. We also believe that establishing links between molecular mechanisms of bio-systems and their cellular and genome-wide behaviors is key to understanding many fundamental biological processes.
+
+To fulfill our vision, our group is currently working on the following directions:
+
+Methodological advances of the Markov State Models (MSMs) and Generalized Master Equation for bimolecular dynamics.
+Elucidation of functional conformational changes of RNA Polymerases.
+Elucidation of dynamics for molecular recognition and self-assembly.
+Development of new Integral Equation Theories for solvation.
+Development of deep learning based algorithms for to predict novel inhibitors against desired protein targets.
+Elucidation of structural ensemble from heterogeneity Cryo-EM datasets.
+
+
+
+Publications:
+Publications
+Selective Publications
+See Google Scholar for the full list of publications.
+
+2025
+
+Liu, B., Cao S.,, Boysen, J.G., Xue, M., X. Huang, X.*,”Memory Kernel Minimization Based Neural Networks for Discovering Slow Collective Variables of Biomolecular Dynamics“, Nature Computational Science, 5, 562–571 , (2025)
+Qiu, Y., Jang, I., Huang, X*, Yethiraj, Y.*, “Unsupervised learning of structural relaxation in supercooled liquids from short-term fluctuations“, Proc. Nat. Acad. Sci. U.S.A., 122 (15) e2427246122, (2025)
+Liu, B., Boysen, J.G., Unarta, I.C., Du, X., Li, Y., Huang, X.* “Exploring Transition States of Protein Conformational Changes via Out-of-Distribution Detection in the Hyperspherical Latent Space“, Nature Communications, 16, 349, (2025)
+Oh, J.*, Konovalov, K., Hou, P., Chong, J., Huang, X.*, Wang, D.*, “Transcription-coupled template reconfiguration of 8-Oxoguanine for error-prone transcription revealed by time-resolved X-ray crystallography and molecular dynamics“, J. Am. Chem. Soc., 147(19), 16396–16403, (2025)
+Nuthanakanti, A., Korn, M., Levenson-Palmer, R., Wu, Y., Babu, N., Huang, X., R.S., Banh, Belasco J.G.,  Serganov, A., “ApaH decaps Np4N-capped RNAs in two alternative orientations“, Nature Chemical Biology, (2025), DOI: 10.1038/s41589-025-01991-4
+Amaro, R.E., … Huang, X., …, Orozc, M. “The need to implement FAIR principles in biomolecular simulations”, Nature Methods, 22, 641–645 (2025) – Community vision paper
+O’Connor, M.S., Konovalov, K.L., Duvall, J.L., Jang, J., Lao, Y., Cavagnero, S.*and Huang, X.*, “Role of Hsp70 Chaperone in Protein Folding Elucidated by Markov State Modeling and Molecular Dynamics Simulations” , Biophysical Journal,  (2025), DOI:10.1016/j.bpj.2025.08.022
+– Special issue on “Modeling Biology at Multiple Scales: From Macromolecules to Cells” dedicated to Professor Jie Liang
+
+Cao, S.,  Nüske, F., Liu, B., Soley, M.B., Huang, X.*, “AMUSET-TICA: A Tensor-Based Approach for Identifying Slow Collective Variables in Biomolecular Dynamics”, J. Chem. Theory Comput., 21 (9), 4855-4866, (2025)
+– JCTC Special issue on “Markov State Modeling of Conformational Dynamics” 
+
+Xue, M., Liu, B., Cao, S., Huang, X.* “FeatureDock for protein-ligand docking guided by physicochemical feature-based local environment learning using transformer”, npj Drug Discovery , 2, 4, (2025)
+Goonetilleke, E.C., Huang, X.* “Targeting Bacterial RNA Polymerase: Harnessing Simulations and Machine Learning to Design Inhibitors for Drug-Resistant Pathogens”, Biochemistry, 64 (6), 1169–1179, (2025)
+– ACS Biochemistry special issue on “Computational Biochemistry” 
+
+Li, S., Lee, B., Lao, Y., Lertwiriyapiti, S., Huang, X., Wang, T., “Directed evolution of a plant Rubisco chaperone with altered client recognition“, Proc. Nat. Acad. Sci. U.S.A., 122 (37) e2510701122, (2025)
+Li, Y.,…, Xue, M., … Huang, X.,…, Sun. J.,  “AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists, EMNLP, (2025)
+Chen, Z., Xue, M.,…, Huang, X.,Ning, X., Gao, S., Su Y., Sun. J.,  “ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery”, 13th International Conference on Learning Representations, ICLR, 12138-12194, (2025)
+2024
+
+Qiu, Y., Wiewiora, R.P., Izaguirre, J.A., Xu, H., Sherman, W., Tang, W.*, Huang, X.* “Non-Markovian Dynamic Models Identify Non-Canonical KRAS-VHL Encounter Complex Conformations for Novel PROTAC Design“, JACS Au, 4 (10), 3857–3868, (2024)
+Wang, D.,  Qiu, Y., Beyerle, E.R., Huang, X.*, Tiwary, P.* “Information Bottleneck Approach for Markov Model Construction”, J. Chem. Theory Comput., 20 (12), 5352–5367, (2024)
+– JCTC Special issue on “Markov State Modeling of Conformational Dynamics” 
+
+Wu, Y.,  Cao, S., Qiu, Y., Huang, X.*, “Tutorial on how to build non-Markovian dynamic models from molecular dynamics simulations for studying protein conformational changes”, J. Chem. Phys, 160, 121501, (2024)
+– JCP Cover Article & JCP Featured Article 
+
+Unarta, I.C.,  Cao, S., Goonetilleke, E.C., Niu, J., Gellman, S.H., Huang, X.*, “Submillisecond Atomistic Molecular Dynamics Simulations Reveal Hydrogen Bond-Driven Diffusion of a Guest Peptide in Protein−RNA Condensate”, J. Phys. Chem. B, 128 (10), 2347–2359 (2024)
+– JPC virtual special issue “Gregory A. Voth Festschrift”.
+
+2023
+
+Cao, S., Qiu, Y., Kalin, M.L., Huang, X.*, “Integrative Generalized Master Equation: A Method to Study Long-timescale Biomolecular Dynamics via the Integrals of Memory Kernels”, J. Chem. Phys.,159, 134106, (2023)
+– JCP Featured Article
+
+Cribari, M.A., Unger, M.J., Unarta, I.C., Ogorek, A.N., Huang, X,. Martell J.D.*, “Ultrahigh-Throughput Directed Evolution of Polymer-Degrading Enzymes Using Yeast Display”, J. Am. Chem. Soc., (2023), DOI: 10.1021/jacs.3c08291
+Liu, Z., Kalin, M.L., Liu, B., Cao, S., Huang, X.*, “Kinetic network models to elucidate aggregation dynamics of aggregation-induced emission systems”, Aggregrate, e422, (2023)
+Liu, B., Xue, M., Qiu, Y., Konovalov, K.A., O’Connor, M.S., Huang, X.*, “GraphVAMPnets for uncovering slow collective variables of self-assembly dynamics”, J. Chem. Phys., 159, 094901, (2023)
+– JCP special issue on “Machine Learning Hits Molecular Simulations”
+
+Kohn, E.M., Konovalov, K., Gomez, C.A., Hoover, G.N., Yik, A.K., Huang, X., Martell, J.D.*, “Terminal Alkyne-Modified DNA Aptamers with Enhanced Protein Binding Affinities”, ACS Chem. Biol., 18, 9, 1976–1984, (2023)
+– Cover article
+
+Qiu, Y., O’Connor, M.S., Xue, M., Liu, B., Huang, X.*, “An Efficient Path Classification Algorithm Based on Variational Auto-Encoder to Identify Metastable Path Channels for Complex Conformational Changes”, J. Chem. Theory Comput., 19(14), 4728-4742, (2023)
+– JCTC special issue on “Machine Learning for Molecular Simulation”
+
+Konovalov, K.A., Wu, C., Qiu, Y., Balakrishnan, V., Parihar, P., O’Connor, M.S., Xing, Y.*, Huang, X.*, “Disease Mutations and Phosphorylation Alter the Allosteric Pathways Involved in Autoinhibition of Protein Phosphatase 2A”, J. Chem. Phys., 158, 215101, (2023)
+– JCP special issue on “New Views of Allostery”
+
+Dominic III, A.J.; Cao, S.; Montoya-Castillo, A.*; Huang, X.* “Memory unlocks the future of biomolecular dynamics: Transformative tools to uncover physical insights accurately and efficiently”, J. Am. Chem. Soc., 145(18), 9916-9927 (2023)
+Wu, C.G., Balakrishnan, V.K., …, Huang, X,. Strack, S., Xing, Y., “B56δ long-disordered arms form a dynamic PP2A regulation interface coupled with global allostery and Jordan’s syndrome mutations“, Proc. Nat. Acad. Sci. U.S.A.,  121 (1) e2310727120, (2023)
+Dominic III, A.J.; Sayer, T.; Cao, S.; Markland, T.; Huang, X.; Montoya-Castillo, A.* “Building insightful, memory-enriched models to capture long-time biochemical processes from short-time simulations“, Proc. Nat. Acad. Sci. U.S.A., 120 (12) e2221048120, (2023)
+Cao, S.; Kalin, M.L.; Huang, X.*, “EPISOL: A Software Package with Expanded Functions to Perform 3D-RISM Calculations for the Solvation of Chemical and Biological Molecules“, J. Comput. Chem., 44, 1536-1549, (2023)
+– JCC special issue on “Remembering Sihyun Ham and Protein Computational Science”
+
+Yik, A.K, Qiu, Y., Unarta, I.C., Cao, S., Huang, X.,*, “A Step-by-step Guide on How to Construct quasi-Markov State Models to Study Functional Conformational Changes of Biological Macromolecules“, Chapter 10, “A Practical Guide to Recent Advances in Multi-scale Modeling and Simulation for Biomolecules”, Edited by Wang, Y. and Zhou, R., AIP Publihing (ChemRxiv), (2023)
+Unarta, I. C.; Goonetilleke, E.C.; Wang, D.*; Huang, X.*, “Nucleotide Addition and Cleavage by RNA Polymerase II: Coordination of Two Catalytic Reactions using a Single Active Site”, J. Bio. Chem., 299(2) 102844, (2023)
+2022
+
+Cao, S.; Qiu, Y.; Unarta, I. C.; Goonetilleke, E.C.; Huang, X.*, “The Ion-Dipole Correction of the 3DRISM Solvation Model to Accurately Compute Water Distributions Around Negatively Charged Biomolecules“, J. Phys. Chem. B., 126(43), 8632, (2022)
+– JPC special issue on “Biomolecular Electrostatic Phenomena”
+
+Liu, B., Qiu, Y., Goonetilleke, E.C., Huang, X.* , “Kinetic Network Models to Study Molecular Self-assembly in the Wake of Machine Learning“, MRS. Bulletin, 47, 958–966, (2022)
+– Special issue on “Artificial Intelligence in Computational Materials Science” & Cover article
+
+Zheng, X., Chan, M.H., Chan, A.K., Ng, M., Sheong F.K., Li, C., Goonetilleke, E.C., Lam, W., Lau, T.C., Huang, X.,* Yam, V.W.W.*, “Elucidation of the key role of Pt···Pt interactions in the directional self-assembly of platinum(II) complexes“, Proc. Nat. Acad. Sci. U.S.A., 119 (12) e2116543119, (2022)
+Gu, H., Wang, W., Cao, S., Unarta, I.C., Yao, Y., Sheong, F.K.*, Huang, X.,*, “RPnet: a reverse-projection-based neural network for coarse-graining metastable conformational states for protein dynamics“, Phys. Chem. Chem. Phys., 24:1462-1474, (2022)
+– Selected as 2022 PCCP HOT article
+
+2021
+
+Unarta, I.S., Cao, S., Kubo, S., Wang, W., Cheung, P.P.H., Gao, X., Takada, S., Huang, X.* “Role of Bacterial RNA Polymerase Gate Opening Dynamics in DNA Loading and Antibiotics Inhibition Elucidated by quasi-Markov State Model”, Proc. Nat. Acad. Sci. U.S.A., 118(17), e2024324118, (2021)
+Li, C., Liu, Z., Goonetilleke, E.C., Huang, X.* “Temperature-dependent Kinetic Pathways of Heterogeneous Ice Nucleation Competing between Classical and Non-classical Nucleation”, Nature Communications, 12, 4954, (2021)
+Konovalov, K.A., Unarta, I.S., Cao, S., Goonetilleke1, E.C., Huang, X.*, “Markov state models to study the functional dynamics of proteins in the wake of machine learning”, J. Am. Chem. Soc. Au, 1(9), 1330-1341, (2021)
+Xu, X., Zhang, L.*, Chu, J.T.S., Wang, Y., Chin, A.W.H., Chong, T.H., Dai, Z., Poon, L.L.M., Cheung P.P.H.*, Huang, X.* “A Novel Mechanism of Enhanced Transcription Activity and Fidelity for Influenza A Viral RNA-dependent RNA Polymerase”, Nucleic Acids Res., 49(15), 8796-8810, (2021)
+Oh, J., Shin, J., Unarta, I.S., Wang, W., Feldman, A.W., Karadeema, R.J., Xu, L., Chong, J., Krishnamurthy, R., Huang, X., Romesberg, F.E., Wang, D., “Transcriptional processing of an unnatural base pair by eukaryotic RNA polymerase II”, Nature Chemical Biology, 17, 906–914, (2021)
+Zhu, L., Jiang, H., Cao, S., Unarta, I.C., Gao, X.”, Huang, X.* “Critical role of backbone coordination in the mRNA recognition by RNA induced silencing complex”, Communications Biology, 4:1345, (2021)
+Unarta, I.C., Konovalov, K.A., Wang, X., Suarez, G.D., Huang, X.* “Molecular Dynamics Simulations and Kinetic Network Models Elucidate RNA Polymerase Transcription Elongation Mechanisms“, Chapter 10, Pages 220-244, Book: “RNA Polymerases as Molecular Motors: On the Road: Edition 2”, Editors: Landick, R., Strick., T., Wang, J., Publisher: Royal Society of Chemistry, (2021)
+Yuan, C., Wang, Goonetilleke, E.C., Unarta, I.S., Huang, X.*, “Incorporation Efficiency and Inhibition Mechanism of 2’-Substituted Nucleotide Analogs against SARS-CoV-2 RNA-dependent RNA polymerase”, Phys. Chem. Chem. Phys., 23, 20117 – 20128, (2021)
+– Selected as 2021 HOT PCCP article
+Konovalov, K.A., Wang, W., Wang, G., Goonetilleke, E.C., Gao, X., Wang, D., Huang, X.*, “Comprehensive mechanism for 5-carboxylcytosine induced transcriptional pausing revealed by Markov state models”, J. Biol. Chem., 296, 100735, (2021)
+Wang, Y., Yuan, C., Xu, X., Chong, T.H., Zhang, L., Cheung P.P.H.*, Huang, X.* “The mechanism of action of T-705 as a unique delayed chain terminator on influenza viral polymerase transcription”, Biophysical Chemistry,277, 106652, (2021)
+Liu, Z., Li, C., Goonetilleke, E.C., Cui, Y., Huang, X.* “Role of Surface Templating on Ice Nucleation Efficiency on a Silver Iodide Surface”, J. Phys. Chem. C, 125 (34), 18857-18865, (2021)
+Unarta, I.S., Xu, J., Shang, Y., Cheung, H.P., Zhu, R., Chen, X., Cao, S., Cheung, P.P.H., Bierer, D., Zhang, M.*, Huang, X.*, Li, X.* “Entropy of Stapled Peptide Inhibitors in Free State is the Major Contributor to the Improvement of Binding Affinity”, RSC Chem. Biol., 2, 1274-1284, (2021)
+Quinn, T., Steussy, C.N.; Haines, B.E., Lei, J.; Wang, W.; Sheong, F. K., Cynthia V.S., Huang, X., Norrby, P., Helquist, P., Wiest, O. “Microsecond Timescale Simulations at the Transition State of PmHMGR Predict Remote Allosteric Residues”, Chemical Science, 12, 6413-6418, (2021)
+Wang, X., Unarta, I.C., Cheung P.P.H., Huang, X.* “Elucidating Molecular Mechanisms of Functional Conformational Changes of Proteins via Markov State Models”, Curr. Opin. Struct. Biol, 67, 69-77, (2021)
+Zhang, L.*, Zhang, D., Yuan, C., Wang, X., Li, Y., Jia, X., Gao, X., Yen, H.-L., Cheung, P.*, Huang, X.*, “Role of 1′-Ribose Cyano Substitution for Remdesivir to Effectively Inhibit both Nucleotide Addition and Proofreading in SARS-CoV-2 Viral RNA Replication”, Phys. Chem. Chem. Phys., 23, 5852-5863, (2021), bioRxiv
+2020
+
+Peng, S., Wang, X., Zhang L.*, He, S., Zhao, X.S, Huang, X.*, Chen, C.* “Target search and recognition mechanisms of glycosylase AlkD revealed by scanning FRET-FCS and Markov State Models”, Proc. Nat. Acad. Sci. U.S.A., 117 (36), 21889-21895, (2020)
+Cao, S., Montoya-Castillo, Andres., Wang, W., Markland, T.*, Huang, X.*, “On the Advantages of Exploiting Memory in Markov State Models for Biomolecular Dynamics”, J. Chem. Phys.,153, 014105, (2020)
+Cheung, P., Jiang, B., Booth, G.T., Chong, T.H., Unartar, I.C., Wang, Y., Suarez, G.D., Wang, J.*, Lis, J.T.*, Huang, X.*, “Identifying Transcription Error-Enriched Genomic Loci Using Nuclear Run-On Circular-Sequencing Coupled with Background Error Modeling”, J. Mol. Biol., 432(13), 3933-3949, (2020)
+Choy, K., Wong, A., Kaewpreedee, P., Sia, S., Chen, D., Hui, K., Chu, D., Chan, M., Cheung, P., Huang, X., Peiris, M., Yen, H-L, “Remdesivir, lopinavir, emetine, and homoharringtonine inhibit SARS-CoV-2 replication in vitro”, Antiviral Research, 178: 104786, (2020)
+Pan, C., Liu, C., Peng, J., Ren, P.*, Huang, X.*, “Three-site and Five-site Fixed-charge Water Models Compatible with AMOEBA Force Field”, J. Comput. Chem., 41:1034–1044, (2020)
+2019
+
+Lam, J.H., Li, Y., Zhu, L., Umarov, R., Jiang, H., Heliou, A., Sheong, F.K., Liu, T., Long, Y., Li, Y., Fang, L., Altman, R., Chen, W., Huang, X.*, Gao, X.*, “A deep learning framework to predict binding preference of RNA constituents on protein surface”, Nature Communications, 10, 4941, (2019)
+         – Recommended by Faculty of 1000
+
+Tse,C.K.M., Xu, J., Xu, L., Sheong, F.K., Wang, S., Chow, H.Y., Gao, X., Li, X., Cheung, P.P.H.*, Wang, D.*, Zhang, Y.*, Huang, X.*, “Intrinsic Cleavage of RNA Polymerase II Adopts a Nucleobase-independent Mechanism Assisted by Transcript Phosphate “, Nature Catalysis, 2, 228–235, (2019)
+           -Highlighted by Natue Middle East
+
+Lei, J., Sheng, G., Cheung, P.P.H., Wang, S., Li, Y., Gao, X., Zhang, Y.*, Wang, Y.*, Huang, X.*, “Two Symmetric Arginine Residues Play Distinct Roles in Thermus thermophilus Argonaute DNA Guide Strand-mediated DNA Target Cleavage”, Proc. Nat. Acad. Sci. U.S.A., 116(3) 845-853, (2019)
+Cao, S., Konovalov, K., Unarta, I.C., Huang, X.*, “Recent Developments in Integral Equation Theory for Solvation to Treat Density Inhomogeneity at Solute-Solvent Interface”, Advanced Theory and Simulations, 1900049, (2019)
+Zhu, L., Liang, T., Sheong, F.K., Cao, S., Unarta, I.C., Liu, S., Huang, X.*,“TAPS: A Travelling-salesman Based Automated Path Searching Method for Functional Conformational Changes of Biological Macromolecules”, J. Chem. Phys.,150, 124105, (2019), Part of the Special Issue on Markov Models of Molecular Kinetics
+Wang, L., Chen, J., Zeng, X., Cheung, P.P.H., Zheng, X., Shi, X., Ren, L.*, Huang, X.*, Wang, Y.*“Mechanistic Insights and Rational Design of the Versatile Surface with Cells/Bacteria Recognition Capability via Orientated Fusion Peptides”, Adv. Sci., 1801827, (2019)
+Hsieh, S.T., Zhang, L., Ye, D.W., Huang, X.*, Cheng, Y.C.* “A Theoretical Study on the Dynamics of Light Harvesting in the Dimeric Photosystem II Core Complex: Regulation and Robustness of Energy Transfer Pathways”, Faraday Discuss., (2019), DOI: 10.1039/C8FD00205C
+Konovalov, K.A., Pardo-Avila, F., Tse, C.K.M., Oh, J., Wang, D.*, Huang, X.*, “8-oxo-guanine DNA damage induces transcription errors by escaping two distinct fidelity control checkpoints of RNA polymerase II”, J. Biol. Chem., 294 (13), 4924-4933, (2019)
+2018
+
+Zhou, Y., Li, C., Peng, J., Xie, L., Meng, L., Li, Q., Zhang, J., Li, D.X, Li, X.*, Huang, X.*, Li, X*,“DNA-encoded Dynamic Chemical Library and Its Applications in Ligand Discovery”, J. Am. Chem. Soc., 140(46), 15859–15867, (2018)
+Konovalov, K.A., Wang, W.,Huang, X.*, “Conformational selection turns on phenylalanine hydroxylase”, J. Biol. Chem.,293, 19544-19545, (2018)
+Wang, W., Liang, T., Sheong, F.K., Fan, X.*, Huang, X.*,“An Efficient Bayesian Kinetic Lumping Algorithm to Identify Metastable Conformational States via Gibbs Sampling ”, J. Chem. Phys.,149, 072337, (2018), Part of the Special Issue on Enhanced Sampling for Moleuclar Systems
+Peng, J., Wang, W., Yu, Y., Gu, H., Huang, X.*,“Clustering algorithms to Analyze Molecular Dynamics Simulation Trajectories for Complex Chemical and Biological Systems”, Chin. J. Chem. Phys., 31, 404, (2018), Dedicated to the 60th Anniversary of our Alma Mater: USTC, and all the authors obtained B.S. degrees from USTC
+Unarta, I.C., Zhu, L., Tse, K.M., Cheung, P.P.H., Yu, J., Huang, X.*,“Molecular Mechanisms of RNA Polymerase II Transcription Elongation Elucidated by Kinetic Network Models”, Curr. Opin. Struct. Biol, 49, 54-62, (2018)
+Zeng, X., Li, Z.*, Zheng, X., Zhu, L., Sun, Z., Lu, Z., Huang, X.*,“Improving the Productivity of Monodisperse Polyhedral Cages by Rational Design of Kinetic Self-assembly Pathways”, Phys. Chem. Chem. Phys., (2018), DOI:10.1039/C8CP00522B
+Zeng, X., Zhu, L., Zheng, X., Cecchini, M.*, Huang, X.*,“Harnessing Complexity in Molecular Self-Assembly by Computer Simulations”, Phys. Chem. Chem. Phys., 20, 6767-6776 (2018), Part of the themed collection on Complex molecular systems: supramolecules, biomolecules and interfaces
+Molodtsov, V., Sineva, E., Zhang, L., Huang, X., Cashel, M., Ades, S.E., Murakami, K.S. “Allosteric effector ppGpp potentiates the inhibition of transcript initiation by DksA”, Molecular Cell, 69(5), 828–839, (2018)
+Bratkowski, M., Unarta, I.C., Zhu, L., Shubbar, M., Huang, X., Liu, X., “Structural Dissection of an Interaction between Transcription Initiation and Termination Factors Implicated in Promoter−Terminator Crosstalk”, J. Biol. Chem.,293, 1651-1665, (2018)
+2017
+
+Chevalier, A, Silva, D.A., Rocklin, G.J., Hicks, Vergara, Murapa, Bernard, Zhang, L.,…, Huang, X., Jin, R., Wilson, I.A., Fuller, D.H., Baker, D., “Massively parallel de novo protein design for targeted therapeutics”, Nature, 550, 74-79, (2017)
+Jiang, L., Cao, S., Cheung, P.P., Zheng, X., Leung, C.W.T., Peng, Q., Shuai, Z., Tang, B.Z., Yao, S.*, Huang, X.*, “Real-Time Monitoring of Hydrophobic Aggregation Reveals a Critical Role of Cooperativity in Hydrophobic Effect”, Nature Communications, 8, 15639, (2017)
+Zheng, X., Zhu, L., Zeng, X., Meng, L., Zhang, L., Wang, D., Huang, X.*, “Kinetics-Controlled Amphiphiles Self-Assembly Processes”, J. Phys. Chem. Lett., 8, 1798–1803, (2017)
+Wang, W., Cao, S., Zhu, L., Huang, X.*, “Constructing Markov State Models to Elucidate the Functional Conformational Changes of Complex Biomolecules”, WIREs Comput Mol Sci., 8:e1343, (2017)
+           – Recommended by Faculty of 1000 Prime
+Tian, Y., Zeng, X., Li, J., Jiang, Y., Zhao, H., Wang, Y., Huang, .X.*, Li, Z.*, “Achieving Enhanced Cell Penetration of Short Conformationally Constrained Peptides through Amphiphilicity Tuning”, Chemical Science, 8, 7576-7581 (2017)
+Cao, S., Zhu, L., Huang, .X.*, “3DRISM-HI-D2MSA: An improved analytic theory to compute solvent structure around hydrophobic solutes with proper treatment of solute-solvent electrostatic interactions”, Mol. Phys., 116:7-8, 1003-1013, (2018), Part of the Special Issue on Molecular Physics in China
+Meng, L., Sheong, F.K., Zeng, X., Zhu, L., Huang, X.*, “Path Lumping: An Efficient Algorithm to Identify Metastable Path Channels for Conformational Dynamics of Multi-body Systems ”, J. Chem. Phys., 147, 044112, (2017)
+Wen, J., Gu, S., Gao, X., Huang, X.*, Wang, W.*, “Maltose Binding Protein Effectively Stabilizes the Partially Closed Conformation of the ATP-binding Cassette Transporter MalFGK2”, Phys. Chem. Chem. Phys., 19, 9366-9373, (2017)
+Liu, S., Zhu, L.*, Sheong, F.K., Wang, W., Huang, X.*, “Adaptive Partitioning by Local Density-peaks (APLoD): An efficient density-based clustering algorithm for analyzing molecular dynamics trajectories”, J. Comput. Chem. , 38(3):152-160, (2017)
+Zhu, L., Jiang, H., Sheong, F.K., Cui, X.,Wang, Y., Gao, X.*, Huang, X.*, “Understanding the Core of RNA Interference: the Dynamic Aspects of Argonaute-mediated Processes”, Prog. Biophys. Mol. Bio. , 128, 39-46, (2017)
+Zhang, H., Zheng, X., … Huang, X., Wong, K.S., Kwok, R., Sung, H., Williams, I.D., Qin, A., Lam, J.W.Y., Tang, B.Z., “Why do simple molecules with “isolated” phenyl rings emit visible light?”, J. Am. Chem. Soc., 139 (45), 16264–16272, (2017)
+Peng, H., Zheng, X., Han, T., Kwok, R.T.K., Lam, J.W.Y., Huang, X., Tang, B.Z., “Dramatic Differences in Aggregation-Induced Emission and Supramolecular Polymerizability of Tetraphenylethene-Based Stereoisomers”, J. Am. Chem. Soc., 139 (29), 10150, (2017)
+Zhai, Y., Li, N., Jiang, H., Huang, X., Gao, N., Tye, B. “Unique roles played by each of the non-identical MCM subunits in DNA Replication Licensing”, Molecular Cell, 67 (2), 168-179, (2017)
+Zhang, Q., Zheng, X., Kuang, G., Wang, W., Zhu, L., Pang, R., Shi, X., Shang, X., Huang, X., Liu, P., Lin, N., “Single-Molecule Investigations of Conformation Adaptation of Porphyrins on Surfaces”, J. Phys. Chem. Lett., 8, 1241-1247, (2017)
+Li, J., Chen, Y., Deng, Y., Unarta, I.C., Lu, Q., Huang, X., Zhang, M., “Ca2+-induced Rigidity Change of the Myosin VIIa IQ Motif-Single α-Helix Lever Arm Extension”, Structure, 25:1-13, (2017)
+2016
+
+Feng, Y., Zhang, L., Wu, S., Gao, X., Liu, J.*, Huang, X.*, Wang, W.*, “Conformational Dynamics of apo-GlnBP Revealed by Experimental and Computational Analysis”, Angew. Chem. Int. Ed., 55 (45), 13990–13994, (2016)
+Zhang, L., Pardo, F., Unarta, I.C., Cheung, P., Wang, G., Wang, D., and Huang, X.* “Elucidation of the Dynamics of Transcription Elongation by RNA Polymerase II using Kinetic Network Models”, Accounts of Chemical Research, 49 (4), 687–694, (2016)
+Da, L., Pardo, F., Xu, L., Silva, D., Zhang, L., Gao, X., Wang, D.*, Huang, X.*“Bridge Helix Bending Promotes RNA Polymerase II Backtracking Through a Critical and Conserved Threonine Residue”, Nature Communications, 7, 11244, (2016)
+Qiao, Q.*, Qi, R., Wei, G.*, Huang, X.*, “Dynamics of the Conformational Transitions during the Dimerization of an Intrinsically Disordered Peptide: a Case Study on the Human Islet Amyloid Polypeptide Fragment ”, Phys. Chem. Chem. Phys.,18, 29892-29904, (2016)
+Zhu, L., Sheong, F. K., Zeng, X., Huang, X.*, “Elucidating conformational dynamics of multi-body systems by constructing Markov State Models”, Phys. Chem. Chem. Phys., 18, 30228-30235, (2016)
+          – Highlighted as Inside Front Cover.
+Zeng, X., Li, B., Qiao, Q., Zhu, L., Lu, Z.-Y.*, Huang, X.*, “Elucidating Dominant Pathways of the Nano-particle Self-Assembly Process”, Phys. Chem. Chem. Phys., 18, 23494-23499, (2016)
+          -Highlighted as Inside Back Cover.
+Qiao, Q.*, Zhang, H., Huang, X.*, “Enhancing Pairwise State-transition Weights (EPSW): A New Weighting Scheme in Simulated Tempering that can Minimize Transition Time between a Pair of Conformational States”, J. Chem. Phys., 144, 154107, (2016)
+Zhu, L., Jiang, H., Sheong, F.K., Cui, X., Gao, X., Wang, Y., Huang, X.* “A Flexible Domain-domain Hinge Promotes an Induced-fit Dominant Mechanism for the Loading of Guide-DNA into Argonaute Protein in Thermus Thermophilus”, J. Phys. Chem. B, 120(10), 2709, (2016)
+Zheng, J., Wang, L.*, Zeng, X., Zheng, X., Zhang, Y., Liu, S., Shi, X., Wang, Y., Huang, X.*, Ren, L.*, “Controlling the Integration of Polyvinyl-pyrrolidone onto Substrate by Quartz Crystal Microbalance with Dissipation To Achieve Excellent Protein Resistance and Detoxification”, ACS Appl. Mater. Interfaces, 8(29), 18684-18692, (2016)
+Zhang, L., Jiang, H., Sheong, F.K., Pardo-Avila, F., Cheung, P.P.H., Huang, X.*, “Constructing Kinetic Network Models to Elucidate Mechanisms of Functional Conformational Changes of Enzymes and their Recognition with Ligands”, Methods in Enzymology., 578, 343–371, (2016)
+Zheng, X., Peng, Q.*, Zhu, L., Xie, Y., Huang, X.*, Shuai, Z.*, “Unraveling the aggregation effect on amorphous phase AIE luminogens: A computational study”, Nanoscale, 8, 15173-15180, (2016)
+          -Highlighted as Inside Front Cover.
+Tian, Y., Li, J., Zhou, H., Zeng, X., Wang, D., Liu, Q., Niu, X., Huang, X., Xu, N.*, Li, Z.* “Stapling of unprotected helical peptides via photo-induced intramolecular thiolyne hydrothiolation”, Chem. Sci., 7, 3325-3330, (2016).
+2015
+
+Cao, S., Sheong, F.K., Huang, X., “Reference Interaction Site Model with Hydrophobicity induced density Inhomogeneity: An Analytical Theory to Compute Solvation Properties of Large Hydrophobic Solutes in the Mixture of Polyatomic Solvent Molecules”, J. Chem. Phys., 143, 054110, (2015)
+Jiang, H., Sheong, F.K., Zhu, L., Gao, X., Bernauer, J., Huang, X., “Markov State Models Reveal a Two-step Mechanism of miRNA Loading into the Human Argonaute Protein: Selective Binding Followed by Structural Re-arrangement”, PLoS. Comp. Bio., 11(7): e1004404, (2015)
+Zhang, L., Silva, D.A., Pardo-Avila, F., Wang, D., Huang, X., “Structural Model of RNA Polymerase II Elongation Complex with Complete Transcription Bubble Reveals NTP Entry Routes”, PLoS. Comp. Bio., 11(7), e100435, (2015)
+Sheong, F.K., Silva, D.A., Meng, L., Zhao, Y., Huang, X. “Automatic state Partitioning for Multi-body systems (APM): An Efficient Algorithm for Constructing Markov State Models to Elucidate Conformational Dynamics of Multi-body Systems”, J. Chem. Theory Comput., 11 (1), 17–27, (2015)
+Liu, Y., Mu, C., Jiang, K., Zhao, J., Li, Y., Zhang, L., Li, Z., Lai, J., Hu, H., Ma, T., Hu, R., Yu, D., Huang, X., Tang, B., Yan, H. “A Tetraphenylethylene Core-Based 3D Structure Small Molecular Acceptor Enabling Efficient Non-Fullerene Organic Solar Cells”, Adv. Mater., 27(6), 1015-1020, (2015)
+Yu, J., Da, L.T., Huang, X., “Constructing Kinetic Models to Elucidate Structural Dynamics of a Complete RNA Polymerase II Elongation Cycle”, Phys. Bio., 12, 016004, (2015)
+2014
+
+Gu, S., Silva, D.A., Meng, L., Yue, A., Huang, X., “Quantitatively Characterizing the Ligand Binding Mechanisms of Choline Binding Protein using Markov State Model Analysis”, PLoS. Comp. Bio., 10(8):e1003767, (2014)
+Xu, L, Zhang, L., Chong, J., Xu, J., Huang, X., Wang, D., “A Chemical Perspective on Transcriptional Fidelity and Evolution: Asymmetric Recognition of Phosphodiester Linkage by RNA Polymerase II”, Proc. Nat. Acad. Sci. U.S.A., 111, E3269–E3276, (2014)
+Fu, A., Hung, K.W., Huang, H., Gu, S., Shen, Y., Cheng, Ip, F.,, Huang, X, Fu, W.,,Ip, N.Y., “Blockade of EphA4 signaling ameliorates hippocampal synaptic dysfunctions in mouse models of Alzheimer’s disease”, Proc. Nat. Acad. Sci. U.S.A., 111, 9959-9964, (2014)
+Silva, D., Weiss. D., Pardo-Avila, F., Da, L., Levitt, M., Wang, D., Huang, X., “Millisecond Dynamics of RNA Polymerase II Translocation at Atomic Resolution”, Proc. Nat. Acad. Sci. U.S.A., 111, 7665-7670, (2014)
+          A movie for RNA polymerase II translocation: here; 3D version: here.
+
+          – Recommended on Faculty of 1000 Prime
+Zhang, L., Silva, D.A., Yue, A., Zhang, H., Yan, Y., Huang, X., “Dynamic Protein Conformations Preferentially Drive Energy Transfer along Active Chain of the Photosystem-II Reaction Center”, Nature Communications, 5:4170 doi: 10.1038/ncomms5170, (2014)
+2013
+
+Qiao, Q., Bowman, G.R., Huang, X., “Dynamics of an intrinsically disordered protein reveal metastable conformations that potentially seed aggregation”, J. Am. Chem. Soc., 135 (43), 16092–16101, (2013)
+           -Highlighted by ACS Select
+Bowman, G.R., Meng, L., Huang, X., “Quantitative comparison of alternative methods for coarse-graining biological networks ”, J. Chem. Phys., 139, 121905, (2013)
+Yao, Y., Cui, R.Z., Bowman, G.R., Silva, D.A., Sun, J., Huang, X., “Hierarchical Nystrom Methods for Constructing Markov State Models for Conformational Dynamics”, J. Chem. Phys., 138, 174106, (2013)
+Da, L., Pardo-Avila, F., Wang, D., Huang, X., “A Two-State Model for the Dynamics of the Pyrophosphate Ion Release in Bacterial RNA Polymerase”, PLoS. Comp. Bio., 9(4): e1003020, (2013)
+           –Recommended on Faculty of 1000 Prime
+Zhao, Y., Sheong, F.K., Sun, J., Sander, P., Huang, X.“A Fast Parallel Clustering Algorithm for Molecular Simulation Trajectories”, J. Comput. Chem., 34(2), 95-104, (2013)
+2012
+
+Zhang, L., Silva, D.A., Yan, Y.J., Huang, X.“Force Field Development for Cofactors in the Photosystem II ”, J. Comput. Chem., 33 (25), 1969–1980, (2012)
+Liu, J., Su, H., Meng, L., Zhao, Y., Ng, C.Y., Lu, P., Faisal, M., Lam, W.Y., Huang, X., Wu, H., Wong, K.S., Tang, B., “What makes efficient circularly polarised luminescence in the condensed phase: Aggregation-induced circular dichroism and light emission”, Chem. Sci., 3, 2737-2747, (2012)
+Da, L., Wang, D., Huang, X., “Dynamics of Pyrophosphate Ion Release and Its Coupled Trigger Loop Motion from Closed to Open State in RNA Polymerase II”, J. Am. Chem. Soc., 134 (4), 2399, (2012)
+          –Recommended on Faculty of 1000 Prime
+Hong, Y., Meng, L., Chen, S., Leung, C., Da, L., Faisal, M., Silva, D.A., Liu, J., Lam, J., Huang, X., Tang, B., “Monitoring and Inhibition of Insulin Fibrillation by a Small Organic Fluorogen with Aggregation-Induced Emission Characteristics”, J. Am. Chem. Soc., 134 (3), 168, (2012)
+Flores, S., Bernauer, J., Shin, S., Zhou, R., Huang, X., “Multi-scale modeling of macromolecular biosystems”, Briefings in Bioinformatics, 13(4), 395-405, (2012)
+2011
+
+Liu, X., Bushnell D.A., Silva, D.A., Huang, X., and Kornberg R.D. “Initiation Complex Structure and Promoter Proofreading”, Science, 333, 633-637, (2011)
+Silva, D.A., Bowman, G.R., Sosa-Peinado, A., Huang, X., “A Role for Both Conformational Selection and Induced Fit in Ligand Binding by the LAO Protein”, PLoS. Comp. Bio., 7(5), e1002054, (2011)
+Zhuang, W., Cui, R.Z., Silva, D.A., Huang, X., “Simulating the T-jump triggered unfolding dynamics of Trpzip2 peptide and its time resolved IR and 2DIR signals using Markov State Model Approach”, J. Phys. Chem. B., 115, 5415-5424, (2011)
+2010
+
+Huang, X.*, Wang, D, Weiss, D.H., Bushnell, D.A., Kornberg, R.D, and Levitt, M.*,“RNA Polymerase II Trigger Loop Residues Stabilize and Position the Incoming Nucleotide Triphosphate in Transcription” Proc. Nat. Acad. Sci. U.S.A., 107, 15745-15750, (2010)
+           –Recommended on Faculty of 1000 Prime
+Wang, D., Zhu, G., Huang, X., Lippard, S.J., “X-ray structure and mechanism of RNA polymerase II stalled at an antineoplastic monofunctional platinum-DNA adduct”,Proc. Nat. Acad. Sci. U.S.A., 107, 9584-9589, (2010).
+           –Recommended on Faculty of 1000 Prime
+Huang, X.*, Yao Y., Sun J., Bowman G.R.,Guibas L., and Carlsson G.. and Pande V.S. “Constructing Multi-resolution Markov State Models(MSMs) to elucidate RNA hairping folding mechanisms”, Proceedings of the Pacific Symposium on Biocomputing, 15, 228-239, (2010)
+2003-2009
+Huang, X., Bowman, G. R., Bacallado, S., and Pande, V. S. “Rapid Equilibrium Sampling Initiated from Non-equilibrium Data”, Proc. Nat. Acad. Sci. U.S.A., 106, 19765-19769, (2009)
+Wang D, Bushnell D.A., Huang, X, Westover K.D., Levitt M, and Kornberg R.D. “Structural Basis of Transcription: Backtracked RNA Polymerase II at 3.4 Angstrom Resolution” , Science, 324, 1203-1206, (2009)
+Bowman G.R., Huang, X, Yao Y, Sun J, Carlsson G, Guibas L., Pande V.S. “Structural Insight into RNA Hairpin Folding Intermediates.” J. Am. Chem. Soc., 130, 9676–9678, (2008)
+Huang, X., Bowman, G. R., and Pande, V. S. “Convergence of folding free energy landscapes via application of enhanced sampling methods in a distributed computing environment.” J. Chem. Phys. 128, 205106, (2008)
+Huang, X., Hagen, M., Kim, B., Friesner, R.A., Zhou, R and Berne, B.J. “Replica Exchange with Solute Tempering: Efficiency in Large Scale Systems” J. Phys. Chem. B. 111, 5405-5410, (2007)
+Huang, X., Margulis, C.J., Li, Y. and Berne, B.J.,“Why is the Partial Molar Volume of CO2 So Small When Dissolved in a Room Temperature Ionic Liquid? Structure and Dynamics of CO2 Dissolved in [Bmim+] [PF6-].”, J. Am. Chem. Soc., 127, 50, 17842-17851 (2005).
+Liu, P., Huang, X., Zhou, R., Berne, B.J., “Observation of a dewetting transition in the collapse of the melittin tetramer”, Nature, 437, 159-162 (2005).
+Huang, X., Zhou, R. and Berne, B.J., “Drying and Hydrophobic Collapse of Paraffin Plated”, J. Phys. Chem. B, 109, 3546-3552 (2005).
+Zhou, R., Huang, X., Margulis, C.J., and Berne, B.J., “Hydrophobic Collapse in Multi-domain Protein Folding”, Science, 305, 1605-1609 (2004).
+Huang, X., Margulis C.J., and Berne, B.J., “Dewetting-induced collapse of hydrophobic particles”, Proc. Nat. Acad. Sci., 100, 21, 11953-11958 (2003).

@@ -1,2 +1,11 @@
-我是一名有着10年编程和图像处理经验的算法软件工程师，现在想转型到生物医学工程方向，所以正在向教授写套磁信，看看有没有PhD的机会，根据提供的实验室和教授资料introduction.txt，仿照下面的句式写一句话，主要内容就是我很崇拜教授的实验室，很想要加入到他们的团队中去，用自己的能力为实验室添加贡献。
-句式：Your lab’s mission to “bridge the gap between biology and engineering” is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
+我是一名有着10年编程和图像处理经验的算法软件工程师，现在想转型到生物医学工程方向，所以正在向教授写套磁信，看看有没有PhD的机会，根据提供的实验室和教授资料introduction.txt，仿照下面的句式写一句话（精简一点，写一句就够了，不用每个句式都写一句），主要内容就是我很崇拜教授的实验室，很想要加入到他们的团队中去，用自己的能力为实验室添加贡献。
+句式1：Your lab’s mission to “bridge the gap between biology and engineering” is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
+句式2：I deeply admire your interdisciplinary leadership—translating a physics background into groundbreaking work in molecular biophysics, signaling mechanisms in living systems, and even laying MRI’s scientific groundwork via spin-echo NMR. Your focus on uniting quantum physics with life sciences mirrors my goal of applying engineering/AI to biomedical research, and I would be honored to contribute my expertise to your lab if I had the chance.
+句式3：I deeply admire your lab’s dedication and outstanding achievements in ========== medical imaging and its image processing ==========, and ========== in particular, the lab’s commitment to [core lab vision, e.g., “bridging the gap between engineering technology and life sciences” or “addressing key technical challenges in biomedical research”] ========== – a direction that aligns perfectly with my career goal of contributing to this field. I would be honored to join your team and leverage my technical expertise to support your lab’s research if I had the chance.
+
+
+
+
+我是一名有着多年编程和图像处理经验的算法软件工程师，现在想转型到生物医学工程方向，所以正在向教授写套磁信，看看有没有PhD的机会，根据提供教授们的research interests，写一句话（精简一点，写一句就够了），主要内容就是我很崇拜教授的实验室，觉得他们将工程技术与生物相结合的方式和自己的career很匹配，很想要加入到他们的团队中去，用自己的能力为实验室添加贡献
+例句：Your lab’s mission to bridge the gap between biology and engineering (这里可以结合教授的research interests说一说，当然也可以概括起来，因为research interests太多了，但总归都是工程技术结合生物做研究的领域) is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
+教授们的research interests:

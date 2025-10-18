@@ -1,0 +1,266 @@
+Professor and her lab: (https://seng.hkust.edu.hk/about/people/faculty/ying-chau)
+Ying CHAU
+PhD in Chemical Engineering, Massachusetts Institute of Technology
+Related Web Titles
+Professor, Department of Chemical and Biological Engineering
+Director of Student Innovation for Global Health Technology
+Research Interests
+Research Interests
+Biomaterials
+Biomedical engineering (BME)
+Cancer
+Drug delivery
+Tissue engineering
+
+Ying CHAU
+周迎
+PhD in Chemical Engineering
+Massachusetts Institute of Technology, 2005
+
+Professor
+Department of Chemical and Biological Engineering
+
+Director of Student Innovation for Global Health Technology
+
+
+lab information: (https://biomaterials.ust.hk/)
+We are an interdisciplinary team of engineers, chemists and biologists
+taking inspiration from the nature to engineer versatile (nano)materials
+and to create innovative drug delivery platform
+​for biomedical applications.
+
+
+Nanomedicine | Membraneless Organelle | Immunoengineering | Ocular Delivery
+NANOMEDICINE
+ 
+Nanoscale is the appropriate length scale for mediating cell-material interactions and for trafficking intracellular paths. Our lab has been using peptides and polymers to design synthetic building blocks that assemble into nano-sized drug and gene carriers.  Controlling the nanostructure, engineering the surface functionality and understanding intracellular delivery are critical to develop efficient nanomedicine. To this purpose, our lab has been focusing on:
+Picture
+Bio-inspired
+​self assembly
+Picture
+Peptide functionalized
+​polymeric nanocarrier
+Picture
+Intracellular trafficking
+​of nanocarrier
+ 
+MEMBRANELESS ORGANELLE
+Membraneless organelles are liquid compartments that act as mini-biochemical reactors in the living cell. Driven by liquid-liquid phase separation, they are largely composed of intrinsically disordered proteins harboring low-complexity domains, thus representing a universal paradigm of intracellular biomolecules organization distinctive from lipid bilayer membrane-delimited organelles. Weak, dynamic and multivalent interactions were revealed as 
+prevalent molecular interactions in the context of membraneless organelles formation. Taking inspiration from the nature, we aim to take a bottom-up approach to reconstruct intrinsically disordered protein-mimetic macromolecules. 
+Picture
+ARTIFICIAL
+​MEMBRANELESS ORGANELLE
+IMMUNE ENGINEERING
+ 
+The immune system is able to identify and eliminate tumours. This is because the cancer cells express antigens that can be recognized by the antigen presenting cells to induce downstream immune responses. Nonetheless, some tumours evolve to evade the immune system and become malignant. Cancer immunotherapy thus represents an exciting new paradigm in treating late-stage metastatic cancers. It reprimes the body’s immune system to combat cancer by stimulating vast array of immune cells to detect, activate and eliminate cancer cells. However, the induction of the immune system may result in adverse events such as autoimmune toxicity. Walking a fine line between under- and over-activation of the immune system, our laboratory aims to develop safe and robust platforms using hydrogel and nanoparticles to reprogram the immune cells to recognize the cancer antigens, as well as to induce maturation and activation for downstream elimination of cancer cells. 
+OCULAR DRUG DELIVERY
+ 
+Visual impairment is common in Hong Kong, affecting 2.4% of total population in 2014. Diseases affecting the anterior and posterior segments of the eye, such as keratoconus, corneal neovascularization, diabetic retinopathy and age-related macular degeneration are the leading causes of visual disability. Because of the anatomical and dynamic barriers in accessing the tissues in the eye, invasive methods involving injections and surgery are the current clinical practice for drug administration. The threats of complications plus the opportunities arising from the increasing number of protein therapeutics available for treating eye diseases demand better options for ocular drug delivery. We have been developing innovative approaches for safe and efficient ocular drug delivery, the areas include:
+Picture
+Ultrasound-assisted
+​ocular delivery
+Picture
+Controlled protein
+release with hydrogel
+Picture
+RETINAL DELIVERY
+​WITH NANOPARTICLES
+
+publications:(https://biomaterials.ust.hk/publications.html)
+YC LAB	
+Home
+ 
+Research
+ 
+Publications
+ 
+People
+ 
+News
+ 
+Social
+ 
+Contact Us
+YC Lab Publications
+Chemical & Biological Engineering | HKUST
+2023 |2022 | 2021 | 2020  |  2019  |  2018  |  2017  |  2016  |  2015  |  2014  |  2013  |  2012  |  2011  | 2010 | 
+​ 2009  |  2008  |  2006  |  2005  |  BEFORE 2005
+Search
+2024
+Kalindu S. Fernando, Ghodsiehsadat Jahanmir, Ilona C. Unarta, Ying Chau, (2024), Multiscale Computational Framework for the Liquid-Liquid Phase Separation of Intrinsically Disordered Proteins , Langmuir , https://pubs.acs.org/doi/10.1021/acs.langmuir.4c00209
+ ​Jin Teng Chung,Mehrnoosh Rafiei, and Ying Chau(2024), Self-adjuvanted L-arginine modified dextran-based nanogels for sustained local antigenic protein delivery to antigen presenting cells and enhanced cellular and humoral immune responses, Biomaterial Science, http://dx.doi.org/10.1039/d3bm01150j
+2023
+Liu, Jianhui; Liu, Xiaolin; Zhang, Tianfu; Huang, Jinqing; Tang, Ben Zhong; Chau, Ying (2023), Metastable Biological Matter in Liquid Phase Separation, Applied Research by Wiley online library,  https://onlinelibrary.wiley.com/doi/epdf/10.1002/appl.202300071
+​Jin Teng Chung,Chi Ming Laurence Lau,Casper H. Y. Chung,Mehrnoosh Rafiei, Shuhuai Yao and Ying Chau(2023),  Vaccine delivery by zwitterionic polysaccharide based hydrogel microparticles showing enhanced immunogenicity and suppressed foreign body responses, Biomaterials Science,  https://pubs.rsc.org/en/content/articlepdf/2023/BM/D2BM01960D, This article was selected by our Editors as a HOT Biomaterials Science article. see more
+Picture
+​Rong Ni, Ruilu Feng, and Ying Chau (2023) , Peptide-DNA Co-Assembled Nanoparticles as a Nonviral Vector for Gene Delivery with High Transgene Expression ,ACS Applied Nano Materials, ​https://pubs.acs.org/doi/full/10.1021/acsanm.2c04279
+Mehrnoosh Rafiei , Jin Teng Chung and Ying Chau (2023), Roles of biomaterials in modulating the innate immune response in ocular therapy , Frontiers in Drug Delivery, https://www.frontiersin.org/articles/10.3389/fddev.2023.1077253/full
+Fariza Zhorabek, Manisha Sandupama Abesekara, Jianhui Liu, Xin Dai, Jinqing Huang and Ying Chau (2023), Construction of multiphasic membraneless organelles towards spontaneous spatial segregation and directional flow of biochemical reactions, Chemical Science ,https://doi.org/10.1039/D2SC05438H
+Picture
+2022
+​Abesekara M.S., & Chau Y. (2022),Recent advances in surface modification of micro- and nano-scale biomaterials with biological membranes and biomolecules, Frontiers in Bioengineering and Biotechnology,https://doi.org/10.3389/fbioe.2022.972790
+Picture
+​Jahanmir G., Lau CML., Yu Y., & Chau Y. (2022), Stochastic lattice based-modelling of macromolecule release from degradable hydrogel,  ACS Biomaterials Science & Engineering, https://doi.org/10.1021/acsbiomaterials.2c00505 
+Picture
+Feng R., Ni R., & Chau Y. (2022), Fusogenic peptide modification to enhance gene delivery by peptide-DNA nano-coassemblies”, Biomaterials science, https://doi.org/ ‪10.1039‬/D2BM00705C
+Picture
+Liu J., Zhang T., Liu X., Lam J. W. Y., Tang B. Z. & Chau Y. (2022), Molecular logic operations from complex coacervation with aggregation-induced emission characteristics”, Materials Horizons. https://doi.org/10.1039/D2MH00537A
+Picture
+Liu J., Zhorabek, F. and Chau Y. (2022), Biomaterial design inspired by membraneless organelles. Matter
+Feng R., Chang ACY., Ni R., Li JCY. and Chau Y. (2022), ​mRNA delivery and storage by co-assembling nanostructures with designer oligopeptides, ACS Applied Bio Materials. ​ https://pubs.acs.org/doi/10.1021/acsabm.2c00397
+Picture
+Liu J., Feng R. and Chau Y. (2022), ​Large Size but Ready Enter: Micron-sizes Liquid Droplets for Versatile Intracellular Delivery​, Matter 5(6):1637-1639, https://doi.org/10.1016/j.matt.2022.05.005
+Picture
+Liu, J., Zhorabek, F. & Chau, Y.(2022), Nucleic acids modulate liquidity and dynamics of artificial membraneless organelles. ACS Macro Lett. 32, 562–567 . https://pubs.acs.org/doi/10.1021/acsmacrolett.2c00167
+Picture
+Liu J., Zhorabek F., Dai X., Zhang T., Lam JWY, Tang B Zh  and Chau Y. (2022), ​Multifaceted Cargo Recruitment and Release from Artificial Membraneless Organelle, Small 18(25). https://doi.org/10.1002/smll.202201721
+Picture
+Liu J., Zhorabek F., Dai X., Huang J. and Chau Y. (2022), Minimalist design of intrinsically disordered protein-mimicking scaffold for artificial membraneless organelle. ACS Cent. Sci.8, 4, 493–500. https://doi.org/10.1021/acscentsci.1c01021
+Picture
+2021
+ 
+Feng, R., Ni, R. and Chau, Y. (2021), Altered Peptide Self-Assembly and Co-Assembly with DNA by Modification of Aromatic Residues. ChemMedChem. https://doi.org/10.1002/cmdc.202100440
+Picture
+Chung, J. T., Lau, C. M. L., Chau, Y. (2021), The effect of polysaccharide-based hydrogel on the response of antigen presenting cell line to immunomodulators. Biomater. Sci. https://doi.org/10.1039/D1BM00854D
+Picture
+Chung, C. H. Y., Lau, C. M. L., Sin, D. T., Chung, J. T., Zhang, Y., Chau, Y., Yao, S. (2021), Droplet-Based Microfluidic Synthesis of Hydrogel Microparticles via Click Chemistry-Based Cross-Linking for the Controlled Release of Proteins. ACS Applied Bio Materials. https://doi.org/10.1021/acsabm.1c00509
+Picture
+Yu, Y., Chow, D. W. Y., Lau, C. M. L., Zhou, G., Back, W., Xu, J., Chau, Y. (2021), A bioinspired synthetic soft hydrogel for the treatment of dry eye. Bioengineering & Translational Medicine, (February), 1–11. https://doi.org/10.1002/btm2.10227
+Picture
+Lau, C. M. L., Jahanmir, G., Yu, Y., & Chau, Y. (2021), Controllable multi-phase protein release from in-situ hydrolyzable hydrogel. Journal of Controlled Release. ​https://doi.org/10.1016/j.jconrel.2021.05.006
+Picture
+2020
+HUANG, X., Chau, Y. (2020), Enhanced delivery of siRNA to retinal ganglion cells by intravitreal lipid nanoparticles of positive charge, Molecular Pharmaceutics, 18, 1, 377–385. https://doi.org/10.1021/acs.molpharmaceut.0c00992​
+Picture
+Jahanmir, G., Lau, C. M. L., Abdekhodaie, M. J., & Chau, Y. (2020), A dual-diffusivity stochastic model for macromolecule release from hydrogel. ACS Applied Bio Materials 3(7), 4208–4219.
+Picture
+Lau, C. M. L.,Jahanmir G., Chau Y. (2020), Local environment-dependent kinetics of ester hydrolysis revealed by direct 1H NMR measurement of degrading hydrogels,  Acta Biomaterialia (101),219-226.
+Picture
+2019
+ 
+​​Ni R., Chau Y, Nanoassembly of Oligopeptides and DNA Mimics the Sequential Disassembly of a Spherical Virus, Angew. Chem. Int. Ed.2019,58,2–8
+​Xu J., Zhao C. Chau  Y., Lee, Y. ,The synergy of chemical immobilization and electrical orientation of T4 bacteriophage on a micro electrochemical sensor for low-level viable bacteria detection via Differential Pulse Voltammetry  , Biosensors and Bioelectronics, 2019
+ Ni R., Feng R., Chau Y., Synthetic Approaches for Nucleic Acid Delivery: Choose the Right Carriers, Life, 2019, 9(3),59, DOI:10.3390/life9030059
+Picture
+Huang X, Chau Y, Investigating impacts of surface charge on intraocular distribution of intravitreal lipid nanoparticles, Experimental Eye Research, 2019,186,  107711    DOI: 10.1016/j.exer.2019.10771
+Picture
+Chan K. , Yu Y., Ng S., Mak H.,, Yip Y., Merwe Y., Ren T., Yung J., Biswas S., Cao X., Chau Y., Leung C., Intracameral Injection of a Chemically Cross-Linked Hydrogel to Study ChronicNeurodegeneration in Glaucoma, Acta Biomaterialia,2019,94, 219-231   DOI: 10.1016/j.actbio.2019.06.00
+Picture
+Liu J., Ni R. and  Chau Y., Self-assembled Peptidic Nanomillipede to Fabricate Tuneable Hybrid Hydrogel, Chemical Communications, 2019,55,7093-7096  DOI: 10.1039/C9CC02967B 
+Picture
+Huang X, Chau Y, Intravitreal nanoparticles for retinal delivery, Drug Discovery Today, (24) 2019, 1510-1523,  DOI: 10.1016/j.drudis.2019.05.005
+Picture
+Picture
+​Feng T.,Huang X., Ni, R., Suen WL, Chau Y. ,  Nanoparticles for drug delivery targeting neurodegeneration in brain and eye, Chapter 6, Nanomaterials for Drug Delivery and Therapy, Andrew William publishers, 2019,149-183
+Jahanmir G, , Chau Y, Mathematical models of drug release from degradable hydrogels, chapter 9, Biomedical Applications of Nanoparticles, Andrew William publishers, 2019, 233-269
+​
+Yu Y, Chau Y.,Long-term therapeutic effect in non-human primate eye from a single injection of anti-VEGF controlled release hydrogel, Bioengineering & Translational Medicine,2019   DOI: 10.1002/btm2.1012
+Picture
+​Kim M. , Feng T., Zhang Q., Chan H  and  Chau Y. ,Co-Encapsulation and Co-Delivery of Peptide Drugs via Polymeric Nanoparticles, Polymers 2019, 11, 288  DOI:10.3390/polym11020288
+Picture
+2018
+ 
+Xu J, Chau Y, Polymeric nanoparticles decorated with BDNF-derived peptide for neuron-targeted delivery of PTEN inhibitor, European Journal of Pharmaceutical Sciences,2018,124,37-45, DOI: 10.1016/j.ejps.2018.08.020
+Picture
+ Ni R, Liu J,Chau Y., Ultrasound-facilitated assembly and disassembly of pH-sensitive self-assembly peptide, RSC Advances, 2018, 8, 29482 - 29487  DOI: 10.1039/C8RA04391D
+Picture
+Jahanmir G, Abdekhodaie M. J., Chau Y., "​Stochastic Modeling of Degradation Behavior of Hydrogels", Macromolecules, 2018, 51 (11), 3941–3952  DOI: 10.1021/acs.macromol.8b00165
+Picture
+Lau CML, Yu Y, Jahanmir G, Chau Y., "​Controlled release technology for anti-angiogenesis treatment of posterior eye diseases: current status and challenges", Advanced Drug Delivery Reviews,2018,126, 145-161.  DOI:10.1016/j.addr.2018.03.013
+Picture
+2017
+ 
+Ni R and Chau Y. "Tuning the Inter-nanofibril Interaction to Regulate the Morphology and Function of Peptide/DNA Co-assembled Viral Mimics",Angew. Chem, 2017, 56(32), 9356-9360  doi: 10.1002/anie.2017035
+Picture
+Zhou J, Ni R and Chau Y. "​Polymeric vesicle formation via temperature-assisted nanoprecipitation".RSC Adv. , 2017, 7 ,17997-18000 doi : 10.1039/C7RA01959A
+Picture
+Chau Y, Suen WL, Tse HY, Wong HS. "Ultrasound-enhanced penetration through sclera depends on frequency of sonication and size of macromolecules". European Journal of Pharmaceutical Sciences. 2017. Jan 16;100:273-279. doi: 10.1016/j.ejps.2017.01.016.
+2016
+ 
+Suen WL, Jiang J, Wong HS, Qu J, Chau Y. "Examination of Effects of Low-Frequency Ultrasound on Scleral Permeability and Collagen Network". Ultrasound in Medicine and Biology. 2016. Nov;42(11):2650-2661. doi: 10.1016/j.ultrasmedbio.2016.07.013.
+Ni R, Zhou J, Hossain N and Chau Y. "Virus-inspired nucleic acid delivery system: Linking virus and viral mimicry". Advanced Drug Delivery Reviews. 2016. 106(Pt A), 3-26. 
+Picture
+Zhou J and Chau Y. "Different oligoarginine modifications alter endocytic pathways and subcellular trafficking of polymeric nanoparticles". Biomaterials Science. 2016. 4, 1462-1472
+Picture
+2015
+ 
+Yu, Y. and Chau, Y. “Injectable chemically crosslinked hydrogel for the controlled release of Bevacizumab in vitreous: a 6-month in vivo study”. Translational Vision Science and Technology. 2015. Mar 10;4(2):5. eCollection 2015
+2014
+ 
+Ni, R. and Chau, Y. “Structural mimics of viruses through peptide/DNA co‐assembly”. Journal of American Chemical Society. 2014. 136 (52): 17902–17905. (featured in Chemical & Engineering News and Scientific American)
+
+
+Yu, Y. and Chau, Y. “Formulation of In Situ Chemically Cross-linked Hydrogel Depots for Protein Release: From the Blob Model Perspective” Biomacromolecules. 2014. DOI: 10.1021/bm501063n
+Picture
+Chow, D.W.Y., Chau, Y., Yeung, W.K., Westermeyer, H.D. “In vitro evaluation of the inhibitory effect of canine serum, canine fresh frozen plasma, freeze–thaw-cycled plasma, and Solcoseryl™ on matrix metalloproteinases 2 and 9. Article first published online: 18 AUG 2014 | DOI: 10.1111/vop.12204.
+
+Suen, W.-L.L., Chau, Y. “Size-dependent internalization of folate-decorated nanoparticles via the pathways of clathrin- and caveolae-mediated endocytosis in ARPE-19 cells” 2014 . Journal of Pharmacy and Pharmacology.  66(4):564-573.​​
+2013
+ 
+Jiang, L., Wang, W., Chau, Y., Yao, S. “Controllable formation of aromatic nanoparticles in a three-dimensional hydrodynamic flow focusing microfluidic device” RSC Advance, 2013. 3:17762-17769.
+Picture
+Li, Q., Chow, K.L., Chau, Y. “Three-dimensional self-assembling peptide matrix enhances the formation of embryoid bodies and their neuronal differentiation” Journal of Biomedical Materials Research: Part A, 2013. 102(6):1991-2000
+
+Suen, W.-L.L., Wong, H.S., Yu,Y., Lau, L.C.M., Lo, A.C.-Y., Chau, Y. “Ultrasound-mediated transscleral delivery of macromolecules to the posterior segment of rabbit eye in vivo” 2013. Investigative Ophthalmology & Visual Science. 54(6):4358-4365.
+​
+Suen, W.-L.L., Chau, Y. “Specific uptake of folate-decorated triamcinolone-encapsulating nanoparticles by retinal pigment epithelium cells enhances and prolongs antiangiogenic activity” 2013. Journal of Controlled Release. 167(1):21-28.
+Picture
+2012
+ 
+ Yu, Y. and Chau, Y. “One-step click method for generating vinyl sulfone groups on hydroxyl-containing water soluble polymers” 2012. Biomacromolecules. (3): 937–942 (Most read article in Q1 2012)
+Picture
+Wang, W. and Chau, Y. “Self-Assembly Mediated Platform for Rapid and Facile Preparation of Peptide-Functionalized Nanoparticles with High Stability” 2012. Chemistry of Materials. (5): 946–953
+Picture
+Li, Q., Cheung, W.H., Chow, K.L., Ellis-Behnke, R.G., Chau, Y. “Factorial analysis of adaptable properties of self-assembling peptide matrix on cellular proliferation and neuronal differentiation of pluripotent embryonic carcinoma” 2012. Nanomedicine: Nanotechnology, Biology and Medicine. 8(5):748-56
+Picture
+2011
+ 
+Wang, W. and Chau, Y. “Efficient and facile formation of two-component nanoparticles via aromatic moiety directed self-assembly” 2011. Chemical Communications 47(37): 10224 – 10226. (Cover article)
+
+
+Li, Z. and Chau, Y. “A facile synthesis of branched poly(ethylene glycol) and its heterobifunctional derivatives” 2011. Polymer Chemistry. 2:873-878.
+
+Li, Z. and Chau, Y. “Synthesis of X(Y)-(EO)n-OCH3 type heterobifunctional and X(Y)-(EO)n-Z type heterotrifunctional poly(ethylene glycol)s” 2011. Bioconjugate Chemistry. 22: 518-522
+2010
+ 
+Zhong, J. and Chau, Y. “Synthesis, characterization, and thermodynamic study of a polyvalent lytic peptide-polymer conjugate as novel anticancer agent” 2010. Bioconjugate Chemistry 21:2055-2064.
+
+Li, Z. and Chau, Y.  “Synthesis of heterobifucntional polyethylene glycol by an acetal protection method”, 2010. Polymer Chemistry 1 (10):1559-1601.
+​
+Zhou, P., Li, Z., Chau, Y. “Synthesis, characterization, and in vivo evaluation of poly(ethylene oxide-co-glycidol)-platinate conjugate” 2010. European Journal of Pharmaceutical Sciences 41:464-472.
+Picture
+Cheung, A.C.Y., Yu, Y., Tay, D., Wong, H.S., Ellis-Behnke, R., Chau, Y. “Ultrasound-enhanced intrascleral delivery of protein” 2010. International Journal of Pharmaceutics 401: 16-24.
+
+Li, Q. and Chau, Y. “Neural differentiation directed by self-assembling peptide scaffolds presenting laminin-derived epitopes”, 2010. Journal of Biomedical Materials Research. Part A 94(3):688-99.
+
+Ko, E.I., Chau, Y. “Integrating Academic and Mentoring Support for the Development of First-year Chemical Engineering Students in Hong Kong” 2010. Chemical Engineering Education 44(1):44-64.
+
+2009
+ 
+​​​ Wang, W. and Chau, Y. “Self-assembled peptide nanorods as building blocks of fractal patterns” 2009. Soft Matter 5(24): 4893-4898. (Cover article and featured in Highlights in Chemical Science).
+
+
+Li, Z. and Chau, Y. “Synthesis of linear polyether polyol derivatives as new materials for bioconjugation” 2009. Bioconjugate Chemistry 20(4):780-789.  (Most read article in the month of April 2009)
+2008
+ 
+ Zhong, J. and Chau, Y. "Anti-tumor activity of a membrane lytic peptide cyclized with a linker sensitive to membrane type 1-matrix metalloproteinase" 2008. Molecular Cancer Therapeutics 7(9):2933-40.
+​
+Wang, W., Yang, Z., Patanavanich, S., Xu, B., Chau, Y. "Controlling self-assembly within nanospace for peptide nanoparticle fabrication” 2008. Soft Matter 4 (8): 1617 – 1620.
+Picture
+ Chau, Y., Luo, Y., Cheung, A.C.Y., Nagai, Y., Zhang, S., Kobler, J., Zeitels, S.M. and Langer, R.  “Incorporation of a Matrix Metalloproteinase-Sensitive Substrate into Self-Assembling Peptides – A Model for Biofunctional Scaffolds” 2008. Biomaterials 29(11):1713-9.
+2006
+ 
+Chau, Y., Dang, N.M., Tan, F.E., Langer, R. “Investigation of targeting mechanism of new dextran-peptide-methotrexate conjugates using biodistribution study in matrix-metalloproteinase overexpressing tumor xenograft model ” 2006. Journal of Pharmaceutical Sciences 95: 541-51.
+​​​​​​​​​​​​
+2005
+ 
+Chau, Y., Padera, R.F., Dang, N.M., Langer, R. “Antitumor efficacy of a novel polymer peptide drug conjugate in human tumor xenograft models” 2005. International Journal of Cancer 118: 1519-26.
+before 2005
+ 
+Chau, Y., Tan, F.E., Langer, R.“Synthesis and characterization of dextran-peptide-methotrexate conjugates for tumor targeting via mediation by matrix-metalloproteinase II and matrix-metalloproteinase IX” 2004. Bioconjugate Chemistry 15(4):931-941.
+
+Kohane, D.S., Holmes, G.L., Chau, Y., Zurakowski, D., Langer, R., Cha, B.H. “Effectiveness of muscimol-containing microparticles against pilocarpine-induced focal seizures” 2002. Epilepsia 43: 1462-1468.
+​
+Bothwell, M.K., Daughetee, S.D., Chau,Y., Wilson, D.B. and Walker L.P. “Binding capacities of Thermomonospora fusca E3,E4 and E5, the E3 binding domain, and Trichoderma ressei CBHI on Avicel and bacterial microcrystalline cellulose” 1997. Bioresources Technology 60:169-178.
+Copyright © 2016
+
