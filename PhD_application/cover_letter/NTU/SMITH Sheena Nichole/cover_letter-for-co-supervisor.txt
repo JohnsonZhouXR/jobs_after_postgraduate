@@ -1,0 +1,106 @@
+咨询 2026 年生物医学工程（BME）博士项目机会 —— 一名拥有 10 年以上编程与人工智能经验的算法工程师
+Exploring 2026 PhD Opportunities in BME – An Algorithm Engineer with 10+ Years of Programming & AI Experience
+改一下标题：改成寻找co-supervisor的机会
+
+Exploring 2026 AI-for-bioengineering PhD Co-Supervisor Opportunities – AI & Algorithm Engineer (10+ Yrs Exp)
+
+咨询 2026 年AI x 生物医学工程（BME）博士的co-supervisor的机会 —— 一名拥有 10 年以上编程与人工智能经验的算法工程师
+
+尊敬的_________教授：
+
+您好！
+我是周祥茹（Xiangru ZHOU），特此致信，诚挚咨询您是否有意向以leader supervisor的方式招收bioengineering方向的AI博士生。我拥有 10 年以上软件算法工程师经验，专注于计算机视觉与人工智能领域，已申请 / 获得 10 余项发明专利。经过慎重考虑，我决定转向工程与生物学交叉领域发展。在联系了CCEB的BME faculty之后，我与导师SMITH Sheena Nichole建立了初步的联系，她正好have a project that aims to incorporate AI and machine learning approaches for gene therapy vector capsid design, which could align well with my skill set。但是她的lab are primarily focused on experimental research, particularly in molecular biology and protein engineering related to gene and cell therapy vectors，她希望可以以co-supervisor或collaborating depending on the project scope的形式合作，她认为it would make the most sense for the lead PI to come from the AI or computer science side, with her group serving as a collaborating lab (or co-PI) if the project proceeds in that direction。因此我想咨询一下您的实验室是否有这样的计划？去leverage AI to bioengineering，并bridges computational (on AI side) and experimental (on bioengineering side) approaches.
+
+如果您有这方面的计划，以下是我的个人介绍，请您过目：
+
+
+--------------------------------------------------------------------------------------------------
+Dear Professor _________,
+I hope this email finds you well. My name is Xiangru ZHOU, and I am writing to sincerely inquire whether you are interested in supervising a PhD student in the bioengineering field with a focus on AI—taking on the role of lead supervisor—under NTU’s ‘AI-for-X’ initiative.
+Prior to contacting you, I reached out to Prof. Sheena Nichole Smith from the Bioengineering Faculty in the School of Chemistry, Chemical Engineering and Biotechnology (CCEB) at NTU and established initial communication with her. She is leading a project that aims to integrate AI and machine learning approaches into the design of gene therapy vector capsids—work that aligns closely with my technical expertise. However, her laboratory primarily focuses on experimental research, particularly in molecular biology and protein engineering related to gene and cell therapy vectors. She has expressed willingness to collaborate as a co-supervisor or in a collaborative capacity, depending on the project scope. She further noted that it would be most appropriate for the lead Principal Investigator (PI) to come from the AI or computer science field, while her team would serve as a collaborating lab (or co-PI) if the project moves forward in this direction.
+Against this background, I would like to consult with you: does your laboratory have plans to leverage AI in bioengineering, and to bridge computational approaches (on the AI side) with experimental approaches (on the bioengineering side)?
+If such plans are in place, please find below a brief introduction of myself for your reference, thank you so much for reviewing!
+--------------------------------------------------------------------------------------------------
+二版
+Dear Prof. Co-Supervisor:
+
+I hope this email finds you well. My name is Xiangru ZHOU, and I am writing to sincerely inquire whether you are interested in supervising a PhD student in the bioengineering field with a focus on AI—in the role of lead supervisor—under NTU’s ‘AI-for-X’ initiative.
+
+Prior to contacting you, I reached out to Prof. Sheena Nichole Smith from the Bioengineering Faculty in the School of Chemistry, Chemical Engineering and Biotechnology (CCEB) at NTU and established initial communication with her. She is leading a project that aims to integrate AI and machine learning approaches into the design of gene therapy vector capsids—work that aligns closely with my technical expertise. However, her laboratory primarily focuses on experimental research, particularly in molecular biology and protein engineering related to gene and cell therapy vectors. She has expressed willingness to collaborate as a co-supervisor or in a collaborative capacity, depending on the project scope. She further noted that it would be most appropriate for the lead Principal Investigator (PI) to come from the AI or computer science field, while her team would serve as a collaborating lab (or co-PI) if the project moves forward in this direction.
+
+Against this background, I would like to consult with you: does your laboratory have plans to leverage AI in bioengineering, and to bridge computational approaches (on the AI side) with experimental approaches (on the bioengineering side)?
+
+If such plans are in place, please find a brief introduction of myself below for your reference. Thank you so much for your time and review!
+
+With over 10 years of experience as a software algorithm engineer, I have specialized in computer vision and artificial intelligence, and have applied for/obtained more than 10 invention patents. After careful consideration, I have decided to shift my career focus to the interdisciplinary field of engineering and biology.
+--------------------------------------------------------------------------------------------------
+
+接介绍：
+我的专业背景聚焦于人工智能驱动系统的开发与优化：曾主导视觉引导机械臂项目（集成 Transformer 模型，实现动作预测与实时环境适应）,为半导体行业开发高精度光学字符识别（OCR）工具（性能达到或超越行业领先者康耐视（Cognex）水平）,并设计面向生物医学与电子制造领域的缺陷检测系统。我近期毕业于香港理工大学，获微电子技术与材料硕士学位。在读期间，在导师指导下，我积累了使用大规模原子 / 分子并行模拟器（LAMMPS）及相关分子动力学人工智能平台的实践经验。
+
+我清楚自身在细胞生物学与分子生物学领域存在知识缺口，因此正主动补充相关学习：目前正在自学杨荣武教授的《分子生物学》课程，后续计划进一步学习翟中和教授的《细胞生物学》课程。我的核心优势在于将工程解决方案转化为对生物学研究的支持 —— 我期望运用自己在 C/C++/Python 编程、人工智能模型部署（PyTorch、ONNX Runtime）及系统优化方面的技能，为您实验室的研究提供技术支持。
+
+结合您实验室的研究方向，若有幸加入，我尤其希望在以下领域贡献力量：
+计算工具优化：除使用分子动力学工具开发计算生物学应用外，凭借我的编程能力（C/C++/Python）与系统级调优经验，可协助优化实验室常用工具（如分子动力学模拟软件 GROMACS）。具体优化方向包括修改源代码，使工具更适配特定研究场景 —— 例如，实现基于 CUDA 的 GPU 加速方案，或添加预处理与后处理逻辑代码。
+
+人工智能 - 传统计算混合平台构建：基于我在机械臂项目中通过 “传统校准” 与 “AI 预测” 并行分支推进研究的经验（详情见附件简历），我可构建适用于生物模拟的自适应平台。该平台将整合实时数据采集以提升 AI 模型精度，同时对比传统方法与 AI 方案的性能，为特定任务选择更稳定可靠的工作流程，进而更好地支持生物工程数字孪生等研究工作。
+
+医学与生物成像处理支持：依托 10 年以上图像处理实践经验，我可为实验室的医学与生物成像研究提供支持。例如，针对医学成像或细胞成像数据，通过 AI 与图像处理算法实现自动化分析 —— 包括图像中目标的自动分割与提取、特定目标的定位与计数、成像或目标中缺陷的检测与分类、动态目标的自动跟踪等 —— 以提升实验效率与准确性。
+
+软硬件集成开发：我曾设计蓝牙微控制器设备（如简历中提及的车载手机控制器），并完成印刷电路板（PCB）的布线组装与产品外壳的 3D 打印。我可协助实验室开发小型无线工具 —— 例如，为微流控类器官培养或诊断系统提供实时数据传输支持，或实现与其他医疗设备的通信，以更好地完成系统级集成。
+
+作为长期居住在粤港澳大湾区的居民，我精通粤语、普通话与英语，具备基础日语沟通能力，且对多元文化有深入了解。这一优势可帮助您的实验室在与不同地区的学术同行及产业伙伴合作时，有效消除潜在沟通障碍，从而为团队推进临床应用开发、深化跨团队协作提供切实支持。
+
+附件中为我的个人简历（文件名：CV-Xiangru_ZHOU-250923-A.pdf），其中详细列出了我的项目经历、专利及技术能力，供您参考。若您认为我的背景与实验室需求相符，我将非常感谢能有机会在您方便时进一步沟通。此外，我也乐意提供任何补充材料或解答疑问，如需协助，请随时告知。
+
+感谢您拨冗审阅我的咨询，期待您的回复。
+
+顺颂时祺！
+
+周祥茹
+香港理工大学微电子技术与材料硕士毕业生
+电话 / 微信：(+86) 18502091962
+电话 / WhatsApp：(+852) 61385254
+
+完整的mail:
+Exploring 2026 AI-for-bioengineering PhD Co-Supervisor Opportunities – AI & Algorithm Engineer (10+ Yrs Exp)
+
+Dear Prof. Co_supervisor:
+
+I hope this email finds you well. My name is Xiangru ZHOU, and I am writing to sincerely inquire whether you are interested in supervising a PhD student in the bioengineering field with a focus on AI—in the role of lead supervisor—under NTU’s ‘AI-for-X’ initiative.
+
+Prior to contacting you, I reached out to Prof. Sheena Nichole Smith (https://dr.ntu.edu.sg/entities/person/Sheena-Nichole-Smith) from the Bioengineering Faculty in the School of Chemistry, Chemical Engineering and Biotechnology (CCEB) at NTU and established initial communication with her. She is leading a project that aims to incorporate AI and machine learning approaches for gene therapy vector capsid design—work that aligns closely with my technical expertise. However, her laboratory primarily focuses on experimental research, particularly in molecular biology and protein engineering related to gene and cell therapy vectors. She has expressed willingness to collaborate as a co-supervisor or in a collaborative capacity, depending on the project scope. She further noted that it would be most appropriate for the lead PI to come from the AI or computer science field, while her team would serve as a collaborating lab (or co-PI) if the project moves forward in this direction.
+
+Against this background, I would like to consult with you: does your laboratory have plans to leverage AI in bioengineering, and to bridge computational approaches (on the AI side) with experimental approaches (on the bioengineering side)?
+
+If such plans are in place, please find a brief introduction of myself below for your reference. Thank you so much for your time and review!
+
+With over 10 years of experience as a software algorithm engineer, I have specialized in computer vision and artificial intelligence, and have applied for/obtained more than 10 invention patents. After careful consideration, I have decided to shift my career focus to the interdisciplinary field of engineering and biology.
+
+My professional background focuses on the development and optimization of AI-driven systems: I led a vision-guided robotic arm project (integrating a Transformer model to enable action prediction and real-time environmental adaptation), developed a high-precision optical character recognition (OCR) tool for the semiconductor industry (with performance matching or exceeding that of industry leader Cognex), and designed defect detection systems for biomedical and electronic manufacturing. I have recently graduated from The Hong Kong Polytechnic University with a Master’s degree in Microelectronics Technology & Materials, and during my studies, I gained practical experience with Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) and related molecular dynamics AI platforms under the guidance of my supervisor.
+
+I am fully aware of my knowledge gaps in cell and molecular biology, so I am proactively supplementing my learning in these areas: I am currently self-studying Prof. Rongwu Yang’s Molecular Biology course and plan to further study Prof. Zhonghe Zhai’s Cell Biology course afterward. My core strength lies in translating engineering solutions into support for biological research—I aim to leverage my skills in C/C++/Python programming, AI model deployment (PyTorch, ONNX Runtime), and system optimization to provide technical support for your lab’s research.
+
+Aligned with your lab’s research directions, I am particularly eager to contribute in the following areas if I have the privilege of joining your team:
+Support for Medical & Biological Imaging Processing: Leveraging over 10 years of practical experience in image processing, I can support your lab’s medical and biological imaging research. For instance, for medical imaging or cell imaging data, I can implement automated analysis via AI and image processing algorithms—including automatic segmentation and extraction of targets in images, localization and counting of specific targets, detection and classification of defects in imaging or targets, and automatic tracking of dynamic targets—to enhance the efficiency and accuracy of experiments.
+
+Hybrid AI-Traditional Computing Platform Construction: Drawing on my experience in advancing research through parallel “traditional calibration” and “AI prediction” branches in the robotic arm project (detailed in the attached CV), I can build an adaptive platform suitable for biological simulations. This platform will integrate real-time data collection to improve AI model accuracy, while comparing the performance of traditional methods and AI solutions to select more stable and reliable workflows for specific tasks. In turn, it will better support research efforts like bioengineering-based digital twins etc.
+
+Support for Medical & Biological Imaging Processing: Leveraging over 10 years of practical experience in image processing, I can support your lab’s medical and biological imaging research. For instance, for medical imaging or cell imaging data, I can implement automated analysis via AI and image processing algorithms—including automatic segmentation and extraction of targets in images, localization and counting of specific targets, detection and classification of defects in imaging or targets, and automatic tracking of dynamic targets—to enhance the efficiency and accuracy of experiments.
+
+Hardware-Software Integration Development: I have designed Bluetooth microcontroller devices (such as the car-mounted mobile phone controller mentioned in my CV) and completed the wiring and assembly of the PCBs, as well as the 3D printing of the product shells. I can assist the lab in developing small-scale wireless tools—for example, providing real-time data transmission support for microfluidic organoid culture or diagnostic systems, or enabling communication with other medical devices to better achieve system-level integration.
+
+As a long-term resident of the Greater Bay Area, I am proficient in Cantonese, Mandarin, and English, with basic Japanese communication skills, and have a deep understanding of different cultures. This allows me to effectively eliminate potential communication barriers when your lab collaborates with academic peers and industrial partners from different regions, thereby providing tangible support for your team in advancing clinical application development and deepening cross-team collaboration.
+
+I have attached my CV (File name: CV-Xiangru_ZHOU-250923-A.pdf), which details my project experiences, patents, and technical skills for your reference. Should you feel my background aligns with your lab’s needs, I would be truly grateful for the opportunity to discuss further with you at your convenience. Additionally, I am more than willing to provide any additional materials or clarify any questions you may have—please do not hesitate to let me know what is needed.
+
+Thank you for taking the time to review my inquiry! I look forward to your response.
+
+Best regards,
+
+Xiangru ZHOU
+Graduate of Master’s in Microelectronics Technology & Materials
+Department of Applied Physics, Faculty of Science
+The Hong Kong Polytechnic University
+Tel/WeChat: (+86) 18502091962
+Tel/WhatsApp: (+852) 61385254
