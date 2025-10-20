@@ -9,3 +9,31 @@
 我是一名有着多年编程和图像处理经验的算法软件工程师，现在想转型到生物医学工程方向，所以正在向教授写套磁信，看看有没有PhD的机会，根据提供教授们的research interests，写一句话（精简一点，写一句就够了），主要内容就是我很崇拜教授的实验室，觉得他们将工程技术与生物相结合的方式和自己的career很匹配，很想要加入到他们的团队中去，用自己的能力为实验室添加贡献
 例句：Your lab’s mission to bridge the gap between biology and engineering (这里可以结合教授的research interests说一说，当然也可以概括起来，因为research interests太多了，但总归都是工程技术结合生物做研究的领域) is highly aligned with my career goals, and I would be honored to join your team and contribute to your lab’s research with my technical expertise if I had the chance.
 教授们的research interests:
+Statistics
+High dimensional data analysis
+Bioinformatics
+Polymer Chemistry
+Materials Science
+Experimental Soft Condensed Matter Physics
+Non-equilibrium Dynamics in Flow Systems
+Pattern Formation, Neural Development and Sensory Organ Differentiation
+Interdisciplinary Frontiers of Microfluidics, Bioanalytical Science and Materials Chemistry
+Proteomics, Metabolomics, Mass Spectrometry, Computational and Systems biology, Surfactant systems.
+Bio-MEMS and micro/nanofluidics, Single DNA/cell mechanics, CTC chips for cancer diagnostics, Closed-loop optimization for screening of Traditional Chinese Medicine
+Signal processing
+High-dimensional statistics and random matrix theory
+Wireless communications
+Computational biology
+Topological & Geometric Methods in Data Analysis, Statistical Machine Learning, Applications in Computer and Life Sciences
+Microfluidics and Nanofluidics, MEMS/BioMEMS, Nanobiotechnology
+Energy, Microsystems, Nano Technology, Solid Mechanics, Thermofluid
+BioMEMS, Bioelectronics, Bio-Micro(nano)fluidics, Biosensors, Biomedical Microdevices, Lab on a Chip, Silicon-Neuron Interfaces, Neuroprosthetics
+Protein engineering, Biomaterials, Chemical biology
+Human disease biomechanics & mechanobiology, Microfluidic technologies for disease detection, diagnosis and therapy, 2D materials for biomedical applications
+Glaucoma Investigation and Management
+Human disease mechanobiology
+Microfluidic biomedical technologies
+2D materials for biomedical applications
+Soft wearable technologies
+Understanding how the brain and spinal cord cooperate to generate motor behaviors and to enable learning of new motor skills, and how such knowledge can be applied to improving neurorehabilitation strategies for stroke survivors
+Structural and System Biology
