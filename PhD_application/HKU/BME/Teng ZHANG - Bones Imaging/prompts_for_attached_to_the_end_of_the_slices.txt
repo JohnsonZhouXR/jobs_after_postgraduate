@@ -1,0 +1,29 @@
+Image Processing Integration
+可以将图像处理与 (相机)采图 通讯 推理 结果显示与回传 UI互动等整合到一个自动的软件流程中，使得这些过程不需要单独运行在不同的机器上
+
+Image Auto Collection & Sorting
+将一些具有分类功能的模型或者按照提前设定好的分类计划，将采集到的图像和数据进行命名与分类存储，为了下一步的数据分类以及模型训练和验证或数据增强更好地服务
+
+User Friendly Interface Software Development
+将复杂的算法和过程使用QT或其它的可视化软件操作界面结合在一起，降低用户的使用门槛，无论是医护人员还是技术员工，都可以方便地使用AI和算法带来的强大功能
+
+AI Acceleration
+根据不同的项目需求，可以在实验室中可以通过CUDA等加速训练和推理验证过程，在临床应用中的离线推理时，可以加快推理速度
+
+AI System Deployment & Adjustment
+在不同的临床应用场景，根据算力和平台的不同，可以部署不同的适配版本，以保证算法能够更好地深入覆盖到各个场景中
+
+
+动态监视植入物的Temperature，Humidity，Pressure以及人体的
+Tissue Strain (组织应变)
+Joint Angle (关节角度)
+Tendon Tension (肌腱张力)
+Bone Load (骨骼载荷)
+pH Value (pH 值)
+Blood Oxygen Saturation (SpO₂) (血氧饱和度)
+Blood Glucose Concentration (血糖浓度)
+Partial Pressure of Carbon Dioxide (PCO₂) (二氧化碳分压)
+Body Fluid Ion Concentration (体液离子浓度)等
+可以Functions: Assisting in determining tissue metabolic status, implant degradation environment, etc. (可辅助判断组织代谢状态、植入物降解环境等)。
+将数据作为反哺至Molecular Dynamics或FEA的输入中，或者用以校正Molecular Dynamics或FEA的推理结果。
+会对建立鲁棒的、更准确的植入物预测模型更有帮助，从而使得植入手术更成功，让患者获得更好的医疗服务。

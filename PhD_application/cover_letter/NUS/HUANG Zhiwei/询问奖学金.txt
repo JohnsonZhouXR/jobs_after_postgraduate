@@ -1,0 +1,56 @@
+Exploring PhD Opportunities in Biomedical Engineering – AI Engineer with 10 Years of Experience
+
+Dear Prof. HUANG,
+
+I hope this email finds you well.
+
+My name is Xiangru Zhou, and I am writing to express my keen interest in joining your PhD program in Biomedical Engineering at NUS.  I am highly impressed by your research and would be honored to contribute to your team.
+
+I am currently a Master’s student in Microelectronics at The Hong Kong Polytechnic University.  Prior to this, I accumulated 10 years of professional experience, focusing initially on image processing algorithms and later specializing in AI-powered image recognition.  My roles have included serving as an Algorithm Engineer at OPT (a publicly listed company) and an R&D Leader at SmartMore (a leading AI enterprise in mainland China and Hong Kong).
+
+My expertise lies in software development, technology implementation, and optimization.  Over the years, I have applied for or been granted more than ten invention patents.  In addition to my programming and AI skills, I have experience designing integrated Bluetooth communication devices, creating circuit diagrams, producing 3D models for printing, and developing multi-axis robotic arms powered by AI.
+
+To pivot towards Brain-Computer Interface (BCI) technologies, I have recently reorganized my technical skill set after studying commercial products such as cochlear implants and the OpenBCI project.  Building on my experience in image processing, software development (primarily in C++ and Python), and AI application deployment, I am expanding my knowledge in nanomaterials (currently in college) and biology (in my future PhD studies and beyond).  While I plan to focus on software development and data processing, I believe that processing brain signals—converting them into electrical or digital signals, constructing large databases, and using AI to discover patterns and applications—will be a crucial aspect of advancing BCI technologies.  While my approach may evolve, I am confident that computational and AI tools will play a central role, and I am also eager to engage with other related technologies within this field.
+
+I have a strong international background, shaped by my experience living and working in culturally diverse regions. Having worked in Shenzhen, China, for over 8 years—including 4 years as an entrepreneur leading R&D initiatives in advanced AI technologies—and contributing to projects in both mainland China and Hong Kong, I also had the opportunity to work briefly in Japan, further broadening my global perspective. These experiences have equipped me to advance BCI and smart medical technologies on a global scale. My proficiency in Cantonese, Mandarin, and English, as well as basic Japanese, positions me to effectively collaborate in international and multicultural environments, which I believe aligns with the global outlook of your research team.
+
+I believe my technical expertise, professional background, and regional dedication make me a valuable candidate for your team.  I would greatly appreciate the opportunity to discuss how my skills align with your research interests and team objectives.
+
+Attached to this email is my CV, which provides a detailed overview of my academic and professional background.  I would be happy to provide additional information or answer any questions you might have.
+
+Thank you for considering my inquiry.  I look forward to the possibility of further communication.
+
+Best regards,
+
+Xiangru Zhou
+The Hong Kong Polytechnic University
+
+--------------------------------------------------------------------------------
+
+Dear Xiangru,
+
+Thanks for your enquiry. You are most welcome to apply for the PhD position in my lab via the prestigious ISEP scholarship below 
+
+http://www.nus.edu.sg/ngs/prospective-students/#apply-now
+
+
+In the mean time, you can also apply for other scholarships (e.g., SINGA PhD scholarship, NUS BME graduate program, etc) concurrently via the links below:
+ 
+https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa
+
+https://www.eng.nus.edu.sg/bme/graduate/
+
+
+Rgds,
+Huang
+
+--------------------------------------------------------------------------------
+
+Dear Prof. HUANG,
+Thank you very much for your kind reply and for sharing the links to these scholarship opportunities. I truly appreciate your guidance.
+I will begin working on the applications for these scholarships immediately. Regarding the NUS BME graduate program link you shared, I am currently unable to access the page. However, I will search for alternative resources or information related to this program and its scholarships.
+Once again, thank you for your support and for pointing me in the right direction. I am very excited about the opportunity to potentially join your lab and contribute to your research.
+Best regards,
+
+Xiangru Zhou
+The Hong Kong Polytechnic University

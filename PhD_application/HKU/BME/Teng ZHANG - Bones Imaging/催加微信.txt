@@ -1,0 +1,34 @@
+Dear Dr. KUANG,
+
+I hope this email finds you in good spirits and with a smooth workflow.
+
+First of all, I would like to take this opportunity to express my sincere gratitude again for your kind attention and valuable guidance during my recent PhD interview. Your insights and suggestions have left me with profound reflections and great inspiration, and I am even more eager to learn and communicate further under your guidance.
+
+I am writing to follow up on the kind proposal you mentioned during the interview which is about the visit to the laboratory. Earlier, I sent an email to the team to share my WeChat ID ([yzoney]) for more convenient communication, as you suggested. And also may I kindly ask for your WeChat account, so that I can take the initiative to add you as a contact, which will facilitate our subsequent communication regarding the laboratory visit and other related matters. Thank you!
+
+In addition, I am very looking forward to the opportunity to visit the laboratory and learn about the cutting-edge research progress and experimental environment there. Could you please let me know if you have any available time at the end of this month or next month that can be scheduled in advance? I will fully adjust my schedule according to your arrangement to ensure that the visit can proceed smoothly without affecting your work.
+Please feel free to let me know if there is any information I need to prepare in advance for the visit, or if you have other requirements. I will actively cooperate with all arrangements.
+
+Besides, I plan to complete my PhD application through HKU's official system before December, and the personal proposal is a key part of the application. I am currently focusing on polishing this proposal and wonder if it would be possible for you to spare some time to review it and provide guidance once I finish it in the near future. Your professional advice will be of great significance to help me improve the quality of the proposal, and I would be extremely grateful for your help. As guided by you in the meeting before, my personal proposal will revolve around two core points. 
+
+1) Aiming at the problem of poor robustness when algorithms are put into practice—even though the algorithms themselves are mature—I propose to strengthen the connection in engineering. Specifically, we can ensure the stable application of algorithms by optimizing engineering settings, guiding users to input information correctly, standardizing processes and the external operating environment of algorithms.
+2) Algorithms need an integrated system to realize better deployment. This process not only requires the support of software engineering capabilities, but also needs in-depth understanding of algorithms: knowing how to arrange, set and call algorithm processes, reasonably open parameters, and dynamically adapt different algorithms according to different scenarios. Only in this way can the comprehensive performance of algorithms be brought into full play.
+
+Once again, thank you for your kindness and support. I am looking forward to your reply and the upcoming visit opportunity.
+
+Wishing you all the best in your work and life!
+
+Sincerely,
+
+Xiangru ZHOU
+The Hong Kong Polytechnic University
+
+让AI说：
+我的PR可以像上次开会提到的这样包含以下这两点：
+1、落地的时候鲁棒性不好，虽算法成熟，但是可以在工程方面进一步接洽，通过工程的合理设置、弥补，引导用户正确输入，规范流程和算法的外部运行环境等，去更好地保证算法落地
+2、算法需要有一个综合的东西来整合起来，以便更好地部署，这期间，不仅仅需要软件工程能力的支持，更需要深入了解算法，知道如何安排，设置和调用算法流程，合理开放参数，以及根据不同场景动态适配不同算法，这样才能更好地发挥出算法的综合水准
+
+
+还有，多加一点，上次提到了需要在12月前提交学校的PhD申请（里面要写personal proposal），请问我近期写好后是否可以帮我看一下，给我一些指导意见？不胜感激，我的personal proposal将会像上次提到一样，包含以下这两点，并围绕展开相关的话题：
+1、落地的时候鲁棒性不好，虽算法成熟，但是可以在工程方面进一步接洽，通过工程的合理设置、弥补，引导用户正确输入，规范流程和算法的外部运行环境等，去更好地保证算法落地
+2、算法需要有一个综合的东西来整合起来，以便更好地部署，这期间，不仅仅需要软件工程能力的支持，更需要深入了解算法，知道如何安排，设置和调用算法流程，合理开放参数，以及根据不同场景动态适配不同算法，这样才能更好地发挥出算法的综合水准

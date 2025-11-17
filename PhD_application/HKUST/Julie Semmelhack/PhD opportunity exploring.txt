@@ -1,0 +1,39 @@
+我想向一位教授套磁，这是她的实验室网站：(https://semmelhacklab.com/)，实验室的研究方向如下：
+Neural circuits for visual behavior
+MIN_pc example
+Overlay of head-fixed larva responding to a prey stimulus
+A fundamental question in visual neuroscience, and in neuroscience generally, is how sensory information is represented within the brain and transformed into a behavioral response. In order for an animal to respond to a visual stimulus, the pattern of photons falling on the retina must be classified as a particular type of stimulus, and the brain must generate a spatially appropriate behavior, e.g. toward or away from the stimulus.
+
+The goal of my research is to understand how neurons at different levels of the visual system represent the key features of the stimulus, and how this information is read out and transformed into a motor command.
+
+
+Coronal and sagittal views of the imaging volume
+Techniques
+We use 2-photon imaging with an electrically tunable lens to record from a large volume of the zebrafish brain while presenting visual stimuli and recording behavior. This allows us to record the activity of individual neurons and analyse the populations of neurons that are activated by particular stimuli or during visual behaviors.
+
+We also use holographic 2-photon optogenetics to selectively manipulate groups of neurons and asses their impact on function and behavior.
+
+The prey capture strike
+
+
+When zebrafish larvae detect a small moving prey object, they converge their eyes and begin to turn toward and approach the prey. Then, when they are close to the prey, they execute the final phase of prey capture, the strike, and suck the prey into their mouths. We developed a head-fixed strike assay to study the cues that larvae use to estimate distance to prey. We found that stimulus contrast is a key factor in determining whether larvae strike, and could be used as a distance cue. We are now using functional imaging to identify the neurons that respond to the stimuli that evoke strikes, to better understand the neuronal basis for distance estimation.
+
+Visually evoked defensive behaviors
+
+
+Freezing (blue) and hunting-correlated neurons (red)
+Avoiding predators is a key task of the nervous system, and animals have evolved a conserved set of defensive behaviors to respond to potential threats. In many animals, a dark looming visual stimulus evokes escape, and a sweeping stimulus of constant size causes freezing. We found that zebrafish larvae freeze in response to a sweeping stimulus, and we are using volumetric two photon imaging to identify the neurons that respond to the stimulus and those that are correlated with the behavior. Future experiments will focus on how the freezing response can suppress other behaviors such as prey capture, and how larvae decide to escape or freeze in response to a potential predator.
+
+然后我去年曾经联系过一次教授，今年我准备再联系一次，看看有没有新的PhD机会，我这封信想这样写：
+【
+教授您好，我去年曾经关注过您的实验室并向你发过邮件。但是当时对实验室的情况没有进一步了解，所以后来没有持续与您联系，非常抱歉！
+
+在进一步学习了您的相关课题和查阅了相关的资料后，尽管还是有很多地方不懂，但我意识到了斑马鱼其实是一种研究生物学重要的模式生物，在。。。。（帮我补充这部分内容）方面有重要的实践应用，与果蝇、小鼠、大鼠（列举一些最重要的模式生物）一样重要。。。在生物学中，特别是研究神经生物学，斑马鱼可以。。。。。。。（帮我补充这部分内容）
+
+我今年来是想继续向您explore是否有新的PhD招生计划？在进一步学习了一些分子生物学知识后，我意识到，或许可以利用我的计算机技术和图像处理知识，为实验的观察进一步提供便利，比如：
+在文章"A dedicated visual pathway for prey detection in larval zebrafish"中，使用了SVM来进行斑马鱼行为的分类，这里可以利用更好的深度学习神经网络来行分类，比如一些CNN网络，使用U-Net等，在分类的同时可以分割出斑马鱼的识别部位，以更好地定位其不同的类别中的细微姿态差别。甚至还可以在拍摄的同时就一边拍摄一边使用神经网络推理获得结果，从而先进行一个粗分类，使用mobilenet等快速推理的网络搭配上现在比较强的算力，即可以做到实时分类或预警。
+
+或者是从神经分子生物学的角度，结合我在过年一年里做过的分子生物学模拟来给您实验室的zebrafish的视觉回路研究提供新的研究途径，比如：
+在文章"Propagation of olfactory information in Drosophila"中提到“钙成像显示，同一肾小球的 ORN 轴突与 PN 树突的气味诱发钙活性高度相关”，可以利用Molecular Dynamic的方法，进一步研究神经递质的传递过程等。
+】
+按照这个思路来写，帮我补充相关部分内容，并先给出中文版本。
