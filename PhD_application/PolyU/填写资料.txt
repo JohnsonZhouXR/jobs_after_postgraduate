@@ -1,0 +1,227 @@
+Refree - 1
+Ruiyu	LI
+Shenzhen SmartMore Information Technology Co., Ltd
+Cofounder
+Former Supervisor
+ryli@smartmore.com
++8613058014285
+
+
+Refree - 2
+Jinbo	JIANG
+Department of Applied Physics, The Hong Kong Polytechnic University
+Adjunct Associate Professor
+Lecturer
+jinbojiang@astri.org
++85234062802
+
+
+Academic Qualification - 1
+
+Master of Science in Microelectronics Technology and Materials
+
+01/
+09/
+2024
+
+15/
+10/
+2025
+
+Credit
+
+3.13	4.3
+
+
+Academic Qualification - 2
+
+Bachelor of Engineering in Microelectronics
+
+01/
+09/
+2009
+
+03/
+07/
+2013
+
+Student Record Verification (Required for current study only)
+855205094986
+
+Qualification Certificate Verification
+756019297724
+
+Degree Certificate Verification
+XPN14QYGWCW9NQ03
+
+Official Mark/GPA
+81.18	100
+
+
+
+
+Work Experience1
+
+21/
+05/
+2020
+
+01/
+09/
+2024
+
+Information Technology
+
+SMARTMORE CORPORATION LIMITED
+Software Development Engineer
+
+Software Development Engineer, C++ coder and solution provider.
+Key Projects:
+Wafer ID Reader Wafer OCR Code Reader Integrated Machine Project
+Defect Detection System for SONY Labels
+BGI Genomics Reagent Bottle Testing
+Detection Of Label Marks
+Specific String OCR System for Arbitrary Orientations on Tags
+Character Recognition System for Apple Watch Bands Using Laser Engraving Technology
+Defect Detection System for Apple Watch Bezels Using 3D Imaging Technology
+
+
+Work Experience2
+
+02/
+07/
+2016
+
+20/
+05/
+2020
+
+Information Technology
+
+SHENZHEN PHDI CORPORATION LIMITED
+CTO
+
+Co-founder, CTO
+Key Projects:
+Android Software for A Car-Mounted Mobile Phone Controller
+Voice Training and Recognition Program Based on The Kaldi Framework
+Android Platform Character Recognition OCR Software
+Face Recognition and Tracking Software on The Android Platform
+
+
+Work Experience3
+
+26/
+04/
+2014
+
+01/
+07/
+2016
+
+OPT MACHINE VISION TECH CO., LTD.
+Algorithm Engineer
+
+Image processing algorithm engineer
+Key Projects:
+One-Dimensional Barcode Localization and Recognition Algorithm
+Two-Dimensional Barcode Localization and Recognition Algorithm
+Rapid Edge And Circle Detection Algorithm
+
+
+
+
+1. Please provide your past experience or participation in research projects (max. 7,500 characters including spaces).
+------------------------
+During my master’s studies at The Hong Kong Polytechnic University (Sep. 2024 – Oct. 2025), I participated in a research project titled “Phase Transition Mechanism and Potential Function Adaptation of CsPbBr₃ under a Cross-Platform Molecular Dynamics Simulation Framework,” under the guidance of my supervisor. Focusing on perovskite material CsPbBr₃, a key candidate for optoelectronic and biomedical applications, the project aimed to reveal its phase transition mechanisms and optimize potential functions for molecular dynamics (MD) simulations. My core responsibilities included: (1) Utilizing LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) to build cross-platform MD simulation models, integrating AI-driven MD tools such as DeePMD and GPUMD to enhance simulation accuracy; (2) Preprocessing and analyzing simulation data (e.g., atomic trajectory, energy variation) using Python and OVITO, extracting key features of phase transitions (e.g., lattice parameter changes, atomic arrangement evolution); (3) Collaborating with the research team to adjust potential function parameters, validating simulation results against experimental data to improve model reliability. This experience deepened my understanding of integrating AI with molecular dynamics—critical for exploring biomolecular mechanisms in neuroscience—and honed my skills in scientific computing, data analysis, and interdisciplinary collaboration.
+Prior to my master’s program, my 10+ years of engineering R&D experience included multiple project roles that aligned with neuroscience research needs, particularly in AI-driven image processing and system integration. As the AI-Driven Robotic Arm Project Leader at SMARTMORE CORPORATION LIMITED (May 2024 – Sep. 2024), I led the development of a dual-branch system combining “traditional hand-eye calibration + image recognition” and “Transformer-based action prediction.” Key contributions: (1) Integrated Intel Realsense/structured light 3D cameras with a 7-axis robotic arm, deploying conversational and vision models to enable real-time interaction between visual, auditory, and motor systems—mirroring the sensory-motor integration research in neuroscience; (2) Optimized Transformer models to predict robotic arm actions using joint data and task descriptions, achieving low-latency (≤10ms) responses without manual calibration, which polished my expertise in AI model deployment and real-time data processing.
+In the “Wafer ID Reader” project (Oct. 2021 – Sep. 2024), a deep learning-based OCR tool for the semiconductor industry, I collaborated with algorithm teams to design end-to-end solutions from requirement analysis to deployment. The tool matched or exceeded the performance of industry leader Cognex (100% recognition rate for fixed formats vs. 99.5% for Cognex), demonstrating my ability to develop high-precision image analysis algorithms—transferable to processing neuroimaging data (e.g., two-photon imaging, fMRI). Additionally, as a collaborator on the BGI Genomics Reagent Bottle Inspection project (Oct. 2022 – Feb. 2023), I developed AI models for real-time monitoring of reagent bottle seals and OCR-based character detection on colored backgrounds, refining my skills in defect detection and low-signal-to-noise ratio (SNR) image processing—valuable for analyzing subtle neural activity patterns in imaging data.
+As Co-founder and CTO of SHENZHEN PHDI CORPORATION LIMITED (Jul. 2016 – May 2020), I led the development of an Android-based car-mounted Bluetooth controller, overseeing schematic design, PCB layout, 3D printing of casings, and software programming (TI CC2540 chip). This project integrated hardware-software co-design and real-time data transmission, equipping me with the capability to develop custom experimental devices for neuroscience (e.g., miniaturized data acquisition modules). I also designed an Android-based face recognition system (Jul. 2016 – May 2017) using OpenCV, Caffe, and VGG Net, integrating BP neural networks for gender recognition and face tracking—applying computer vision to biological feature analysis, a foundational skill for processing neuronal imaging data.
+Earlier, at OPT MACHINE VISION TECH CO., LTD. (Apr. 2014 – Jul. 2016), I developed 1D/2D barcode localization and recognition algorithms, achieving real-time (≤10ms) processing on low-performance i3 PCs for 2-megapixel images. I also designed rapid edge and circle detection algorithms using non-Hough fitting methods, which enhanced my ability to extract structural features from complex images—directly applicable to segmenting neurons and neural circuits in neuroimaging data.
+Collectively, these projects span AI model development, image processing, molecular dynamics simulation, and software-hardware system integration, with a consistent focus on high-precision, real-time data analysis and system optimization. These experiences have equipped me with the technical toolkit to address core challenges in neuroscience research, such as neuroimaging data processing, biomolecular simulation, and experimental tool development.
+
+
+2. Please provide your proposed research topic (max.500 characters including spaces).
+---------------
+General field: Interdisciplinary research of AI, engineering technology and neuroscience. Specific research question: How to develop integrated software-hardware tools (integrating image processing, AI, molecular dynamics simulation) to automate neuroimaging data analysis, optimize neural circuit activity quantification, and assist in revealing the molecular and circuit mechanisms underlying sensory information processing and behavioral regulation.
+
+
+3. Please provide your proposed research plan for research postgraduate research (max. 7,500 characters including spaces). The description should include the general field of the research; the specific research question(s) or project aims; the research methodology or approach; your experience, participation in research projects, or preliminary results that support the feasibility of the work (if applicable); the significance, originality and/or anticipated impact of the work.
+----------------
+1. General Field of Research
+This research focuses on the interdisciplinary intersection of Biomedical Imaging, Instrumentation, Sensing and AI, Molecular, Cellular and Tissue Engineering, and Neuroscience. It aims to develop an integrated AI-driven computational platform for intelligent analysis of neural cellular/molecular imaging data and optimization of neural molecular dynamics simulations, integrating engineering technology with neuroscience research to enhance the efficiency and precision of studies on neural circuits, cell functions, and neurodegenerative disease mechanisms.
+2. Specific Research Questions & Project Aims
+2.1 Core Research Questions
+How to design a multi-modal framework integrating AI and traditional image processing to achieve high-precision automatic segmentation, tracking, and functional annotation of neural cells (neurons, glial cells) and molecular structures (synapses, neurotransmitter receptors)?
+Can a hybrid AI-traditional computing platform optimize neural molecular dynamics simulations, reducing costs while maintaining accuracy to support research on neural molecular interactions (synaptic transmission, disease-related protein aggregation) in neural tissue engineering?
+How to develop miniaturized wireless sensing tools to enable real-time data feedback between in vitro neural cell/organoid cultures and computational platforms, forming a closed-loop optimization system for neuroscience research?
+2.2 Project Aims
+Develop a neural cellular/molecular imaging analysis toolkit supporting automatic segmentation, tracking, and quantitative analysis of neural cells and synapses with accuracy >95%.
+Build a hybrid neural molecular dynamics simulation platform, optimizing GROMACS/LAMMPS via GPU acceleration and AI tuning to reduce simulation time by over 40%.
+Design a sensing module for real-time monitoring of neural cell/organoid culture microenvironments (temperature, pH, neurotransmitter levels, etc.), enabling seamless integration with the computational platform.
+Validate the platform’s application value in neuroscience research through case studies such as neural cell migration analysis in neural tissue engineering and molecular simulation in neurodegenerative disease drug development.
+3. Research Methodology & Approach
+3.1 Phase 1: Imaging Analysis Toolkit Development (Months 1-8)
+Data Processing: Collaborate to collect neuron fluorescence images, neural organoid scaffold images, etc., construct labeled datasets, and perform data augmentation.
+Algorithm Design: Integrate CNN (U-Net) for segmentation, Transformer for dynamic tracking, and traditional image processing algorithms; develop a QT one-click analysis interface.
+Model Validation: Train models using DSC and mIoU metrics, and verify robustness on public brain imaging databases.
+3.2 Phase 2: Hybrid Simulation Platform Construction (Months 9-16)
+Tool Optimization: Modify GROMACS/LAMMPS source code to implement CUDA-based GPU acceleration and add custom modules adapted for neural molecular simulations.
+AI Module: Build a PyTorch-based model to predict neural molecular interaction potentials, complementing traditional simulation results.
+Platform Integration: Design a hybrid workflow and integrate with HPC to support large-scale computing of complex neural molecular systems.
+3.3 Phase 3: Wireless Sensing & Closed-Loop System Development (Months 17-24)
+Sensing Module: Develop a miniaturized sensor using STM32 and Bluetooth modules, add neurotransmitter detection functionality, optimize PCB layout, and 3D-print the shell.
+Data Integration: Establish transmission protocols and develop feedback logic to adjust simulation/analysis parameters based on real-time culture microenvironment data.
+3.4 Phase 4: Platform Validation & Optimization (Months 25-36)
+Case Validation: Apply the toolkit to neural cell migration analysis, use the hybrid platform to study drug-pathogenic protein interactions, and verify with in vitro experimental data.
+System Optimization: Iteratively improve algorithm efficiency, sensor stability, and user experience based on validation results in neuroscience scenarios.
+4. Feasibility Support: Relevant Experience & Preliminary Achievements
+4.1 Technical Experience Alignment
+Biomedical Imaging: Over 10 years of experience, proficient in core skills such as image segmentation and dynamic tracking, directly applicable to neural imaging analysis.
+AI & Simulation: Led AI-traditional hybrid system projects, proficient in tools like LAMMPS, with the ability to extend to neural molecular simulations.
+Hardware-Software Integration: Capable of independently developing miniaturized sensing modules, with the ability to expand functionality for neurotransmitter detection.
+4.2 Preliminary Achievements
+Patents: 12 invention patents related to AI image recognition and system integration, supporting platform development.
+Performance Validation: Developed AI tools with precision over 99.7%, on par with industry leaders, transferable to neural cell/synapse quantitative analysis.
+5. Significance, Originality & Anticipated Impact
+5.1 Research Significance
+Academic Value: Addresses pain points such as time-consuming neural imaging analysis and high simulation costs, promoting interdisciplinary collaboration between engineering, AI, and neuroscience.
+Practical Value: Provides an integrated platform for neural tissue engineering, neurodegenerative disease research, and drug development, shortening research cycles.
+5.2 Originality
+Hybrid Integration: Combines AI and traditional methods to enhance adaptability to complex neural systems.
+Closed-Loop Model: Connects in vitro culture sensing with computational analysis, enabling real-time feedback between experiments and simulations.
+5.3 Anticipated Impact
+Efficiency Improvement: Reduces neural imaging analysis time to minutes and simulation costs by over 40%, accelerating neuroscience research progress.
+Application Expansion: Adaptable to multiple scenarios such as neuron monitoring and early disease diagnosis, with commercialization potential.
+Talent Development: Fosters interdisciplinary skills to meet the talent needs of intelligent neuroscience research and related industries.
+
+4. Reasons for wishing to pursue research postgraduate research studies in Hong Kong (max. 2,000 characters including spaces).
+----------------------
+ I am eager to pursue PhD studies in Hong Kong for three core reasons. First, Hong Kong’s world-class academic ecosystem offers unparalleled interdisciplinary research support. Its universities excel in both engineering and neuroscience, fostering seamless collaboration between technical and biomedical teams—critical for my research at the intersection of AI, engineering, and neuroscience. The access to cutting-edge facilities (e.g., high-performance computing clusters, advanced imaging equipment) and top-tier faculty with global research networks will provide invaluable guidance for my project.
+Second, Hong Kong’s unique position as an international hub promotes academic diversity and knowledge exchange. As a long-term resident proficient in Cantonese, Mandarin, and English, I can fully engage with researchers from diverse backgrounds, enriching my perspectives and facilitating cross-border collaborations. The city’s emphasis on innovation also aligns with my goal of translating technical breakthroughs into practical neuroscience tools, supported by a vibrant ecosystem connecting academia, industry, and clinical institutions.
+Finally, Hong Kong’s research environment prioritizes academic freedom and impact-driven inquiry. The funding support for interdisciplinary projects and the emphasis on solving real-world challenges (e.g., advancing neurological disease research) resonate deeply with my aspirations. Pursuing a PhD here will not only enhance my technical and research capabilities but also enable me to contribute to global neuroscience progress while leveraging the city’s advantages for future career development in academia or industry.
+
+5. Long-term career plan, aims and interests for future development after graduation (max. 2,000 characters including spaces).
+--------------
+My long-term career vision is to become a leading interdisciplinary researcher bridging AI, engineering, and neuroscience, dedicated to translating technical innovations into practical solutions for neuroscience research and clinical applications.
+In the short term (3–5 years post-graduation), I aim to join a top academic institution or research-driven enterprise. I will continue refining the integrated software-hardware system developed during my PhD, expanding its application to more neuroscience subfields (e.g., developmental neurobiology, neuropharmacology) and validating it in large-scale clinical trials. Meanwhile, I will collaborate with clinicians to optimize the tool for diagnosing neurological diseases, striving to make it a standardized auxiliary tool in clinical settings.
+In the medium term (5–10 years), I plan to establish an independent research team focusing on AI-driven neuroscience technology innovation. My team will explore cutting-edge directions such as real-time neural circuit imaging analysis, AI-aided personalized treatment planning for neurological disorders, and the integration of brain-computer interfaces (BCIs) with our existing system. I aim to publish influential research in top interdisciplinary journals, secure competitive research grants, and promote the industrialization of core technologies to benefit more researchers and patients.
+In the long term, I aspire to lead breakthroughs in the application of AI and engineering to neuroscience, addressing unmet needs such as early diagnosis of neurodegenerative diseases and precise modulation of neural circuits. I hope to foster deeper collaboration between engineering and biomedical communities, advocating for the development of more user-friendly, accessible technical tools that lower the barrier for interdisciplinary research. Ultimately, I aim to contribute to improving global neurological healthcare outcomes through sustained technological innovation and cross-field cooperation.
+
+
+6. Contribution that you would like to make to the development of research in Hong Kong and to the society (max. 2,000 characters including spaces).
+-------------------------
+I aim to contribute to Hong Kong’s research advancement and social development through three key dimensions, leveraging my interdisciplinary expertise in AI, engineering, and neuroscience.
+First, in research development, I will strengthen Hong Kong’s leading position in interdisciplinary innovation. By developing integrated software-hardware tools for neuroscience, I will address technical gaps in local neuroimaging analysis and molecular dynamics simulation, enhancing research efficiency and accessibility. I will collaborate with local universities and research institutions to share technical resources, co-publish high-impact papers, and join regional research consortia—fostering a vibrant cross-field collaboration ecosystem. Additionally, I will mentor young researchers, transferring engineering and AI skills to nurture a talent pool bridging technology and biomedicine, supporting Hong Kong’s long-term competitiveness in global neuroscience.
+Second, in societal impact, I will translate research into practical neurological health solutions. Hong Kong’s aging population faces growing challenges from Alzheimer’s, epilepsy, and other diseases; my AI-driven tools will enable early detection of abnormal neural activity and precise preclinical research, laying the foundation for improved diagnostics and treatments. I will partner with local hospitals and clinical institutions to validate and deploy these tools, reducing healthcare burdens and enhancing patients’ quality of life.
+Finally, I will promote knowledge exchange and innovation dissemination. As a multilingual researcher, I will organize workshops and outreach activities to popularize neuroscience and AI, inspiring public interest and nurturing young talent. Leveraging Hong Kong’s international hub status, I will connect local research with global networks, attracting international collaborations and investment—driving academic progress and the development of Hong Kong’s biomedical and tech sectors.
+
+
+7. Other information in relation to the application for Fellowship & Scholarship (max. 2,000 characters including spaces), if applicable.
+-----------
+N/A
+
+
+
+
+ID: 身份证和护照

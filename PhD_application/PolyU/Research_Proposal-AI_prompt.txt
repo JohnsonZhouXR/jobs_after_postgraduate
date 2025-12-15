@@ -1,0 +1,87 @@
+我正在向The Hong Kong Polytechnic University的一众实验室（https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/）投递PhD申请，这些实验室所做的工作大致分为以下几个方向：
+Biomedical Imaging, Instrumentation, Sensing and AI
+Molecular, Cellular and Tissue Engineering
+Prosthetics, Orthotics, Smart Ageing and Rehabilitation Engineering
+Sports and Neuromusculoskeletal Engineering
+
+我想都涉及到这些方向，但其中这两个方向我更感兴趣一些：
+Biomedical Imaging, Instrumentation, Sensing and AI
+Molecular, Cellular and Tissue Engineering
+
+请根据我上传的CV文件（CV-Xiangru_ZHOU-250923-A.pdf）以及cover letter（cover_letter-251129.txt）和提纲（如下），帮我写一份research proposal（先用中文写）：
+
+提纲：
+{
+我叫周相如，是一名软件算法程师，有着10+年的图像处理算法和软件开发经验。正满怀希望地向生物医学工程转型，希望可以利用自己的计算机背景技术为生物医学工程领域添砖加瓦。
+
+我计划通过将【Biomedical Algorithm】 integrate到 【Engineering】中，利用自己的工程能力再deployed到【Clinic和practicle/application】的场景，最后通过真实的【Clinic和practicle/application】场景中的应用和数据采集、结果反馈等等，又可以feedback回【Biomedical Algorithm】，以帮助算法更好地优化和升级，完成良性闭环循环。
+
+具体地来说，分为下面这些步骤：
+【Biological Theory】
+1.Theory to be Learned
+1) Neurobiology : Underlies understanding of visual/hippocampal neural circuits and coding.
+2) Cell Biology : Clarifies neuronal/synaptic structures and dynamic processes (e.g., vesicle fusion).
+3) Molecular Biology : Connects molecules to neural activity. 
+【Molecular Dynamics】
+通过Molecular Dynamics更好地模拟细胞活动（如神经递质分子等等），进一步reveal细胞和更多的生命机制（如神经传导的机制等），更好地解答生物中不同生理现象中的的machanism
+
+【Engineering】
+1.Image Processing Integration
+Integrate image processing with camera image capture, communication, inference, result display & feedback, and UI interaction into an automated software workflow, eliminating the need for separate operation of each link on different devices.
+
+2.Image Auto Collection & Sorting
+Use classification models or preset rules to automatically name, classify and store collected images and data, serving subsequent data processing, model training & validation, and data augmentation.
+
+3.User Friendly Interface Software Development
+Develop visual interfaces via QT or similar tools, encapsulate complex algorithms and processes, and lower the threshold for medical staff and technicians to use AI and algorithms.
+
+4.AI System Deployment & Adjustment
+Deploy adaptive versions based on computing power and platforms of different clinical scenarios to ensure algorithm coverage across various application scenarios.
+
+5.AI Acceleration
+Depending on project requirements, accelerate model training, inference validation in the lab, and speed up offline clinical inference using methods like CUDA, TBB multi-threading, or AVX instruction set optimization.
+
+6.Software + Hardware System
+Develop integrated software-hardware demos (e.g., bio-experiment chambers) via 3D printing, on-board sensors, and edge computing devices for algorithm inference; enable communication with other biological equipment, integrating functions like imaging, inference, early warning, automatic data recording, and classification.
+
+【Clinic和practicle/application】
+1.Neurobiology Devices，可以在fMRI、EEG数据分析中助力。
+Leverage image processing techniques to extract and quantify key features from fMRI data, such as functional connectivity patterns in the visual nervous system and hippocampus; integrate AI algorithms with molecular dynamics simulations to enhance EEG signal analysis, enabling precise identification of abnormal neural activity signatures and deeper insights into the neural mechanisms underlying neurological conditions.
+
+2.Clinical Analysis
+Apply AI-optimized image/neural data analysis tools to assist in preclinical/clinical research of Alzheimer’s disease, epilepsy, etc.—e.g., identifying abnormal neural activity patterns, quantifying pathological changes, and providing data support for diagnosis and treatment strategy optimization.
+
+3.帮助biology research领域制造更多的更智能的分析仪器，以更好地观察生命现象，发现生理机制，将AI技术与生物技术快速地融合到一起。
+
+4.利用AI、图像处理和计算机技术在更多生物领域帮助分析数据、处理和加工数据，使得未知领域的生物生理机制和theory更容易被发现和完善。进一步助力生物研究。
+
+5.从医院角度帮助患者康复等等。
+
+6.从制药角度帮助，以更好地research出更佳的药物递送方式，开发更高效更安全的药物。
+
+我从很早起便持续关注了人工智能、图像处理和计算机技术在生物医学工程领域的相关应用，从神经科学，到细胞培养，再到医学图像分析（如CT、MRI的医学影像分析等），我坚信在未来，生物医学工程领域在AI计算机技术的大力推动下，一定会迎来爆发式的突破。所以我希望向这个领域转型，依靠自己多年的技术经验累积，与生物医学领域的专家密切合作，并尽可能多地让自己掌握跨领域相关的生物医学知识，以更好地make the procedure smooth。希望通过努力，在生物医学工程领域贡献自己的一份力量。
+}
+
+
+另外，需要注意的是，要按下面的格式来写(按每个点来回答，结合每个点后面的线索)
+
+2. Project Title:
+(起一个简洁且响亮的名字)
+
+3. Project Objectives: (Purpose of proposed investigation)
+
+4 .Scope and Background of Research:
+(Please identify key issues/problems to be addressed)
+
+5. Research Methodology:
+
+6. Project Significance and Value:
+
+7. Details of Any External Collaboration:
+(需要和医工团队合作，和生物研究院或者医院合作，提供实验环境、器材、以及临床环境等)
+
+8. In these circumstances, are there likely to be any complications associated with the publication of your thesis? Give details.
+(作为一个高度interdisipline的领域，可能会遇到很多跨学科合作的难题，
+另外医学方面如果涉及到人数据收集也可能会有伦理和隐私问题，数据收集难度大，
+[多说一些可能会遇到的问题....]
+)

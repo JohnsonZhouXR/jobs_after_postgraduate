@@ -37,3 +37,5 @@ Avoiding predators is a key task of the nervous system, and animals have evolved
 在文章"Propagation of olfactory information in Drosophila"中提到“钙成像显示，同一肾小球的 ORN 轴突与 PN 树突的气味诱发钙活性高度相关”，可以利用Molecular Dynamic的方法，进一步研究神经递质的传递过程等。
 】
 按照这个思路来写，帮我补充相关部分内容，并先给出中文版本。
+
+studies. Thank you so much for your time and consideration!
