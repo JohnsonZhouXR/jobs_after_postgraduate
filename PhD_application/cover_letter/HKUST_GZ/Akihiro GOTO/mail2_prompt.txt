@@ -1,0 +1,27 @@
+我向教授套磁，给他了发下面这封邮件：
+
+得到了教授的回复：
+
+
+现在我想按下面的思路给教授回信，帮我润色并给出中文和英文版：
+Dear Prof. Akihiro GOTO,
+
+Thank you for your prompt reply. 很高兴听到你们正在招收图像和编程方面相关的PhD。正如上一封信件所说我正在朝计算机技术(尤其是图像方面的)+AI+生物医学方向努力。
+
+I was previously a big fan of BCI(脑机接口)，对马斯克的项目也一直关注，作为非生物医学专业领域的人员，我粗略地了解了BCI之父miguel nicolelis的相关文献，目前更多聚焦于治疗和rehabitation of 帕金森或瘫痪病人等。同时我也了解了一些香港相关的BCI项目，如“Hand of hope”。经过一段时间的了解后，我发现目前即使是侵入式电极(无论Neuralink在大脑皮层的N1芯片利用了1024根柔性电极还是Synchron选择的从脑血管用支架的方式读取)，似乎对脑信号的读取仍是十分有限，对脑信号利用各仍处在比较早期的实验室探索阶段。同时我也流到目前市场上更为成熟的BCI相关技术，那就是人工耳蜗。
+
+所以，到这里我想回答关于您留给我的两个问题：
+1. 我对neuroscience中的人工耳蜗技术特别感兴趣，特别是在拜读了您的文章"Dispensable role of Rac1 and Rac3 after cochlear hair cell specification“和“Maintenance of stereocilia and apical junctional complexes by
+Cdc42 in cochlear hair cells”后，分别从基因编辑层面研究了Rac1 & Rac3和Cdc42在耳蜗毛细胞中的功能和机制，让我大为震撼。我相信BCI技术一定是融合生物和电子的技术，两样技术如果完美地契合起来，或许能在这个领域有更多的突破。
+
+2. I highly respect the basic policy in your lab, which usually hire students as RAs first, then offer them PhD positions. 目前我确实在生物医学方面是个layperson，当RA也是一个自我提升学习和探索的过程。我十分同意这个做法，并且会充分利用自己的工程背景，为实验室贡献的同时努力提升生物和医学知识，以尽快catch up上实验室的进度。如果一切顺利，我非常希望可以在Fall 2026入学，并加入实验正式成为一名PhD student，在Neuroscience领域学习和探索更多的前尚技术。
+
+作为不是生物医学领域的门外汉，我上面的许多描述和理解难免存在很多错误之处，还请教授见谅和海涵，但是如果有机会进入实验室，我会尽快补足自己的知识短板，以走上正轨。
+
+我家就在港科广校园附近，如果教授您有时间，我可以随时去做一次presentation，介绍我的背景和相关情况。并期待参观实验室向您和team了解更多实验室当前的动态。
+
+I look forward to your reply.
+
+Best regrads,
+
+ZHOU Xiangru.
